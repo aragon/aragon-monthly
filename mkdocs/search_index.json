@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Aragon Monthly", 
+            "title": "Front Page"
+        }, 
+        {
+            "location": "/#aragon-monthly", 
+            "text": "", 
+            "title": "Aragon Monthly"
+        }
+    ]
+}
