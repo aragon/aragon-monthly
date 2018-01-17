@@ -4,9 +4,125 @@
     
     <url>
      <loc>https://monthly.aragon.one/</loc>
-     <lastmod>2018-01-16</lastmod>
+     <lastmod>2018-01-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>https://monthly.aragon.one/news/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/news/daos/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/news/aragon/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/news/district0x/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/news/ecosystem/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://monthly.aragon.one/articles/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://monthly.aragon.one/classifieds/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://monthly.aragon.one/contributors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/contributors/editors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/contributors/reviewers/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/contributors/contributors/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://monthly.aragon.one/contributors/columnists/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://monthly.aragon.one/newsletter/</loc>
+     <lastmod>2018-01-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

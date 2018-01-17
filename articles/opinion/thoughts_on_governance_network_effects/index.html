@@ -1,0 +1,986 @@
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Aragon Monthly, a community curated monthly digital newspaper about DAOs and the Aragon ecosystem">
+      
+      
+        <link rel="canonical" href="https://monthly.aragon.one/articles/opinion/thoughts_on_governance_network_effects/">
+      
+      
+      
+        <link rel="shortcut icon" href="../../../images/favicon.ico">
+      
+      <meta name="generator" content="mkdocs-0.16.3, mkdocs-material-1.10.1">
+    
+    
+      
+        <title>Thoughts On Governance and Network Effects - Aragon Monthly</title>
+      
+    
+    
+      <script src="../../../assets/javascripts/modernizr-e826f8942a.js"></script>
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/application-a20f419c8e.css">
+      
+        <link rel="stylesheet" href="../../../assets/stylesheets/application-23f75ab9c7.palette.css">
+      
+    
+    
+      
+        
+        
+        
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson Text:300,400,400i,700|Crimson+Text">
+        <style>body,input{font-family:"Crimson Text","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Crimson Text","Courier New",Courier,monospace}</style>
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    
+  </head>
+  
+  
+  
+  
+    <body data-md-color-primary="grey" data-md-color-accent="cyan">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448" viewBox="0 0 416 448" id="github"><path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19T128 352t-18.125-8.5-10.75-19T96 304t3.125-20.5 10.75-19T128 256t18.125 8.5 10.75 19T160 304zm160 0q0 10-3.125 20.5t-10.75 19T288 352t-18.125-8.5-10.75-19T256 304t3.125-20.5 10.75-19T288 256t18.125 8.5 10.75 19T320 304zm40 0q0-30-17.25-51T296 232q-10.25 0-48.75 5.25Q229.5 240 208 240t-39.25-2.75Q130.75 232 120 232q-29.5 0-46.75 21T56 304q0 22 8 38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0 37.25-1.75t35-7.375 30.5-15 20.25-25.75T360 304zm56-44q0 51.75-15.25 82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5T212 416q-19.5 0-35.5-.75t-36.875-3.125-38.125-7.5-34.25-12.875T37 371.5t-21.5-28.75Q0 312 0 260q0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25 30.875Q171.5 96 212 96q37 0 70 8 26.25-20.5 46.75-30.25T376 64q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34 99.5z"/></svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="https://monthly.aragon.one" title="Aragon Monthly" class="md-header-nav__button md-logo">
+          
+            
+              <img src="../../../images/logo.svg" width="24" height="24">
+            
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <span class="md-flex__ellipsis md-header-nav__title">
+          
+            
+              
+                <span class="md-header-nav__parent">
+                  Articles
+                </span>
+              
+                <span class="md-header-nav__parent">
+                  Opinion pieces
+                </span>
+              
+            
+            Thoughts On Governance and Network Effects
+          
+        </span>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+          
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="search"></label>
+  <div class="md-search__inner">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" required placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <label class="md-icon md-search__icon" for="search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result" data-md-lang-search="" data-md-lang-tokenizer="[\s\-]+">
+          <div class="md-search-result__meta" data-md-lang-result-none="No matching documents" data-md-lang-result-one="1 matching document" data-md-lang-result-other="# matching documents">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/aragon/aragon-monthly" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      aragon/aragon-monthly
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+      
+        
+
+  
+
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../../.." title="Front Page" class="md-tabs__link">
+        Front Page
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../news/" title="News" class="md-tabs__link">
+          News
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../" title="Articles" class="md-tabs__link md-tabs__link--active">
+          Articles
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../classifieds/" title="Classifieds" class="md-tabs__link">
+          Classifieds
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../contributors/" title="Contributors" class="md-tabs__link">
+          Contributors
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../../../newsletter/" title="Newsletter" class="md-tabs__link">
+          Newsletter
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="drawer">
+    <div class="md-nav__button md-logo">
+      
+        
+          <img src="../../../images/logo.svg">
+        
+      
+    </div>
+    Aragon Monthly
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/aragon/aragon-monthly" title="Go to repository" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      aragon/aragon-monthly
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../../.." title="Front Page" class="md-nav__link">
+      Front Page
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      News
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        News
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../news/" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../news/daos/" title="DAOs" class="md-nav__link">
+      DAOs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../news/aragon/" title="Aragon" class="md-nav__link">
+      Aragon
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../news/district0x/" title="district0x" class="md-nav__link">
+      district0x
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../news/ecosystem/" title="Ecosystem" class="md-nav__link">
+      Ecosystem
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
+    
+    <label class="md-nav__link" for="nav-3">
+      Articles
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Articles
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-2" type="checkbox" id="nav-3-2">
+    
+    <label class="md-nav__link" for="nav-3-2">
+      Editorials
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-2">
+        Editorials
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../editorial/the_district0x_in_a_nutshell/" title="The district0x network in a nutshell" class="md-nav__link">
+      The district0x network in a nutshell
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-3" type="checkbox" id="nav-3-3" checked>
+    
+    <label class="md-nav__link" for="nav-3-3">
+      Opinion pieces
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-3">
+        Opinion pieces
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Thoughts On Governance and Network Effects
+      </label>
+    
+    <a href="./" title="Thoughts On Governance and Network Effects" class="md-nav__link md-nav__link--active">
+      Thoughts On Governance and Network Effects
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#hardware-software-and-data-are-commoditized-by-decentralization" title="Hardware, Software, and Data are commoditized by decentralization" class="md-nav__link">
+    Hardware, Software, and Data are commoditized by decentralization
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defensible-tokenization" title="Defensible tokenization" class="md-nav__link">
+    Defensible tokenization
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#loyalty-is-everything" title="Loyalty is everything" class="md-nav__link">
+    Loyalty is everything
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-governance-imperative" title="The Governance Imperative" class="md-nav__link">
+    The Governance Imperative
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#governance-as-a-service-gaas" title="Governance as a Service (GaaS)" class="md-nav__link">
+    Governance as a Service (GaaS)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" title="Conclusion" class="md-nav__link">
+    Conclusion
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-4" type="checkbox" id="nav-3-4">
+    
+    <label class="md-nav__link" for="nav-3-4">
+      Columns
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-3-4">
+        Columns
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../columns/submit/" title="Start a Column!" class="md-nav__link">
+      Start a Column!
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
+    
+    <label class="md-nav__link" for="nav-4">
+      Classifieds
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Classifieds
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../classifieds/" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+    
+    <label class="md-nav__link" for="nav-5">
+      Contributors
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-5">
+        Contributors
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../contributors/" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../contributors/editors/" title="Editors" class="md-nav__link">
+      Editors
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../contributors/reviewers/" title="Reviewers" class="md-nav__link">
+      Reviewers
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../contributors/contributors/" title="Contributors" class="md-nav__link">
+      Contributors
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../contributors/columnists/" title="Columnists" class="md-nav__link">
+      Columnists
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
+    
+    <label class="md-nav__link" for="nav-6">
+      Newsletter
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-6">
+        Newsletter
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../../newsletter/" title="Aragon Monthly Newsletter" class="md-nav__link">
+      Aragon Monthly Newsletter
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#hardware-software-and-data-are-commoditized-by-decentralization" title="Hardware, Software, and Data are commoditized by decentralization" class="md-nav__link">
+    Hardware, Software, and Data are commoditized by decentralization
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#defensible-tokenization" title="Defensible tokenization" class="md-nav__link">
+    Defensible tokenization
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#loyalty-is-everything" title="Loyalty is everything" class="md-nav__link">
+    Loyalty is everything
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-governance-imperative" title="The Governance Imperative" class="md-nav__link">
+    The Governance Imperative
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#governance-as-a-service-gaas" title="Governance as a Service (GaaS)" class="md-nav__link">
+    Governance as a Service (GaaS)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" title="Conclusion" class="md-nav__link">
+    Conclusion
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="thoughts-on-governance-and-network-effects"><a href="https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98">Thoughts On Governance and Network Effects</a></h1>
+<p><em>Author <a href="https://github.com/lkngtn">Luke Duncan / @lkngtn</a></em></p>
+<p><em>This article was originally posted in the <a href="https://blog.aragon.one/">Aragon Blog</a> on Dec 12 2017</em></p>
+<p><img alt="" src="../images/thoughts_on_governance01.png" /></p>
+<p>This post discusses governance and its impact on network effects and why both relate to how value flows and is captured within tokenized blockchain networks.</p>
+<h2 id="hardware-software-and-data-are-commoditized-by-decentralization">Hardware, Software, and Data are commoditized by decentralization</h2>
+<p>The process of commoditization turns a good or service which is highly differentiated or even unique into a fungible resource, where differences between the commodity offered by sellers in a market are low. Commoditized markets are associated with declining prices and narrow profit margins, as competitors struggle to differentiate their offerings and instead rely on price-based competition.</p>
+<ul>
+<li><strong>Hardware</strong>: Ethereum lets you pay for computation and storage on an as-needed basis by paying gas. Projects like Golem, Storj, Truebit, and others aim to further commoditize hardware through decentralized networks. Products that build on these technologies cannot rely on specialized hardware as a key differentiator.</li>
+<li><strong>Software</strong>: Open source software is commoditized, there is no difference between one instance of public code versus another instance of the same code. Since the only applications that make sense to run on a blockchain are those that benefit from trust-minimization, public source code is the standard.</li>
+<li><strong>Data</strong>: Decentralized applications rely on publicly available data sources, otherwise there is no way for the public to validate transactions. Privacy technology such as zk-Snarks may obscure public visibility, but the encrypted dataset that enables a shared state remains public.</li>
+</ul>
+<p>Products or services offered in a market like this will either compete on price, quickly driving profit margins down or seek out new ways to differentiate themselves.</p>
+<p><strong>One way to differentiate is to issue a token</strong>, even if you don’t otherwise need one. Having a token allows you to create a network effect around your product, people who hold this token will have a vested interest and prefer your product over alternatives. They will be your biggest advocates, they will shill your product to all their friends, who will jump on the band wagon, and do the same to their friends… and on and on. Or maybe not…</p>
+<p>If the market is commoditized and your competitors have at best an equivalent product to yours, issuing a token and requiring it to be used in order to access your product works (sort of like an API key). However, by forcing the use of a token when your application doesn’t require one you create a worse user experience because the user’s effective cost is unpredictable. Now if a competitor offers the same product without the restriction, it isn’t equivalent, it is objectively better. Therefore, differentiation in this way may work to some degree, but is not particularly defensible.</p>
+<h2 id="defensible-tokenization">Defensible tokenization</h2>
+<p>In a <strong>defensible token model</strong> you cannot remove the token or replace it with a different token and create a better user experience.</p>
+<p>To help reason about the <strong>defensibility</strong> of different tokenization models, identifying a baseline that all defensible token models have in common is helpful:</p>
+<ul>
+<li><strong>A</strong>: Fees are justified for <strong>services provided</strong>. The execution of arbitrary smart-contract code does not justify paying fees in excess of the gas used to validate/mine transactions.</li>
+<li><strong>B</strong>: It is not defensible to force the usage of a token in such a way that the application would work <strong>equally well or better using a different token</strong>. (e.g. a stable coin, or ETH)</li>
+<li><strong>C</strong>: Tokens which are uniquely <strong>required</strong> to incentivize or disincentivize behavior in order <strong>to provide a service</strong> accrue value relative to that services utility.</li>
+</ul>
+<p>If we agree on these statements we can immediately throw out many tokenization strategies. For example <strong>a token whose primary utility is to be the exclusive medium of exchange</strong> for transactions within a network violates all three of these statements. <strong>[A]</strong> because having to convert to the native token is an <strong>arbitrary fee</strong> unrelated to a service. <strong>[B]</strong> because in a market that requires a medium of exchange, a stable token that <strong>everyone already has</strong> works far better than the application’s native token. <strong>[C]</strong> because the token is not inherently linked to the incentivization of agents <strong>performing</strong> a service.</p>
+<p>We can also look at some models which do not violate any of these statements. Proof of Work, Proof of Stake, decentralized oracles, Token Curated Registries. Each instance of these mechanisms requires its own unique token to make the crypto-economic incentives align between multiple parties. Defensible tokenization exists at the blockchain protocol level (Proof of Work, Proof of Stake) and at the blockchain application layer (decentralized oracles, Token Curated Registries).</p>
+<p><strong>The key difference is not whether the product is a protocol or an application, but whether the network effect driven by tokenization is defensible or not.</strong></p>
+<p>However, having a defensible token model is not sufficient to maintain a strong <strong>network effect</strong>. Token balances can be copied by competitors, software and datasets can be forked, <strong>how do you ensure that your token holders are loyal and will continue to prefer your service over that of competitors?</strong></p>
+<h2 id="loyalty-is-everything">Loyalty is everything</h2>
+<p>Networks are anti-rival with network effects that push towards monopolistic competition, but commoditization driven by decentralization pushes the market towards perfect competition. Decentralized networks will either be wildly successful, or have minimal value, and the biggest factor is how well the network is able to nurture its network effect.</p>
+<p>We can understand this effect from the perspective of an individual participant using <strong>Albert Hirchman’s theory</strong> of <strong>Exit, Voice, and Loyalty</strong>. The theory says that an individual who perceives a decline in the benefit of remaining within a group may respond by <strong>Exit, leaving the group,</strong> or <strong>Voice, by proposing changes that would increase their benefit</strong>.</p>
+<p>In the context of networks built on blockchains the individual may exit by either selling their tokens, or by forking and creating a competitive product.</p>
+<p>Someone who is considering quitting Facebook not only has to quit they have to start a new service from scratch without any user accounts or data. Blockchain networks are different, a fork can replicate not just the applications software, but also the state. Now the user can quit and move over to a perfect alternative, and they can more easily convince their friends to switch as well, there is <strong>significantly less friction for exit in the context of blockchain-based networks</strong>.</p>
+<p>That’s not to say that there is no friction when exiting, network effects have inertia and most participants prefer to stay on whichever network the majority of their peers support. However, if we acknowledge that the biggest barrier to a fork is the desire to maintain a network effect, <strong>than we come to the conclusion that we must maximize Voice of network participants</strong>.</p>
+<p>The best way to maximize voice is through effective governance.</p>
+<h2 id="the-governance-imperative">The Governance Imperative</h2>
+<p>Governance processes may be formal or informal, on-chain or off-chain, the exact details are less important so long as the process is effective and legitimate enough to maintain loyalty and attract more new network constituents over time.</p>
+<p>Union Square Ventures pointed to governance as the new basis for competion nearly ten years ago. Fred Ehrsam’s recent post on governance suggests that blockchain networks will result in a Cambrian explosion of governance processes. In a tokenized ecosystem that enables rapid experimentation with governance processes, improving our governance processes is imperative. Anything that relies on a governance process today must be willing and able to rapidly adopt new processes or risk being left behind by the competition.</p>
+<p><strong>The processes that are “effective and legitimate” enough today may not be as soon as it becomes common knowledge that a better alternative exists.</strong></p>
+<p>In some cases our existing structures are complex, emergent, and not well documented and as Vlad Zamfir’s recent post against moving to on-chain governance for Ethereum points out replacing something you don’t fully understand with something you do is not necessarily wise. In other cases we are confident our current processes are problematic and need to be replaced as quickly as possible.</p>
+<p>DApp developers face the challenge of writing applications that need to be future-proof despite being deployed in an environment still under development. They must decide between immutability and upgradeability. Despite their best efforts bugs may be found in production, and it would be good if fixes could be applied quickly. Even if they choose to write immutable contracts, if users typically access their contracts through a DNS and ENS pointer, then a governance process is needed to manage that change.</p>
+<p>For a product to be decentralized, <strong>it must be impossible for a single individual or small team to unilaterally</strong> make changes. Current approaches to govern smart-contract upgradeability such as using a multi-sig are highly centralized. Whereas adopting tokenized governance transfers the authority of changes that impact the community to the community itself.</p>
+<p>DApp developers will likely be the earliest and most successful adopters of tokenized governance models. At first this may simply be a way to securely update smart contracts, but it should expand to more abstract decisions that attract and maintain a community’s network effect both at the application and at the protocol layer.</p>
+<h2 id="governance-as-a-service-gaas">Governance as a Service (GaaS)</h2>
+<p>Governance as a Service (GaaS) is a tokenization model where the primary utility of a token is governance over the protocol, application, or network.</p>
+<p>Token holders are the only party whose interest we can programmatically quantify. Other relevant parties exist, including users, developers, miners, and validators, but their interests in the network are not programatically quantifiable. By entrusting decisions which impact the network to token holders, they become the keepers of the network effect. The service they are providing is formal representation of the informal interests of all network participants.</p>
+<p><img alt="" src="../images/thoughts_on_governance02.png" /></p>
+<p>The model is defensible because <strong>[A]</strong> fees can be justified for the service token holders provide (making decisions that ensure the long term sustainability and growth of the network). If token holders do a bad job, or charge excessive fees, the network will fail, but if they do a good job they will be able to adapt to changing market conditions and be more resilient to the effects of commoditization. <strong>[B]</strong> Properties like stability are not critical to participating in governance. <strong>[C]</strong> Using a unique token is required because it quantifies a users influence in order to align incentivizes to ensure the service provided is consistent.</p>
+<p>The value of a governance token accrues relative to the importance of the decisions being made. The more people that use the product and rely on its functionality, the more important critical decisions become, the more value will flow to the governance token.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>If you’re building a product that relies on a network effect, creating a governance token or adding governance privileges to your existing token can be incredibly powerful. It increases voice for participants and makes the network effects more resilient.</p>
+<p>There are many promising approaches to token based governance including quadratic voting, liquid democracy, futarchy, and many forms of meritocracy that warrant attention.</p>
+<p>Each process has different strengths and weaknesses, some which are obvious and others which may require experimental implementations to uncover.</p>
+<p>It’s unclear what the ideal governance mechanism is, or if there is even an effective one-size-fits all mechanism. It is clear, however, that <strong>finding better mechanisms is extremely valuable</strong>.</p>
+<p>At Aragon we are building infrastructure to support these experiments. aragonOS allows for governance applications to be built and shared between organizations, and privileges can be set such that more experimental models can be tried in limited capacities at first and gradually given more authority. This will enable us to bring continuous improvement processes from the software world into the realm of economics and social sciences, while maintaining acceptable levels of risk.</p>
+                
+                  
+                
+              
+              
+                
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../../editorial/the_district0x_in_a_nutshell/" title="The district0x network in a nutshell" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                The district0x network in a nutshell
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../../columns/submit/" title="Start a Column!" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Start a Column!
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
+        and
+        <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
+          Material for MkDocs</a>
+      </div>
+      
+        
+  <div class="md-footer-social">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+      <a href="https://github.com/aragon" class="md-footer-social__link fa fa-github"></a>
+    
+      <a href="https://blog.aragon.one/" class="md-footer-social__link fa fa-medium"></a>
+    
+      <a href="https://www.reddit.com/r/aragonproject/" class="md-footer-social__link fa fa-reddit"></a>
+    
+      <a href="https://twitter.com/AragonProject" class="md-footer-social__link fa fa-twitter"></a>
+    
+      <a href="https://www.linkedin.com/company/aragonproject/" class="md-footer-social__link fa fa-linkedin"></a>
+    
+  </div>
+
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../../assets/javascripts/application-f3ab9e5ff8.js"></script>
+      
+      
+      <script>app.initialize({url:{base:"../../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
