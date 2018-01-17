@@ -52,3 +52,5 @@ pages:
     - Reviewers: 'contributors/reviewers.md'
     - Contributors: 'contributors/contributors.md'
     - Columnists: 'contributors/columnists.md'
+  - Newsletter:
+    - Aragon Monthly Newsletter: 'newsletter/index.md'

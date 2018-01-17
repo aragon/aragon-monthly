@@ -1,6 +1,10 @@
 # Aragon Monthly
+#### The community curated digital newspaper about DAOs and the Aragon ecosystem
 #### Issue 0, January 17th 2018
 ___
+_This Issue 0 serves as a template to show case what Aragon Monthly will be. Now we are looking for contributors to come and join create this community curated newspaper!_
+
+_Issue 01 will be based on this Issue 0, join in and be a part of the first Issue when it comes out in the beginning of February!_
 
 ## [Recent News](news/index.md)
 
@@ -18,7 +22,7 @@ _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 3_ | _Author [Vi
 [<img src="news/images/auctus_aragon.png">](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [<img src="news/images/aragon_nest.png">](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [<img src="news/images/district0x_spotlight_bloom.jpeg">](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
 _Author [Ludmila Lopes](https://blog.auctus.org/@ludmila.omlopes) on Jan 10_ | _Author [Tatu Kärki](https://twitter.com/@smokyish) on Dec 6_ | _Author [P.J. Leimgruber](https://blog.district0x.io/@misterpeej) on Jan 1_ |
 **Auctus announces their plans to use and integrate with Aragon.** By deploying Auctus on the Aragon Network, it will be possible to protect Auctus and it’s community from any intermediary trying to abuse its power. Furthermore, it will avoid misunderstandings between agents, keeping full record of all decision making and financial decisions. It will also allow Auctus to become truly community driven, increasing the number of stakeholders, as well as decentralizing decision making and operational processes. | **A grants program to support the development of the ecosystems.** To help support the ecosystem flourish, we are introducing, together with Placeholder — lead by Joel Monegro and Chris Burniske — a grants program called Aragon Nest. The team at Placeholder has years of experience in evaluating crypto projects and teams, and we are very proud to have their expertise onboard. The goal of the program is to attract talent to research and build the necessary tooling for developing solutions around Aragon and Ethereum. | **A fully decentralized peer-to-peer lending marketplace.** district0x is thrilled to announce our partnership with Bloom to create a fully decentralized lending marketplace, the Bloom Lending District. This district will offer a standardized, transparent, peer-to-peer method for requesting and funding loans, allowing anyone with access to the internet to lend and borrow funds free of central influence. There will be no middlemen, no fees, no cross border limitations, and no constraints and will not require access to the traditional financial system — truly unleashing the power of Ethereum. |
-[Read More](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [Read More](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [Read More](https://github.com/aragon/aragon-monthly/pulls) |
+[Read More](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [Read More](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [Read More](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
 
 ##### [Find More News](news/index.md)
 
