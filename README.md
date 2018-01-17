@@ -1,6 +1,6 @@
 # [Aragon Monthly](https://monthly.aragon.one/)
 
-Aragon Monthly is a community curated monthly digital newspaper about Decentralized Autonomous Organizations and the Aragon ecosystem.
+Aragon Monthly is **a community curated monthly digital newspaper about Decentralized Autonomous Organizations** and the Aragon ecosystem.
 
 ## How does it work?
 
@@ -25,9 +25,19 @@ Or if you feel like writing on a topic that someone else has requested to read a
 - Open [http://localhost:8000/](http://localhost:8000/) in your browser
 
 ## Contributors
+> Editor-in-chief is the publication's editorial leader who has final responsibility for its operations and policies.
 
 - Editor-in-chief - [@Smokyish](https://github.com/Smokyish)
+
+> Editors are people that regularly provide content to the publication and make sure that the content is always high quality. They write articles, review Pull Requests and are generally active in the creation of this publication.
+
 - Editor - [@john-light](https://github.com/john-light)
+
+> Reviewers are people who contribute by helping review new content submitted via Pull Requests
+
+- Reviewer: [@lkngtn](https://github.com/lkngtn)
+- Reviewer: [@izqui](https://github.com/izqui)
+
 - Editor - _Get your name here by contributing!_
 
 ## Future goals

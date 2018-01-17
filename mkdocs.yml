@@ -27,6 +27,21 @@ extra:
     - type: 'linkedin'
       link: 'https://www.linkedin.com/company/aragonproject/'
   feature:
-    tabs: true
+    tabs: 'true'
 pages:
   - Front Page: 'index.md'
+  - News:
+    - Home: 'news/index.md'
+    - DAOs: 'news/daos.md'
+    - Aragon: 'news/aragon.md'
+    - district0x: 'news/district0x.md'
+    - Ecosystem: 'news/ecosystem.md'
+  - Articles:
+    - Home: 'articles/index.md'
+  - Classifieds:
+    - Home: 'classifieds/index.md'
+  - Contributors:
+    - Home: 'contributors/index.md'
+    - Editors: 'contributors/editors.md'
+    - Reviewers: 'contributors/reviewers.md'
+    - Contributors: 'contributors/contributors.md'
