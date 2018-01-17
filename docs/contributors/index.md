@@ -9,3 +9,6 @@
 
 ## [Contributors](contributors.md)
 > Contributors who have contributed in the creation of this Issue
+
+## [Columnists](columnists.md)
+> Columnists are people dedicated to contribute quality content for an extended time, usually on the same subject area or theme each time – that typically contains the author's opinion or point of view.
