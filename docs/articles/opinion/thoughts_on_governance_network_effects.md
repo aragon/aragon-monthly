@@ -4,7 +4,7 @@ _Author [Luke Duncan / @lkngtn](https://github.com/lkngtn)_
 
 _This article was originally posted in the [Aragon Blog](https://blog.aragon.one/) on Dec 12 2017_
 
-[<img src="../images/thoughts_on_governance01.png">](https://blog.aragon.one/thoughts-on-governance-and-network-effects-f40fda3e3f98)
+![](images/thoughts_on_governance01.png)
 
 This post discusses governance and its impact on network effects and why both relate to how value flows and is captured within tokenized blockchain networks.
 

@@ -34,7 +34,8 @@
   margin-bottom: -2.5rem;
 }
 
-.md-content__inner.md-typeset h5 {
+.md-content__inner.md-typeset h4 {
+  color: rgba(0, 0, 0, 0.5);
   text-align: center;
   margin-top: 2rem;
   margin-bottom: -2.5rem;

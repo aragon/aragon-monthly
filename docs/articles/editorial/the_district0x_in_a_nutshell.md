@@ -5,7 +5,7 @@ _Author [Brady McKenna / @bradymck](https://github.com/bradymck)_
 
 _This article was originally posted in the [Aragon Blog](https://blog.aragon.one/) on Dec 12 2017_
 
-[<img src="../images/district0x_nutshell01.jpeg">](https://blog.district0x.io/the-district0x-network-in-a-nutshell-864a391e0b4)
+![](images/district0x_nutshell01.jpeg)
 
 The district0x project is building a general purpose framework of smart contracts and front end libraries for the purpose of deploying, operating, and governing communal marketplaces.The network is powered by Ethereum smart contracts, ‘Aragon’ governance and the distributed file system ‘IPFS’.
 

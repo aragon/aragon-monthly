@@ -1,5 +1,7 @@
 # Classifieds
 
+> Classifieds or Classified advertising is free of charge in the newspaper. Keep them short and to the point.
+
 [<h2>Developer Relations opening at Aragon</h2>](https://wiki.aragon.one/jobs/openings/dev_rel/) |
 :----------- |
 We are looking for a developer relations to help third party developers create apps on top of the Aragon dapp and aragonOS. |

@@ -7,7 +7,7 @@ _Author [Alexander Khoriaty](https://blog.district0x.io/@alexander.k) on Jan 4_ 
 [<img src="../images/district0x_keep.png" style="width: 50rem;">](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
 [_district0x_](district0x.md) |
 **Bringing private data to user-governed marketplaces.** At district0x, we have thus far largely avoided this issue by building marketplaces which rely mostly on already public cryptographic data (Name Bazaar), or relatively static information users are already comfortable making public (like freelancer or employer profiles on Ethlance). Where we’ve had to protect private data for supporting services within districts, we’ve done so with purpose-built solutions. |
-[Read More](http://vitalik.ca/general/2017/12/17/voting.html) |
+[Read More](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
 
 [**District Proposal Spotlight —The Bloom Lending District**](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) | | |
 :-----------:|:-------------:|:----------:|
