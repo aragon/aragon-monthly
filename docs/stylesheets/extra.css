@@ -166,3 +166,7 @@
 .md-typeset table:not([class]) tr:nth-child(4) a:hover {
   color: rgba(32, 172, 163, 0.8);
 }
+
+.md-typeset iframe, .md-typeset img, .md-typeset svg {
+  max-width: 50rem;
+}

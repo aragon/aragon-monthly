@@ -5,7 +5,7 @@
 :-----------|
 [_DAOs_](daos.md) |
  |
- _Author [Vitalik Buterin](http://vitalik.ca/) on Dec 17_ |
+_Author [Vitalik Buterin](http://vitalik.ca/) on Dec 17_ |
 _In which I argue that “tightly coupled” on-chain voting is overrated, the status quo of “informal governance” as practiced by Bitcoin, Bitcoin Cash, Ethereum, Zcash and similar systems is much less bad than commonly thought, that people who think that the purpose of blockchains is to completely expunge soft mushy human intuitions and feelings in favor of completely algorithmic governance (emphasis on “completely”) are absolutely crazy, and loosely coupled voting as done by Carbonvotes and similar systems is underrated, as well as describe what framework should be used when thinking about blockchain governance in the first place._ |
 [Read More](http://vitalik.ca/general/2017/12/17/voting.html) |
 
