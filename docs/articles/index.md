@@ -30,7 +30,7 @@ This post discusses governance and its impact on network effects and why both re
 [<h2>Looking for interested contributors</h2>](columns/submit.md) |
 :-----------|
 [_Column_](#columns) |
- |
+![](../images/monthly_no_image.png) |
 _Author [You!](https://aragon.one) on Jan 17_ |
 [**Want to start a regular column on Aragon Monthly?**](columns/submit.md) |
 [Read More](columns/submit.md) |
