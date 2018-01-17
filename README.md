@@ -38,7 +38,7 @@ Or if you feel like writing on a topic that someone else has requested to read a
 - Reviewer: [@lkngtn](https://github.com/lkngtn)
 - Reviewer: [@izqui](https://github.com/izqui)
 
-> > Columnists are people dedicated to contribute quality content for an extended time, usually on the same subject area or theme each time – that typically contains the author's opinion or point of view.
+> Columnists are people dedicated to contribute quality content for an extended time, usually on the same subject area or theme each time – that typically contains the author's opinion or point of view.
 
 - Editor/Reviewer/Columnist - _Get your name here by contributing!_
 
