@@ -1,7 +1,7 @@
 # News / district0x
 
 ## **Featured**
-<h2>[**Keeps on the district0x Network**](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792)</h2> |
+[<h2>**Keeps on the district0x Network**</h2>](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
 :----------- |
 _Author [Alexander Khoriaty](https://blog.district0x.io/@alexander.k) on Jan 4_ |
 [<img src="../images/district0x_keep.png" style="width: 50rem;">](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |

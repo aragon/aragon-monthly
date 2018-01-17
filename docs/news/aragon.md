@@ -1,7 +1,7 @@
 # News / Aragon
 
 ## **Featured**
-<h2>[Introducing Aragon Nest](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566)</h2> |
+[<h2>Introducing Aragon Nest</h2>](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) |
 :----------- |
 _by [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 3_ |
 [<img src="../images/aragon_nest.png" style="width: 50rem;">](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) |

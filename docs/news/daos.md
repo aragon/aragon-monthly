@@ -1,7 +1,7 @@
 # News / DAOs
 
 ## **Featured**
-<h2>[Notes on Blockchain Governance](http://vitalik.ca/general/2017/12/17/voting.html)</h2> |
+[<h2>Notes on Blockchain Governance</h2>](http://vitalik.ca/general/2017/12/17/voting.html) |
 :-----------|
 _Author [Vitalik Buterin](http://vitalik.ca/) on Dec 17_ |
  |

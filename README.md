@@ -38,7 +38,7 @@ Or if you feel like writing on a topic that someone else has requested to read a
 - Reviewer: [@lkngtn](https://github.com/lkngtn)
 - Reviewer: [@izqui](https://github.com/izqui)
 
-- Editor - _Get your name here by contributing!_
+- Editor/Reviewer/Columnist - _Get your name here by contributing!_
 
 ## Future goals
 
