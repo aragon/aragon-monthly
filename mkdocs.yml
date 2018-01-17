@@ -6,7 +6,7 @@ site_description: 'Aragon Monthly, a community curated monthly digital newspaper
 theme:     'material'
 site_favicon: 'images/favicon.ico'
 extra_css:
-  - 'stylesheets/extra.css'
+  - 'stylesheets/custom.css'
 extra:
   palette:
     primary: 'grey'
