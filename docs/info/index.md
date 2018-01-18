@@ -1,7 +1,9 @@
+# Project info
+
 # [Aragon Monthly](https://monthly.aragon.one/)
 
-Aragon Monthly is **a community curated monthly digital newspaper about Decentralized Autonomous Organizations** and the Aragon ecosystem.
-
+### Aragon Monthly is **a community curated monthly digital newspaper about Decentralized Autonomous Organizations** and the Aragon ecosystem
+___
 ## How does this work?
 
 - **Community members**, [**Contributors**](../contributors/contributors.md) and [**Editors**](../contributors/editors.md) create [Issues](https://github.com/aragon/aragon-monthly/issues) for News, Articles and Classifieds

@@ -171,3 +171,11 @@
 .md-typeset iframe, .md-typeset img, .md-typeset svg {
   max-width: 50rem;
 }
+
+[title="Project info"] {
+  color: hsla(0, 0%, 100%, 0.5)
+}
+
+[title="Guides"] {
+  color: hsla(0, 0%, 100%, 0.5)
+}

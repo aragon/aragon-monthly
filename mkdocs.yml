@@ -54,3 +54,7 @@ pages:
     - Columnists: 'contributors/columnists.md'
   - Newsletter:
     - Aragon Monthly Newsletter: 'newsletter/index.md'
+  - Project info:
+    - Overview: 'info/index.md'
+  - Guides:
+    - Overview: 'guides/index.md'
