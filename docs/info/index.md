@@ -52,7 +52,7 @@ ___
     - [Submit a Pull Request](https://github.com/aragon/aragon-monthly/pulls) to close the Issue you opened and wait for it to be reviewed and merged!
         - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls)
             - Follows the [Issue Creation Guide](coming_soon) and you give an accurate description of the content
-            - Follows the [Submitting a Pull Request Guide](coming_soon) for Articles
+            - Follows the [Guide for submitting a new Pull Request](coming_soon) for Articles
   ___
 ### By requesting new content
 If you have a topic that you would like to either read about, create a [New Issue](https://github.com/aragon/aragon-monthly/issues/new) with a descriptive Title and a clear description of the type of content you would want to see in Aragon Monthly.
