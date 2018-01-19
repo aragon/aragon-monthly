@@ -15,4 +15,4 @@ Minimum 500 words, maximum 1500 words
 #### Deadline
 By the end of the month, in time for Aragon Monthly issue #X
 
-[ ] I would like to have a bounty on this Issue that I will fund myself
+- [ ] I would like to have a bounty on this Issue that I will fund myself
