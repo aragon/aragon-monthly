@@ -97,7 +97,22 @@ docs/
 │  ├─ index.md
 │  └─ reviewers.md
 ├─ guides/
+│  ├─ guide_for_submitting_a_new_issue.md
+│  ├─ guide_for_submitting_a_new_pull_request.md
+│  ├─ guide_for_submitting_articles.md
+│  ├─ guide_for_submitting_classifieds.md
+│  ├─ guide_for_submitting_news.md
+│  ├─ index.md
+│  ├─ new_issue_template.md
+│  ├─ new_pull_request_template.md
+│  └─ repository_structure.md
 ├─ images/
+│  ├─ favicon.ico
+│  ├─ logo.svg
+│  ├─ monthly_no_image.png
+│  └─ monthly.png
+├─ info/
+│  └─ index.md
 ├─ news/
 │  ├─ aragon.md
 │  ├─ daos.md
