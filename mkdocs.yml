@@ -58,3 +58,11 @@ pages:
     - Overview: 'info/index.md'
   - Guides:
     - Overview: 'guides/index.md'
+    - Guide for submitting a new Issue: 'guides/guide_for_submitting_a_new_issue.md'
+    - Guide for submitting a new Pull Request: 'guides/guide_for_submitting_a_new_pull_request.md'
+    - Guide for submitting News: 'guides/guide_for_submitting_news.md'
+    - Guide for submitting Articles: 'guides/guide_for_submitting_articles.md'
+    - Guide for submitting Classifieds: 'guides/guide_for_submitting_classifieds.md'
+    - New Issue Template: 'guides/new_issue_template.md'
+    - New Pull Request Template: 'guides/new_pull_request_template.md'
+    - Repository structure: 'guides/repository_structure.md'

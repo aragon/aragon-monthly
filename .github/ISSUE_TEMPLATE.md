@@ -1,6 +1,6 @@
 # Request for content
 
-_Be sure to check out the [Guide for submitting a new Issue] for submitting a new request_
+_Be sure to check out the [Guide for submitting a new Issue](https://monthly.aragon.one/guides/guide_for_submitting_a_new_issue/) for submitting a new request_
 
 ### Request type:
 _Article_ / _Column_ / _News_

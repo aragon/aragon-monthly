@@ -110,7 +110,7 @@
 }
 
 .md-typeset table:not([class]) tr:nth-child(5) a:hover {
-  color: rgba(32, 172, 163, 0.8);
+  color: rgba(9, 186, 213, 0.8);
 }
 
 .md-typeset table:not([class]) tr:nth-child(3) em a {
@@ -119,7 +119,7 @@
 }
 
 .md-typeset table:not([class]) tr:nth-child(3) em a:hover {
-  color: rgba(32, 172, 163, 0.8);
+  color: rgba(9, 186, 213, 0.8);
 }
 
 .md-typeset table:not([class]) tr:nth-child(3) td {
@@ -165,7 +165,7 @@
 }
 
 .md-typeset table:not([class]) tr:nth-child(4) a:hover {
-  color: rgba(32, 172, 163, 0.8);
+  color: rgba(9, 186, 213, 0.8);
 }
 
 .md-typeset iframe, .md-typeset img, .md-typeset svg {
@@ -173,9 +173,64 @@
 }
 
 [title="Project info"] {
-  color: hsla(0, 0%, 100%, 0.5)
+  color: hsla(0, 0%, 100%, 0.5);
 }
 
 [title="Guides"] {
-  color: hsla(0, 0%, 100%, 0.5)
+  color: hsla(0, 0%, 100%, 0.5);
+}
+
+h2#recent-news a {
+  color: #000;
+  text-decoration: underline;
+}
+
+h2#recent-news a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+h2#recent-articles a {
+  color: #000;
+  text-decoration: underline;
+}
+
+h2#recent-articles a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+h2#recent-classifieds a {
+  color: #000;
+  text-decoration: underline;
+}
+
+h2#recent-classifieds a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+h6#browse-more-news a {
+  color: rgba(9, 186, 213, 1);
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+h6#browse-more-news a:hover {
+  color: #000;
+}
+
+h6#browse-more-articles a:hover {
+  color: #000;
+}
+
+h6#browse-more-articles a {
+  color: rgba(9, 186, 213, 0.8);
+  font-size: 2rem;
+}
+
+h6#browse-more-classifieds a:hover {
+  color: #000;
+}
+
+h6#browse-more-classifieds a {
+  color: rgba(9, 186, 213, 0.8);
+  font-size: 2rem;
 }

@@ -10,7 +10,7 @@ _In which I argue that “tightly coupled” on-chain voting is overrated, the s
 [Read More](http://vitalik.ca/general/2017/12/17/voting.html) |
 
 [**Aragon Team Update: December 2017**](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3) | [**Explanation of DAICOs**](https://ethresear.ch/t/explanation-of-daicos/465) | [**Keeps on the district0x Network**](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
-:-----------:|:-------------:|:----------:|
+:-----------:|:-----------:|:-----------:|
 [_Aragon_](aragon.md) | [_DAOs_](daos.md) | [_district0x_](district0x.md) |
 [<img src="images/aragon_december_team_update.png">](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3) | ![](../images/monthly_no_image.png) | [<img src="images/district0x_keep.png">](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
 _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 3_ | _Author [Vitalik Buterin](http://vitalik.ca/) on Jan 6_ | _Author [Alexander Khoriaty](https://blog.district0x.io/@alexander.k) on Jan 4_ |
@@ -18,7 +18,7 @@ _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 3_ | _Author [Vi
 [Read More](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3) | [Read More](https://ethresear.ch/t/explanation-of-daicos/465) | [Read More](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
 
 [**Auctus to leverage Aragon to become a truly decentralized platform**](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [**Introducing Aragon Nest**](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [**District Proposal Spotlight —The Bloom Lending District**](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
-:-----------:|:-------------:|:----------:|
+:-----------:|:-----------:|:-----------:|
 [_Ecosystem_](ecosystem.md) | [_Aragon_](aragon.md) | [_district0x_](district0x.md) |
 [<img src="images/auctus_aragon.png">](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [<img src="images/aragon_nest.png">](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [<img src="images/district0x_spotlight_bloom.jpeg">](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
 _Author [Ludmila Lopes](https://blog.auctus.org/@ludmila.omlopes) on Jan 10_ | _Author [Tatu Kärki](https://twitter.com/@smokyish) on Dec 6_ | _Author [P.J. Leimgruber](https://blog.district0x.io/@misterpeej) on Jan 1_ |
@@ -26,9 +26,9 @@ _Author [Ludmila Lopes](https://blog.auctus.org/@ludmila.omlopes) on Jan 10_ | _
 [Read More](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [Read More](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [Read More](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
 
 [**Aragon Q4 Development Update**](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) | | |
-:-----------:|:-------------:|:----------:|
+:-----------:|:-----------:|:-----------:|
 [_Aragon_](aragon.md) | | |
 [<img src="images/aragon_dev_update.png">](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) | | |
 _Author [Jorge Izquierdo](https://blog.aragon.one/@izqui9) on Jan 11_ | | |
 **Progress of development from the last quarter of 2017.** In the last quarter of 2017 we were heads down developing everything for the version 0.5 release of the Aragon Core app. Lots of progress was made, first audit of the smart contracts was conducted with good results and we’re on track to get the testnet release out really soon™. It has been an incredible quarter of building, in which we have laid down the foundation for everything that is to come in 2018. Brett and Pierre joined the development team, who together with Olivier are an amazing founding technical team. | | |
-[Read More](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) | [Submit News!](https://github.com/aragon/aragon-monthly/pulls) | [Submit News!](https://github.com/aragon/aragon-monthly/pulls) |
+[Read More](https://blog.aragon.one/aragon-q4-development-update-32a21935333e) | [Submit News!](../guides/guide_for_submitting_news.md) | [Submit News!](../guides/guide_for_submitting_news.md) |

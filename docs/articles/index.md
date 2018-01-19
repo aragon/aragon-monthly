@@ -4,7 +4,7 @@
 > An editorial is an article written either by the editorial staff of the newspaper or by a contributor. It can be any written document,  for example a technical specification documentation or a letter to the public.
 
 [<h2>The district0x network in a nutshell</h2>](editorial/the_district0x_in_a_nutshell.md) |
-:----------- |
+:-----------|
 [_Editorial_](#editorials) |
 ![](editorial/images/district0x_nutshell01.jpeg) |
 _Author [Brady McKenna / @bradymck](https://github.com/bradymck)_ |

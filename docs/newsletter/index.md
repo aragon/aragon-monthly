@@ -1,6 +1,10 @@
 # Aragon Monthly Newsletter
 
-### Follow the progress of Aragon and the advancement of DAOs by subscribing to the monthly email newsletter
+**Want to be among the first to hear when a new issue is out?**
+___
+To follow the progress of Aragon and for keeping up with the advancement in the space of Decentralized Autonomous Organizations
+
+### **Subscribe to the monthly email newsletter**
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -24,3 +28,5 @@
 </div>
 
 <!--End mc_embed_signup-->
+
+You will receive the [Front Page](../index.md) in your email as soon as a new issue of the Aragon Monthly newspaper is out! 

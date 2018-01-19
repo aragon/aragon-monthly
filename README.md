@@ -1,11 +1,17 @@
 # [Aragon Monthly](https://monthly.aragon.one/)
 
-Aragon Monthly is **a community curated monthly digital newspaper about Decentralized Autonomous Organizations** and the Aragon ecosystem.
+### Aragon Monthly is **a community curated monthly digital newspaper about Decentralized Autonomous Organizations** and the [Aragon](https://aragon.one) ecosystem.
+
+> **Content curation is the process of gathering information relevant to a particular topic or area of interest.**
+
+Aragon Monthly is **created by the community, for the community**.
+
+**Anyone can contribute** by creating or requesting new content about DAOs and anything related to the Aragon ecosystem.
 
 ## How does this work?
 
-- **Community members**, [**Contributors**](../contributors/contributors.md) and [**Editors**](../contributors/editors.md) create [Issues](https://github.com/aragon/aragon-monthly/issues) for News, Articles and Classifieds
-    - _These [Issues](https://github.com/aragon/aragon-monthly/issues) are requests for new content to the upcoming newspaper issue_
+- **Community members**, [**Contributors**](https://monthly.aragon.one/contributors/contributors/) and [**Editors**](https://monthly.aragon.one/contributors/editors/) create [Issues](https://github.com/aragon/aragon-monthly/issues) for [News](https://monthly.aragon.one/news/), [Articles](https://monthly.aragon.one/articles/) and [Classifieds](https://monthly.aragon.one/classifieds/)
+    - _These [Issues](https://github.com/aragon/aragon-monthly/issues) are **requests for new content** to the upcoming newspaper issue_
     ___
 - [Issues](https://github.com/aragon/aragon-monthly/issues) that get "upvoted" by the community **get added a [`bounty` label](https://github.com/aragon/aragon-monthly/labels/bounty)** and that **`bounty`** will be **funded to incentivise fulfillment of that request**
     - _Editors can also add the `bounty` label to any [Issue](https://github.com/aragon/aragon-monthly/issues) they consider to be interesting content_
@@ -20,7 +26,7 @@ Aragon Monthly is **a community curated monthly digital newspaper about Decentra
 - At the end of the month, [Pull Requests](https://github.com/aragon/aragon-monthly/pulls) are frozen and any open [Issues](https://github.com/aragon/aragon-monthly/issues) are cleaned
     - Editors will evaluate open [Issues](https://github.com/aragon/aragon-monthly/issues) to see if they think it should be carried over to the next newspaper issue and close all remaining ones
     - Reviewers and Editors will review all open [Pull Requests](https://github.com/aragon/aragon-monthly/pulls) and either merge or close those accordingly
-    - The [Editor-in-chief](#contributors) makes sure that all completed [Pull Requests](https://github.com/aragon/aragon-monthly/pulls) are merged, compiles the Front Page and ensures that everything is working fine, publishes the Monthly newspaper issue to [https://monthly.aragon.one/](https://monthly.aragon.one/) and sends out the Aragon Monthly Newsletter
+    - The [Editor-in-chief](#staff-contributors) makes sure that all completed [Pull Requests](https://github.com/aragon/aragon-monthly/pulls) are merged, compiles the Front Page and ensures that everything is working fine, publishes the Monthly newspaper issue to [https://monthly.aragon.one/](https://monthly.aragon.one/) and sends out the Aragon Monthly Newsletter
 ___
 ## How can I contribute?
 ### By creating new content

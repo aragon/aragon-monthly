@@ -1,7 +1,8 @@
 # New content for Aragon Monthly
 
-_Be sure to check out the [Guide for submitting a new Pull Request] before submitting your PR
+_Be sure to check out the [Guide for submitting a new Pull Request](https://monthly.aragon.one/guides/guide_for_submitting_a_new_pull_request/) before submitting your PR_
 
+### Closing of a referenced Issue
 Closes #1
 
 ### Content category
@@ -13,5 +14,5 @@ _Opinion Piece_ / _Editorial_ / _Column_ / _Classified_ / _N/A_
 ### Title
 Name of your article, column or news entry
 
-#### Description
+### Description
 This is a great article i wrote about DAOs. It is 999 words long opinion piece where I outline my thoughts on why DAOs are so great.

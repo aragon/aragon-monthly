@@ -10,9 +10,9 @@ _Author [Alexander Khoriaty](https://blog.district0x.io/@alexander.k) on Jan 4_ 
 [Read More](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
 
 [**District Proposal Spotlight —The Bloom Lending District**](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) | | |
-:-----------:|:-------------:|:----------:|
+:-----------:|:-----------:|:-----------:|
 [_district0x_](district0x.md) | | |
 [<img src="../images/district0x_spotlight_bloom.jpeg">](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |  | |
 _Author [P.J. Leimgruber](https://blog.district0x.io/@misterpeej) on Jan 1_ | | |
 **A fully decentralized peer-to-peer lending marketplace.** district0x is thrilled to announce our partnership with Bloom to create a fully decentralized lending marketplace, the Bloom Lending District. This district will offer a standardized, transparent, peer-to-peer method for requesting and funding loans, allowing anyone with access to the internet to lend and borrow funds free of central influence. There will be no middlemen, no fees, no cross border limitations, and no constraints and will not require access to the traditional financial system — truly unleashing the power of Ethereum. | | |
-[Read More](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) | [Submit News!](https://github.com/aragon/aragon-monthly/pulls) | [Submit News!](https://github.com/aragon/aragon-monthly/pulls) |
+[Read More](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) | [Submit News!](../guides/guide_for_submitting_news.md) | [Submit News!](../guides/guide_for_submitting_news.md) |
