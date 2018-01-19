@@ -10,10 +10,10 @@ Aragon Monthly is **created by the community, for the community**.
 
 ## How does this work?
 
-- **Community members**, [**Contributors**](https://monthly.aragon.one/contributors/contributors/) and [**Editors**](https://monthly.aragon.one/contributors/editors/) create [Issues](https://github.com/aragon/aragon-monthly/issues) for [News](https://monthly.aragon.one/news/), [Articles](https://monthly.aragon.one/articles/) and [Classifieds](https://monthly.aragon.one/classifieds/)
+- **Community members**, [**Contributors**](../contributors/contributors.md) and [**Editors**](../contributors/editors.md) create [Issues](https://github.com/aragon/aragon-monthly/issues) for [News](../news/index.md), [Articles](../articles/index.md) and [Classifieds](../classifieds/index.md)
     - _These [Issues](https://github.com/aragon/aragon-monthly/issues) are **requests for new content** to the upcoming newspaper issue_
     ___
-- [Issues](https://github.com/aragon/aragon-monthly/issues) that get "upvoted" by the community **get added a [`bounty` label](https://github.com/aragon/aragon-monthly/labels/bounty)** and that **`bounty`** will be **funded to incentivise fulfillment of that request**
+- [Issues](https://github.com/aragon/aragon-monthly/issues) that get "_upvoted_" by the community **get added a [`bounty` label](https://github.com/aragon/aragon-monthly/labels/bounty)** and that **`bounty`** will be **funded to incentivise fulfillment of that request**
     - _Editors can also add the `bounty` label to any [Issue](https://github.com/aragon/aragon-monthly/issues) they consider to be interesting content_
         - _The person who created the [Issue](https://github.com/aragon/aragon-monthly/issues) may also request the [`bounty` label](https://github.com/aragon/aragon-monthly/labels/bounty) to be added if they wish to fund that Issue themselves_
     - _Once a bounty label has been added, **anyone** can send funds (ETH or ERC20 tokens) to the smart contract and help fund that bounty_
@@ -37,8 +37,9 @@ There's a few different ways to contribute new content:
 There's news happening all the time and we're looking to have all the interesting content presented in the newspaper!
 
 - [Submit a Pull Request](https://github.com/aragon/aragon-monthly/pulls) with the News content and wait for it to be reviewed and merged!
-    - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls)
-        - Follows the [Submitting a Pull Request Guide](coming_soon) for News
+    - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls) follows
+        - [Guide for submitting a new Pull Request](../guides/guide_for_submitting_a_new_pull_request.md)
+        - [Guide for submitting News](../guides/guide_for_submitting_news.md)
   ___
 
 **Articles**
@@ -47,21 +48,22 @@ There's news happening all the time and we're looking to have all the interestin
     - Create the content
     - [Submit a Pull Request](https://github.com/aragon/aragon-monthly/pulls) to close the Issue and wait for it to be reviewed and merged!
         - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls)
-            - Fills the requested [Issue](https://github.com/aragon/aragon-monthly/issues)!
-            - Follows the [Submitting a Pull Request Guide](coming_soon) for Articles
+            - Fills the requested [Issue](https://github.com/aragon/aragon-monthly/issues) and follows
+            - [Guide for submitting a new Pull Request](../guides/guide_for_submitting_a_new_pull_request.md)
+            - [Guide for submitting Articles](../guides/guide_for_submitting_articles.md)
 ___
 - If you want to contribute **fresh, original, new content for the newspaper**
     - Open a [new Issue](https://github.com/aragon/aragon-monthly/issues/new) describing the kind of content you wish to contribute
     - Create the content
     - [Submit a Pull Request](https://github.com/aragon/aragon-monthly/pulls) to close the Issue you opened and wait for it to be reviewed and merged!
-        - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls)
-            - Follows the [Issue Creation Guide](coming_soon) and you give an accurate description of the content
-            - Follows the [Submitting a Pull Request Guide](coming_soon) for Articles
+        - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls) follows
+            - [Guide for submitting a new Pull Request](../guides/guide_for_submitting_a_new_pull_request.md)
+            - [Guide for submitting Articles](../guides/guide_for_submitting_articles.md)
   ___
 ### By requesting new content
 If you have a topic that you would like to either read about, create a [New Issue](https://github.com/aragon/aragon-monthly/issues/new) with a descriptive Title and a clear description of the type of content you would want to see in Aragon Monthly.
 
-Be sure to include all the details in the new [Issue](https://github.com/aragon/aragon-monthly/issues) as described in the [Issue Creation Guide](coming_soon)
+Be sure to include all the details in the new [Issue](https://github.com/aragon/aragon-monthly/issues) as described in the [Guide for submitting a new Issue](../guides/guide_for_submitting_a_new_issue.md)
 ___
 ## How do I run a local version of the site for editing?
 
