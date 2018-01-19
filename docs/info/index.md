@@ -57,7 +57,7 @@ ___
 ### By requesting new content
 If you have a topic that you would like to either read about, create a [New Issue](https://github.com/aragon/aragon-monthly/issues/new) with a descriptive Title and a clear description of the type of content you would want to see in Aragon Monthly.
 
-Be sure to include all the details in the new [Issue](https://github.com/aragon/aragon-monthly/issues) as described in the [Issue Creation Guide](coming_soon)
+Be sure to include all the details in the new [Issue](https://github.com/aragon/aragon-monthly/issues) as described in the [Guide for submitting a new Issue](coming_soon)
 ___
 ## How do I run a local version of the site for editing?
 
