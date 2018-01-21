@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Tangerine:700');
 
+.md-typeset {
+  font-size: 1.8rem;
+}
+
 [data-md-color-primary="grey"] .md-header {
   background-color: #fff;
   color: #000;
@@ -118,12 +122,21 @@
   font-size: 1.2rem;
 }
 
+.md-typeset table:not([class]) tr:nth-child(3) em {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 1.4rem;
+}
+
 .md-typeset table:not([class]) tr:nth-child(3) em a:hover {
   color: rgba(9, 186, 213, 0.8);
 }
 
 .md-typeset table:not([class]) tr:nth-child(3) td {
   color: rgba(0, 0, 0, 0.5);
+}
+
+.md-typeset table:not([class]) tr:nth-child(4) td {
+  font-size: 1.6rem;
 }
 
 .md-typeset table:not([class]) td img {
@@ -170,6 +183,10 @@
 
 .md-typeset iframe, .md-typeset img, .md-typeset svg {
   max-width: 50rem;
+}
+
+.md-typeset table:not([class]) td {
+  font-size: 1.8rem;
 }
 
 [title="Project info"] {
