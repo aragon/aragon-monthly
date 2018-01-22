@@ -91,11 +91,11 @@ At [Aragon](https://aragon.one/) we are building infrastructure to support these
 
 
 ## To keep up with the progress of Aragon:
-- [Come chat with us at the Aragon Chat](https://aragon.chat/)
-- [Follow Aragon on Twitter](https://twitter.com/aragonproject)
-- [Subscribe to the Aragon subreddit](https://www.reddit.com/r/aragonproject/)
-- [Follow Aragon at LinkedIn](https://www.linkedin.com/company/aragonproject)
-- [Contribute to Aragon at GitHub](https://github.com/aragon)
-- [Find us on Youtube](https://www.youtube.com/c/AragonProject)
-- [Explore the Aragon Wiki](https://wiki.aragon.one/)
+- Come chat with us at the [Aragon Chat](https://aragon.chat/)
+- Follow Aragon on [Twitter](https://twitter.com/aragonproject)
+- Subscribe to the [Aragon subreddit](https://www.reddit.com/r/aragonproject/)
+- Follow Aragon at [LinkedIn](https://www.linkedin.com/company/aragonproject)
+- Contribute to Aragon at [GitHub](https://github.com/aragon)
+- Find us on [Youtube](https://www.youtube.com/c/AragonProject)
+- Explore the [Aragon Wiki](https://wiki.aragon.one/)
 
