@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Tangerine:700');
+@import url('https://fonts.googleapis.com/css?family=Overpass');
 
 .md-typeset {
   font-size: 1.8rem;
@@ -32,7 +32,7 @@
 .md-typeset h1#aragon-monthly {
   color: rgba(0, 0, 0, 1);
   font-size: 8rem;
-  font-family: 'Tangerine', cursive;
+  font-family: 'Overpass', sans-serif;
   text-align: center;
   margin-top: -4rem;
   margin-bottom: -2.5rem;
