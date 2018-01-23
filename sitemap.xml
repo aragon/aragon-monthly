@@ -4,7 +4,7 @@
     
     <url>
      <loc>https://monthly.aragon.one/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,31 +13,31 @@
         
     <url>
      <loc>https://monthly.aragon.one/news/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/news/daos/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/news/aragon/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/news/district0x/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/news/ecosystem/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -47,7 +47,7 @@
         
     <url>
      <loc>https://monthly.aragon.one/articles/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -75,7 +75,7 @@
         
     <url>
      <loc>https://monthly.aragon.one/classifieds/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -85,31 +85,31 @@
         
     <url>
      <loc>https://monthly.aragon.one/contributors/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/contributors/editors/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/contributors/reviewers/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/contributors/contributors/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/contributors/columnists/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -119,7 +119,7 @@
         
     <url>
      <loc>https://monthly.aragon.one/newsletter/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -129,7 +129,7 @@
         
     <url>
      <loc>https://monthly.aragon.one/info/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -139,55 +139,55 @@
         
     <url>
      <loc>https://monthly.aragon.one/guides/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/guide_for_submitting_a_new_issue/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/guide_for_submitting_a_new_pull_request/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/guide_for_submitting_news/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/guide_for_submitting_articles/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/guide_for_submitting_classifieds/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/new_issue_template/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/new_pull_request_template/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>https://monthly.aragon.one/guides/repository_structure/</loc>
-     <lastmod>2018-01-22</lastmod>
+     <lastmod>2018-01-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
