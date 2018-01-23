@@ -136,6 +136,7 @@ ___
 > Editors are people that regularly provide content to the publication and make sure that the content is always high quality. They write articles, review [Pull Requests](https://github.com/aragon/aragon-monthly/pulls) and are generally active in the creation of this publication.
 
 - Editor - [@bradymck](https://github.com/bradymck)
+- Editor - [@ludmila-omlopes](https://github.com/ludmila-omlopes)
 
 > Reviewers are people who contribute by helping review new content submitted via [Pull Requests](https://github.com/aragon/aragon-monthly/pulls)
 
