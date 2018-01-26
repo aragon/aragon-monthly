@@ -81,11 +81,14 @@ ___
 
 > Editors are people that regularly provide content to the publication and make sure that the content is always high quality. They write articles, review [Pull Requests](https://github.com/aragon/aragon-monthly/pulls) and are generally active in the creation of this publication.
 
-- Editor - [@john-light](https://github.com/john-light)
+- Editor - [@bradymck](https://github.com/bradymck)
+- Editor - [@ludmila-omlopes](https://github.com/ludmila-omlopes)
+- Editor - [@lkngtn](https://github.com/lkngtn)
+- Editor - [@eordano](https://github.com/eordano)
 
 > Reviewers are people who contribute by helping review new content submitted via [Pull Requests](https://github.com/aragon/aragon-monthly/pulls)
 
-- Reviewer: [@lkngtn](https://github.com/lkngtn)
+- Reviewer: [@john-light](https://github.com/john-light)
 - Reviewer: [@izqui](https://github.com/izqui)
 
 > Columnists are people dedicated to contribute quality content for an extended time, usually on the same subject area or theme each time – that typically contains the author's opinion or point of view.
