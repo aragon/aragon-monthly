@@ -138,6 +138,7 @@ ___
 - Editor - [@bradymck](https://github.com/bradymck)
 - Editor - [@ludmila-omlopes](https://github.com/ludmila-omlopes)
 - Editor - [@lkngtn](https://github.com/lkngtn)
+- Editor - [@eordano](https://github.com/eordano)
 
 > Reviewers are people who contribute by helping review new content submitted via [Pull Requests](https://github.com/aragon/aragon-monthly/pulls)
 
