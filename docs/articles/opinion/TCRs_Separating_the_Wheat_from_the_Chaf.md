@@ -22,15 +22,13 @@ adChain is one project that’s realized the potential of TCRs, writing in its w
 
 TCRs have many applications but this application is an obvious strength, they’re an excellent mechanism for weeding out the good actors from the bad. A way of separating the wheat from the chaff. Several crypto projects are experimenting with TCRs, including us at BitPoint network. We’re creating a decentralized autonomous network of crypto tellers for secure face to face or online exchange of fiat and cryptoassets.
 
-But how to solve the issue of trust? For BitPoint to become the global success we hope and intend it to be, total strangers need to transact in confidence. We needed to find a mechanism by which to curate a list of ‘verified tellers’ as well as an arbitration process for customers. Being decentralised and autonomous means we can or have one central authority mediating these relationships.
+But how to solve the issue of trust? For BitPoint to become the global success we hope and intend it to be, total strangers need to transact in confidence. We needed to find a mechanism by which to curate a list of ‘verified tellers’ as well as an arbitration process for customers. Being decentralised and autonomous means we can or have one central authority mediating these relationships. It was this quest which led to us exploring and then adopting a Token Curated Registry for BitPoint0x.
 
-It was this quest which led to us exploring and then adopting a Token Curated Registry for BitPoint0x.
 
 
 ## BitPoint0x 
 
-BitPoint0x is a dual layer TCR for BitPoint tellers, this enables the network to autonomously certify its tellers are aligned with its values. [Kleros](kleros.io) sits on top providing an escrow and arbitration layer protecting consumers as a final resort.
-
+BitPoint0x is a dual layer TCR for BitPoint tellers, this enables the network to autonomously certify its tellers are aligned with its values. [Kleros](https://kleros.io) sits on top providing an escrow and arbitration layer protecting consumers as a final resort.
 
 Without a central authority, BitPoint0x rewards aligned tellers and makes cheating uneconomical. This means tellers aren’t going to take buyers’ funds and then disappear. With teller deposits held in escrow as a guarantee, this disincentives nefarious behavior. BitPoint0x will reward reputable sellers, who will feature prominently in BitPoint listings as well as certification enabling them to generate more business. 
 
@@ -40,5 +38,7 @@ This framework is of great value to tellers because it signals to customers that
 
 Nevertheless, an autonomous system needs autonomy, fairness and transparancy for all. Cryptocurrency and the blockchain technology powering it are transformative inventions that have the potential to make the web – and thus the world – a better place for everyone. Any system that adds to the credibility of the crypto ecosystem, and which rewards fair players, is a welcome step towards making the space more inclusive, thereby attracting new entrants. Token Curated Registries are one way of helping to achieve that.
 
+
+## Conclusion
 
 When Satoshi Nakamoto published his seminal Bitcoin white paper, it solved the Byzantine generals problem: the means of attaining consensus in a system between perfect strangers who have no reason to trust one another. TCRs, and indeed everything else that has come since in the blockchain world, build upon that breakthrough. Thanks to protocols such as Token Curation Registries, there’s now a means of verifying your credibility without needing to part with your passport, social security number, mother’s maiden name and most importantly no central authority.
