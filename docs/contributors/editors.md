@@ -9,5 +9,6 @@
 - Editor - [@ludmila-omlopes](https://github.com/ludmila-omlopes)
 - Editor - [@lkngtn](https://github.com/lkngtn)
 - Editor - [@eordano](https://github.com/eordano)
+- Editor - [@shyBlugs](https://github.com/shyBlugs)
 
 - Editor - _Get your name here by contributing high quality articles!_
