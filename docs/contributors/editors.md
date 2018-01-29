@@ -10,5 +10,6 @@
 - Editor - [@lkngtn](https://github.com/lkngtn)
 - Editor - [@eordano](https://github.com/eordano)
 - Editor - [@shyBlugs](https://github.com/shyBlugs)
+- Editor - [@ChaceHunter](https://github.com/ChaceHunter)
 
 - Editor - _Get your name here by contributing high quality articles!_
