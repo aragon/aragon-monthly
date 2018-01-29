@@ -140,6 +140,7 @@ ___
 - Editor - [@lkngtn](https://github.com/lkngtn)
 - Editor - [@eordano](https://github.com/eordano)
 - Editor - [@shyBlugs](https://github.com/shyBlugs)
+- Editor - [@ChaceHunter](https://github.com/ChaceHunter)
 
 > Reviewers are people who contribute by helping review new content submitted via [Pull Requests](https://github.com/aragon/aragon-monthly/pulls)
 
