@@ -20,7 +20,7 @@ _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Dec 6_ | _Author [Ta
 [**Launch of Aragon Nest**](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) | | |
 :-----------:|:-----------:|:-----------:|
 [_Aragon_](aragon.md) | | |
-[<img src="images/launch_of_aragon_nest.png">](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) | | |
+[<img src="../images/launch_of_aragon_nest.png">](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) | | |
  _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 24_ | | |
 **Grants program is open for submissions.** At the end of 2017 we presented Aragon Nest to the community and encouraged people to start coming up with ideas for the launch.In that blog post, Introducing Aragon Nest, we outlined the reasons and goals of the program.Now the time has come to launch the program. Submissions are now open for teams to request funding as well as come up with proposals for grants. | | |
 [Read More](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) | [Submit News!](../guides/guide_for_submitting_news.md) | [Submit News!](../guides/guide_for_submitting_news.md) |
