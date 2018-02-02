@@ -200,6 +200,8 @@
 h2#recent-news a {
   color: #000;
   text-decoration: underline;
+  font-size: 4rem;
+  padding: 5px;
 }
 
 h2#recent-news a:hover {
@@ -209,6 +211,8 @@ h2#recent-news a:hover {
 h2#recent-articles a {
   color: #000;
   text-decoration: underline;
+  font-size: 4rem;
+  padding: 5px;
 }
 
 h2#recent-articles a:hover {
@@ -218,6 +222,8 @@ h2#recent-articles a:hover {
 h2#recent-classifieds a {
   color: #000;
   text-decoration: underline;
+  font-size: 4rem;
+  padding: 5px;
 }
 
 h2#recent-classifieds a:hover {
@@ -226,7 +232,7 @@ h2#recent-classifieds a:hover {
 
 h6#browse-more-news a {
   color: rgba(9, 186, 213, 1);
-  font-size: 2rem;
+  font-size: 3rem;
   text-decoration: none;
 }
 
@@ -240,7 +246,7 @@ h6#browse-more-articles a:hover {
 
 h6#browse-more-articles a {
   color: rgba(9, 186, 213, 0.8);
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 h6#browse-more-classifieds a:hover {
@@ -249,5 +255,5 @@ h6#browse-more-classifieds a:hover {
 
 h6#browse-more-classifieds a {
   color: rgba(9, 186, 213, 0.8);
-  font-size: 2rem;
+  font-size: 3rem;
 }

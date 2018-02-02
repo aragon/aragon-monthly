@@ -1,54 +1,52 @@
 # Aragon Monthly
 #### The community curated digital newspaper about DAOs and the Aragon ecosystem
-#### Issue 00, January 22nd 2018
+#### Issue 01, January 22nd 2018
 ___
 > **Content curation is the process of gathering information relevant to a particular topic or area of interest.**
 
 Aragon Monthly is **created by the community, for the community**.
 
-_This Issue 0 serves as a template to show case what Aragon Monthly will be. Now we are looking for contributors to **join in creating this community curated newspaper!**_
+**Anyone can contribute** by creating or requesting new content regarding Decentralized Autonomous Organizations or about anything related to the Aragon ecosystem.
 
-_Issue 01 will be based on this Issue 0, come be a part of the first Issue when it comes out in the beginning of February!_
-
-For more information, see [How does this work?](info/index.md#how-does-this-work) and [How can I contribute?](info/index.md#how-can-i-contribute)
+For more information, see [**How does this work?**](info/index.md#how-does-this-work) and [**How can I contribute?**](info/index.md#how-can-i-contribute)
 ___
 ## [Recent News](news/index.md)
 
-[**Aragon Team Update: December 2017**](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3) | [**Explanation of DAICOs**](https://ethresear.ch/t/explanation-of-daicos/465) | [**Keeps on the district0x Network**](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
+[**We are proud to announce the start of P2P Models**](https://p2pmodels.eu/) | [**Introducing aragonOS 3.0 alpha**](https://blog.aragon.one/introducing-aragonos-3-0-alpha-the-new-operating-system-for-protocols-and-dapps-348f7ac92cff) | [**Launch of Aragon Nest**](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) |
 :-----------:|:-----------:|:-----------:|
-[_Aragon_](news/aragon.md) | [_DAOs_](news/daos.md) | [_district0x_](news/district0x.md) |
-[<img src="news/images/aragon_december_team_update.png">](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3) | ![](../images/monthly_no_image.png) | [<img src="news/images/district0x_keep.png">](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
-_Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 3_ | _Author [Vitalik Buterin](http://vitalik.ca/) on Jan 6_ | _Author [Alexander Khoriaty](https://blog.district0x.io/@alexander.k) on Jan 4_ |
-**Written reviews of what the team members have been up to.** Team members will produce a write-up of the most important things they have worked on since last Community Meeting, the problems they have found and what they plan to do in the next weeks (that can be a bit blurry, and that’s fine). These write-ups will be published as a blog post for the community to review on Monday before Friday’s meeting. | **Vitalik Buterin posts a new idea about DAICOs.** The idea is as follows. A DAICO contract is published by a single development team that wishes to raise funds for a project. The DAICO contract starts off in “contribution mode”, specifying a mechanism by which anyone can contribute ETH to the contract, and get tokens in exchange. This could be a capped sale, an uncapped sale, a dutch auction, an interactive coin offering, a KYC’d sale with dynamic per-person caps, or whatever other mechanism the team chooses. Once the contribution period ends, the ability to contribute ETH stops, and the initial token balances are set; from there on the tokens can become tradeable. | **Bringing private data to user-governed marketplaces.** At district0x, we have thus far largely avoided this issue by building marketplaces which rely mostly on already public cryptographic data (Name Bazaar), or relatively static information users are already comfortable making public (like freelancer or employer profiles on Ethlance). Where we’ve had to protect private data for supporting services within districts, we’ve done so with purpose-built solutions. |
-[Read More](https://blog.aragon.one/aragon-team-update-december-2017-cf076d3a46a3) | [Read More](https://ethresear.ch/t/explanation-of-daicos/465) | [Read More](https://blog.district0x.io/keeps-on-the-district0x-network-b36619011792) |
+[_DAOs_](daos.md) | [_Aragon_](aragon.md) | [_Aragon_](aragon.md) |
+[<img src="news/images/p2pmodels.jpg">](https://p2pmodels.eu/) | [<img src="news/images/aragonos_3_alpha.png">](https://blog.aragon.one/introducing-aragonos-3-0-alpha-the-new-operating-system-for-protocols-and-dapps-348f7ac92cff) | [<img src="news/images/launch_of_aragon_nest.png">](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) |
+_Author unknown on Jan 31_ | _Author [Jorge Izquierdo](https://blog.aragon.one/@izqui9) on Jan 25_ | _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 24_ |
+**P2P Models is a €1.5M 5-year ERC research project to build decentralized, democratic, and sustainable Collaborative Economy organizations.** The Collaborative Economy is rapidly expanding, but it is dominated by centralized web platforms which hold user data and concentrate all decision-making power and profits. The idea of the P2P Models project is to tackle these issues, replacing the centralized web platform with DAOs on the blockchain, so we reduce the difference of power between the "infrastructure owner" and the user community. | **The new operating system for protocols and DApps.** aragonOS is smart contract development framework with a very strong focus on governance and upgradeability. This architecture can be used by any complex DApp or protocol and it allows extendability with the ability to plug in any Aragon governance module. It was originally designed to build modular DAOs, but we ended up abstracting it more and more to the point where it would be useful as the fundamental building block of any decentralized project. | **Grants program is open for submissions.** At the end of 2017 we presented Aragon Nest to the community and encouraged people to start coming up with ideas for the launch.In that blog post, Introducing Aragon Nest, we outlined the reasons and goals of the program.Now the time has come to launch the program. Submissions are now open for teams to request funding as well as come up with proposals for grants. |
+[Read More](https://p2pmodels.eu/) | [Read More](https://blog.aragon.one/introducing-aragonos-3-0-alpha-the-new-operating-system-for-protocols-and-dapps-348f7ac92cff) | [Read More](https://blog.aragon.one/launch-of-aragon-nest-8d42d1a37595) |
 
-[**Auctus to leverage Aragon to become a truly decentralized platform**](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [**Introducing Aragon Nest**](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [**District Proposal Spotlight —The Bloom Lending District**](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
+[**An Introduction to district0x**](https://cryptoslate.com/introduction-district0x-network-decentralized-communities) | [**Aragon Q4 Transparency Report**](https://blog.aragon.one/aragon-q4-transparency-report-df3195ba6fd3) | [**Decentraland Project Updates — January 31st**](https://blog.decentraland.org/decentraland-project-updates-january-31st-a99258b90642) |
 :-----------:|:-----------:|:-----------:|
-[_Ecosystem_](news/ecosystem.md) | [_Aragon_](news/aragon.md) | [_district0x_](news/district0x.md) |
-[<img src="news/images/auctus_aragon.png">](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [<img src="news/images/aragon_nest.png">](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [<img src="news/images/district0x_spotlight_bloom.jpeg">](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
-_Author [Ludmila Lopes](https://blog.auctus.org/@ludmila.omlopes) on Jan 10_ | _Author [Tatu Kärki](https://twitter.com/@smokyish) on Dec 6_ | _Author [P.J. Leimgruber](https://blog.district0x.io/@misterpeej) on Jan 1_ |
-**Auctus announces their plans to use and integrate with Aragon.** By deploying Auctus on the Aragon Network, it will be possible to protect Auctus and it’s community from any intermediary trying to abuse its power. Furthermore, it will avoid misunderstandings between agents, keeping full record of all decision making and financial decisions. It will also allow Auctus to become truly community driven, increasing the number of stakeholders, as well as decentralizing decision making and operational processes. | **A grants program to support the development of the ecosystems.** To help support the ecosystem flourish, we are introducing, together with Placeholder — lead by Joel Monegro and Chris Burniske — a grants program called Aragon Nest. The team at Placeholder has years of experience in evaluating crypto projects and teams, and we are very proud to have their expertise onboard. The goal of the program is to attract talent to research and build the necessary tooling for developing solutions around Aragon and Ethereum. | **A fully decentralized peer-to-peer lending marketplace.** district0x is thrilled to announce our partnership with Bloom to create a fully decentralized lending marketplace, the Bloom Lending District. This district will offer a standardized, transparent, peer-to-peer method for requesting and funding loans, allowing anyone with access to the internet to lend and borrow funds free of central influence. There will be no middlemen, no fees, no cross border limitations, and no constraints and will not require access to the traditional financial system — truly unleashing the power of Ethereum. |
-[Read More](https://blog.auctus.org/auctus-collaborating-with-aragon-to-become-a-truly-decentralized-platform-2fd6b4d1178c) | [Read More](https://blog.aragon.one/introducing-aragon-nest-1aa8c91c0566) | [Read More](https://blog.district0x.io/district-proposal-spotlight-the-bloom-lending-district-2448a20a4470) |
+[_district0x_](district0x.md) | [_Aragon_](news/aragon.md) | [_Ecosystem_](ecosystem.md) |
+[<img src="news/images/small-cover-d0x.jpg">](https://cryptoslate.com/introduction-district0x-network-decentralized-communities/) | [<img src="news/images/aragon_q4_transparency_report.jpeg">](https://blog.aragon.one/aragon-q4-transparency-report-df3195ba6fd3) | [<img src="news/images/decentraland_project_updates.jpeg">](https://blog.decentraland.org/decentraland-project-updates-january-31st-a99258b90642) |
+_Author [Matt Breen](https://cryptoslate.com/author/matt-breen/) on Jan 24_ | _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 17_ | _Author [Eric Schallock](https://blog.decentraland.org/@schallock) on Feb 1_ |
+**district0x is a network of decentralized markets and communities.** When it comes to (hopefully more successful) platforms enabling the creation and running of decentralised organisations, few can match district0x. Its team have a vision of a digital realm free of the traditional governance structures that we’ve become so accustomed to, and are well on their way to releasing a polished framework to create and run blockchain-based businesses. | **A recap of what has been going on with Aragon during Q4 2017** As per our Transparency Model, we do quarterly Transparency Reports of our use of funds and about the overall progress of the project. | **News and updates from the Decentraland project.** _We’ve launched our developer CLI!_ We recently released our first development tool. _LAND Deployment._ Now that the Terraform Event has concluded, we’ve completed the process of distributing all LAND to auction participants. _New Docs._ Finally, we’d like to share with you some new documentation for Decentraland. |
+[Read More](https://cryptoslate.com/introduction-district0x-network-decentralized-communities/) | [Read More](https://blog.aragon.one/aragon-q4-transparency-report-df3195ba6fd3) | [Read More](https://blog.decentraland.org/decentraland-project-updates-january-31st-a99258b90642) |
 
 ###### [Browse More News](news/index.md)
 ___
 ## [Recent Articles](articles/index.md)
 
-[<h2>Thoughts On Governance and Network Effects</h2>](articles/opinion/thoughts_on_governance_network_effects.md) |
+[<h2>TCRs - The Curation Protocol That Separates the Wheat from the Chaff</h2>](opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md) |
 :-----------|
-[_Opinion pieces_](articles/#opinion-pieces) |
-![](articles/opinion/images/thoughts_on_governance01.png) |
-_Author [Luke Duncan / @lkngtn](https://github.com/lkngtn)_ |
-This post discusses governance and its impact on network effects and why both relate to how value flows and is captured within tokenized blockchain networks. |
-[Read More](articles/opinion/thoughts_on_governance_network_effects.md) |
+[_Opinion pieces_](#opinion-pieces) |
+![](../images/monthly_no_image.png) |
+_Author [Aaron Foster / @Shyblugs](https://github.com/shyblugs)_ |
+On the internet, as on the street, reputation is everything. Whether your digital identity comprises a mugshot or a 256 bit hexadecimal address, validation and verification are still a requisite. Even on the decentralized, pseudonymous web, in which real world identities are optional, reputation still counts. The web 3.0 isn’t about concealing everyone under a cloak of invisibility; rather it’s about giving individuals the right to privacy. The freedom to choose which data they disclose to which platforms, rather than having it hoovered up by every app they install and website they join, to be stored in centralized silos that are a honeypot to hackers. |
+[Read More](opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md) |
 
-[<h2>The district0x network in a nutshell</h2>](articles/editorial/the_district0x_in_a_nutshell.md) |
+[<h2>How can Aragon create a fairer world?</h2>](opinion/how_aragon_create_a_fairer_world.md) |
 :-----------|
-[_Editorial_](articles/#editorials) |
-![](articles/editorial/images/district0x_nutshell01.jpeg) |
-_Author [Brady McKenna / @bradymck](https://github.com/bradymck)_ |
-The district0x project is building a general purpose framework of smart contracts and front end libraries for the purpose of deploying, operating, and governing communal marketplaces. The network is powered by Ethereum smart contracts, ‘Aragon’ governance and the distributed file system ‘IPFS’. The community has asked for a simple breakdown of the district0x network and the following post is based on this community feedback. Let’s dive in… |
-[Read More](articles/editorial/the_district0x_in_a_nutshell.md) |
+[_Opinion pieces_](#opinion-pieces) |
+![](../images/monthly_no_image.png) |
+_Author [Zurpples / @Zurpples](https://github.com/Zurpples)_ |
+Suddenly it’s 2020. We gaze over a border station across the DMZ. This is a land that was thought to be beyond law or justice. Now (due to tokenization and the Aragon blockchain) things are looking up. A new hotel gleams in the distance of a new city where North and South are collaborating. The entire map of the city (and who did what) is stored securely in the blockchain, crypto is the currency of the region, and people trying to get rich off of exploitation are quickly found out. |
+[Read More](opinion/how_aragon_create_a_fairer_world.md) |
 
 ###### [Browse More Articles](articles/index.md)
 ___
@@ -56,12 +54,12 @@ ___
 
 [<h2>Developer Relations opening at Aragon</h2>](https://wiki.aragon.one/jobs/openings/dev_rel/) |
 :-----------|
-We are looking for a developer relations to help third party developers create apps on top of the Aragon dapp and aragonOS. |
+We are looking for a developer relations to help third party developers create apps on top of the Aragon DApp and aragonOS. |
 [Learn More](https://wiki.aragon.one/jobs/openings/dev_rel/) |
 
-[<h2>Technical Product Manager opening at Aragon</h2>](https://wiki.aragon.one/jobs/openings/product_manager/) |
+[<h2>Head of Communications at Web3 Foundation</h2>](https://angel.co/web3-foundation/jobs/316492-head-of-communications) |
 :-----------|
-We're looking for a Technical Product Manager with a strong passion for open source, decentralization and freedom. You'll combine your strategic and technical knowledge to lead the development of the Aragon DApp. |
-[Learn More](https://wiki.aragon.one/jobs/openings/product_manager/) |
+Our Head of Communications will help Web3 establish a profile by which to attract the best strategic, educational, and academic partners, and give prominence to the ideas they champion.  |
+[Learn More](https://angel.co/web3-foundation/jobs/316492-head-of-communications) |
 
 ###### [Browse More Classifieds](classifieds/index.md)
