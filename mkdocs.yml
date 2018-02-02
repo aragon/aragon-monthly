@@ -39,11 +39,9 @@ pages:
   - Articles:
     - Home: 'articles/index.md'
     - Editorials:
-      - The district0x network in a nutshell: 'articles/editorial/the_district0x_in_a_nutshell.md'
+      - editorial_example01: 'articles/editorial/editorial_example01.md'
     - Opinion pieces:
-      - TCRs - The Curation Protocol That Separates the Wheat from the Chaff: 'articles/opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md'
-      - How can Aragon create a fairer world?: 'articles/opinion/how_aragon_create_a_fairer_world.md'
-      - Thoughts On Governance and Network Effects: 'articles/opinion/thoughts_on_governance_network_effects.md'
+      - opinion_example01: 'articles/opinion/opinion_example01.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
@@ -68,3 +66,31 @@ pages:
     - New Issue Template: 'guides/new_issue_template.md'
     - New Pull Request Template: 'guides/new_pull_request_template.md'
     - Repository structure: 'guides/repository_structure.md'
+  - Archive:
+    - Archive: 'archive/index.md'
+    - Issue 01:
+      - Front Page: 'archive/issue01/index.md'
+      - News:
+        - Home: 'archive/issue01/news/index.md'
+        - DAOs: 'archive/issue01/news/daos.md'
+        - Aragon: 'archive/issue01/news/aragon.md'
+        - district0x: 'archive/issue01/news/district0x.md'
+        - Ecosystem: 'archive/issue01/news/ecosystem.md'
+      - Articles:
+        - Home: 'archive/issue01/articles/index.md'
+        - Editorials:
+          - The district0x network in a nutshell: 'archive/issue01/articles/editorial/the_district0x_in_a_nutshell.md'
+        - Opinion pieces:
+          - TCRs - The Curation Protocol That Separates the Wheat from the Chaff: 'archive/issue01/articles/opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md'
+          - How can Aragon create a fairer world?: 'archive/issue01/articles/opinion/how_aragon_create_a_fairer_world.md'
+          - Thoughts On Governance and Network Effects: 'archive/issue01/articles/opinion/thoughts_on_governance_network_effects.md'
+        - Columns:
+          - Start a Column!: 'archive/issue01/articles/columns/submit.md'
+      - Classifieds:
+        - Home: 'archive/issue01/classifieds/index.md'
+      - Contributors:
+        - Home: 'contributors/index.md'
+        - Editors: 'contributors/editors.md'
+        - Reviewers: 'contributors/reviewers.md'
+        - Contributors: 'contributors/contributors.md'
+        - Columnists: 'contributors/columnists.md'
