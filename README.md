@@ -6,7 +6,7 @@
 
 Aragon Monthly is **created by the community, for the community**.
 
-**Anyone can contribute** by creating or requesting new content about DAOs and anything related to the Aragon ecosystem.
+**Anyone can contribute** by creating or requesting new content regarding Decentralized Autonomous Organizations or about anything related to the Aragon ecosystem.
 
 ## How does this work?
 
