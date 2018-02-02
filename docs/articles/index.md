@@ -14,13 +14,29 @@ The district0x project is building a general purpose framework of smart contract
 ## **Opinion pieces**
 > An opinion piece is an article that mainly reflects the author's opinion about the subject. Opinion pieces in the newspaper are often written by a subject-matter expert, a person with a unique perspective on an issue.
 
+[<h2>TCRs - The Curation Protocol That Separates the Wheat from the Chaff</h2>](opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md) |
+:-----------|
+[_Opinion pieces_](#opinion-pieces) |
+![](../images/monthly_no_image.png) |
+_Author [Aaron Foster / @Shyblugs](https://github.com/shyblugs)_ |
+On the internet, as on the street, reputation is everything. Whether your digital identity comprises a mugshot or a 256 bit hexadecimal address, validation and verification are still a requisite. Even on the decentralized, pseudonymous web, in which real world identities are optional, reputation still counts. The web 3.0 isn’t about concealing everyone under a cloak of invisibility; rather it’s about giving individuals the right to privacy. The freedom to choose which data they disclose to which platforms, rather than having it hoovered up by every app they install and website they join, to be stored in centralized silos that are a honeypot to hackers. |
+[Read More](opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md) |
+
+[<h2>How can Aragon create a fairer world?</h2>](opinion/how_aragon_create_a_fairer_world.md) |
+:-----------|
+[_Opinion pieces_](#opinion-pieces) |
+![](../images/monthly_no_image.png) |
+_Author [Zurpples / @Zurpples](https://github.com/Zurpples)_ |
+Suddenly it’s 2020. We gaze over a border station across the DMZ. This is a land that was thought to be beyond law or justice. Now (due to tokenization and the Aragon blockchain) things are looking up. A new hotel gleams in the distance of a new city where North and South are collaborating. The entire map of the city (and who did what) is stored securely in the blockchain, crypto is the currency of the region, and people trying to get rich off of exploitation are quickly found out. |
+[Read More](opinion/how_aragon_create_a_fairer_world.md) |
+
 [<h2>Thoughts On Governance and Network Effects</h2>](opinion/thoughts_on_governance_network_effects.md) |
 :-----------|
 [_Opinion pieces_](#opinion-pieces) |
 ![](opinion/images/thoughts_on_governance01.png) |
 _Author [Luke Duncan / @lkngtn](https://github.com/lkngtn)_ |
 This post discusses governance and its impact on network effects and why both relate to how value flows and is captured within tokenized blockchain networks. |
-[Read More](http://vitalik.ca/general/2017/12/17/voting.html) |
+[Read More](opinion/thoughts_on_governance_network_effects.md) |
 
 ## **Columns**
 > A column is a recurring piece or article in the newspaper where a writer expresses their own opinion in few columns allotted to them by the newspaper organisation.
