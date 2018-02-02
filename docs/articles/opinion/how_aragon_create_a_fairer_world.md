@@ -1,4 +1,4 @@
-# How can Argon create a fairer world?
+# How can Aragon create a fairer world?
 
 _Author [Zurpples / @Zurpples](https://github.com/Zurpples)_
 
