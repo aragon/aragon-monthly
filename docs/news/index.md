@@ -33,13 +33,13 @@ _Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on Feb 7_ | _Author [Will
 **Where research meets development.** Ever since the early days of the Aragon project we’ve known that there will be obstacles that we’ll need to solve. Concepts that exist, but require research before we can begin implementing these ideas. But there’s no single solution in governance that works for each and every one. What might work well for a global aid organization likely doesn’t fit the needs of a neighbourhood lending ecosystem. | This post is a continuation of part 1, which provided an introduction to blockchain race conditions, front-running, the 0x protocol specification and presented two ways that 0x protocol may be used to implement a decentralized exchange that eliminates front-running and trade collisions by setting the 0x order schema’s taker parameter to an externally owned account (EOA). | Space Decentral hopes to leverage some of the current development work under way in the Ethereum community to produce an open-source toolbox to collaboratively design space missions. "Space technology and Earth technology go hand in hand — we need to utilize systems thinking to solve problems in parallel,” said Yalda Mousavinia, Space Decentral co-founder, referring to blockchain technology and distributed engineering. |
 [Read More](https://blog.aragon.one/announcing-aragon-labs-a679693429ae) | [Read More](https://blog.0xproject.com/front-running-griefing-and-the-perils-of-virtual-settlement-part-2-921b00109e21) | [Read More](https://bitcoinmagazine.com/articles/space-decentral-using-blockchain-tech-democratize-space/) |
 
- | | |
+[**What Is Aragon?**](https://themerkle.com/what-is-aragon/) | | |
  :-----------:|:-----------:|:-----------:|
- | | |
- | | |
- | | |
- | | |
- | | |
+[_Aragon_](aragon.md) | | |
+[<img src="https://themerkle.com/wp-content/uploads/Aragon-Project.png">](https://themerkle.com/what-is-aragon/) | | |
+_Author [JP Buntinx](https://themerkle.com/author/writer10/) on Feb 13_ | | |
+Aragon is another one of those cryptocurrency projects intent on making the world a fairer place for everyone. More specifically, the team aims to build an infrastructure which lets anyone create value without borders or intermediaries. Additionally, they hope to democratize governance in the future, although that will not be easy. Decentralized organizations are an appealing business model, but making sure they work in the real world is something else entirely. | | |
+[Read More](https://themerkle.com/what-is-aragon/) | | |
 
  | | |
  :-----------:|:-----------:|:-----------:|
