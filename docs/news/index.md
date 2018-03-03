@@ -41,6 +41,22 @@ _Author [JP Buntinx](https://themerkle.com/author/writer10/) on Feb 13_ | _Autho
 Aragon is another one of those cryptocurrency projects intent on making the world a fairer place for everyone. More specifically, the team aims to build an infrastructure which lets anyone create value without borders or intermediaries. Additionally, they hope to democratize governance in the future, although that will not be easy. Decentralized organizations are an appealing business model, but making sure they work in the real world is something else entirely. | **Splitting the Foundation from the core devs, and kickstarting funding for other teams to work on Aragon.** In the tech world, startups usually capitalize by amassing Intellectual Property, data, and governance. They attempt to centralize all this to their own benefit. Most crypto projects that are pursuing decentralization can’t be categorized as startups. Crypto projects usually capitalize by creating a network/protocol/DApp that has a token which should become more valuable as the utility of its network/protocol/DApp grows. | **Premises, Promises, and Reality.** There is a massive divide between the promises of cryptocurrency and the use cases they currently support. Most skeptics point out reasonably that there’s little to show regarding real adoption. At the same time, people in industry argue that they need time to finish the infrastructure before they can deliver game changing apps. And the tribalism clouding the topic doesn’t help. There is room for dialogue that would benefit both sides. |
 [Read More](https://themerkle.com/what-is-aragon/) | [Read More](https://blog.aragon.one/decentralizing-aragons-development-5062fd6d135d) | [Read More](https://blog.ycombinator.com/the-decentralized-future-series/) |
 
+[**Conspiratus Podcast #1: Protocol Governance with Vlad Zamfir and Arthur Breitman**](https://www.youtube.com/watch?v=IDY_inT-q0U) | | |
+ :-----------:|:-----------:|:-----------:|
+[_Governance_](governance.md) | | |
+[<img src="https://yt3.ggpht.com/-ra9xMYcNueY/AAAAAAAAAAI/AAAAAAAAAAA/6X7Z_toKPK4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg">](https://www.youtube.com/watch?v=IDY_inT-q0U) | | |
+_Author [Conspiratus](https://www.youtube.com/channel/UCoo5hUhXpAMnoFNd_W9UKdw) on Feb 14_ | | |
+Our first full Conspiratus epsiode where we discuss protocol governance with our two guests, Vlad Zamfir and Arthur Breitman.  Check out the associated reading list for this episode [here](https://conspirat.us/podcast-resources-1-protocol-governance-300fac63ffa9) | | |
+[Watch Video](https://www.youtube.com/watch?v=IDY_inT-q0U) | | |
+
+ | | |
+ :-----------:|:-----------:|:-----------:|
+ | | |
+ | | |
+ | | |
+ | | |
+ | | |
+
  | | |
  :-----------:|:-----------:|:-----------:|
  | | |
