@@ -36,7 +36,6 @@ pages:
     - Home: 'news/index.md'
     - DAOs: 'news/daos.md'
     - Aragon: 'news/aragon.md'
-    - district0x: 'news/district0x.md'
     - Ecosystem: 'news/ecosystem.md'
   - Articles:
     - Home: 'articles/index.md'
