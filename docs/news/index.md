@@ -49,13 +49,13 @@ _Author [Conspiratus](https://www.youtube.com/channel/UCoo5hUhXpAMnoFNd_W9UKdw) 
 Our first full Conspiratus episode where we discuss protocol governance with our two guests, Vlad Zamfir and Arthur Breitman.  Check out the associated reading list for this episode [here](https://conspirat.us/podcast-resources-1-protocol-governance-300fac63ffa9) | Today it is with great excitement that the Ocean Protocol team announces the release of the Ocean Protocol Technical Whitepaper! Ocean Protocol is a labor of love, blood, sweat, and tears. It encompasses the cumulative knowledge of multiple teams across multiple domains across multiple regions. It is a schelling point, influenced by tangible proficiency in diverse areas of expertise including data ecosystem architecture, blockchain implementation, cryptographic design, token mechanics, marketplace dynamics, game theory, and scalable, best-of-breed solution delivery. It is a framework that brings together services and capabilities to unlock data for AI. | Without regulation, it is hard to avoid the abuse of a commons: whether it is water, a pasture or a forest. Even with regulation from governments there are still externalities that exist that are tough to enforce: eg, global regulation is hard, some commons are out of reach of regulation, some commons regulation could still be abused through corruption & some externalities are simply never catered for due to the cost in coordination. Instead of trying to force actors to curb the inevitable abuse of a commons, one could instead make it profitable to protect it. |
 [Watch Video](https://www.youtube.com/watch?v=IDY_inT-q0U) | [Read More](https://blog.oceanprotocol.com/ocean-protocol-technical-whitepaper-c012daf12f2e) | [Read More](https://medium.com/@simondlr/saving-the-planet-making-it-profitable-to-protect-the-commons-50393906fe22) |
 
- | | |
+[**The Token Curated Registry Reading List**](https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6) | | |
  :-----------:|:-----------:|:-----------:|
- | | |
- | | |
- | | |
- | | |
- | | |
+[_Governance_](governance.md) | | |
+[<img src="https://cdn-images-1.medium.com/max/2000/1*vltyW_uArDGQBTHeCgtufA.jpeg">](https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6) | | |
+_Author [Token Curated Registry](https://medium.com/@tokencuratedregistry) on Feb 22_ | | |
+An example of a list that could eventually become a TCR :) | | |
+[Read More](https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6) | | |
 
  | | |
  :-----------:|:-----------:|:-----------:|
