@@ -25,13 +25,13 @@ _Author [Jamie McKane](https://mybroadband.co.za/news/author/jamie-mckane) on Fe
 **Ethereum, the second-biggest cryptocurrency in the world, has great potential as a platform for autonomous applications.** It facilitates the transfer of its cryptocurrency, can support decentralised applications, and runs smart contracts. Smart contracts run on its blockchain and are the building blocks for ambitious projects, including games like CryptoKitties. To see what lies ahead for Ethereum, MyBroadband spoke to Ethereum developer Nick Johnson about the implications of decentralised organisations. | Since the “hack” of The DAO, this organizational structure has not been much used, I believe partially because of the reputational damage it caused, and partially due to its intrinsic complexity, especially for those who are not familiar with decentralized governance and/or blockchain. Nevertheless, if 2017 has been the year for ICOs, 2018 may be the year for the DAO return. | **What are Bonding Curves?** This is a technical primer on how to make your own bonding curves, followed by a discussion about the opportunities and risks involved. If you’re not interested in the tech, skip to the end for some general insights. If you just want some code samples in solidity, the reference github repo is [here](https://github.com/relevant-community/contracts/tree/bondingCurves/contracts) |
 [Read More](https://mybroadband.co.za/news/cryptocurrency/246104-building-a-decentralised-business-on-ethereum.html) | [Read More](https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0) | [Read More](https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17) |
 
- | | |
+[**Announcing Aragon Labs**](https://blog.aragon.one/announcing-aragon-labs-a679693429ae) | | |
  :-----------:|:-----------:|:-----------:|
- | | |
- | | |
- | | |
- | | |
- | | |
+[_Aragon_](aragon.md) | | |
+[<img src="https://cdn-images-1.medium.com/max/2000/1*nx1j3ffgge1ebNObsgh1Zg.png">](https://blog.aragon.one/announcing-aragon-labs-a679693429ae) | | |
+_Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on Feb 7_ | | |
+**Where research meets development.** Ever since the early days of the Aragon project we’ve known that there will be obstacles that we’ll need to solve. Concepts that exist, but require research before we can begin implementing these ideas. But there’s no single solution in governance that works for each and every one. What might work well for a global aid organization likely doesn’t fit the needs of a neighbourhood lending ecosystem. | | |
+[Read More](https://blog.aragon.one/announcing-aragon-labs-a679693429ae) | | |
 
  | | |
  :-----------:|:-----------:|:-----------:|
