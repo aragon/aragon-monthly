@@ -57,12 +57,12 @@ _Author [Token Curated Registry](https://medium.com/@tokencuratedregistry) on Fe
 An example of a list that could eventually become a TCR :) | **An incredible weekend of building and bonding with the Denver community.** This past weekend several members of the Aragon team, including Jorge, Luke, Oliver, and myself (John), attended ETHDenver in Colorado, USA. ETHDenver is an Ethereum community event featuring a hackathon and workshops. As we shared previously on the blog, Aragon helped sponsor the event this year and provided bounties for Best App/Integration and Best Proposal. What followed was a whirlwind weekend of hacking, mentoring, learning, and bonding. | Abraham Lincoln famously said that “government of the people, by the people, for the people, shall not perish from the earth,” but looking around these days, you would be forgiven if you thought representative democracy had already been buried alongside Washington, Jefferson, and Roosevelt. Confidence in Congress remains pitifully low, driven by perceived low ethical standards and an increasing awareness that politics is bought by the highest bidder. |
 [Read More](https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6) | [Read More](https://blog.aragon.one/aragon-ethdenver-recap-4a869a68bda2) | [Read More](https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/) |
 
- | | |
+[**Aragon Team Update: February 2018**](https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742) | | |
  :-----------:|:-----------:|:-----------:|
- | | |
- | | |
- | | |
- | | |
- | | |
+[_Aragon_](aragon.md) | | |
+[<img src="https://cdn-images-1.medium.com/max/2000/1*zLEFIEzr7MCEYr6GiGoUow.png">](https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742) | | |
+_Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Feb 26_ | | |
+**Written reviews of what the team members have been up to.** Team members will produce a write-up of the most important things they have worked on since last Community Meeting, the problems they have found and what they plan to do in the next weeks (that can be a bit blurry, and that’s fine). These write-ups will be published as a blog post for the community to review on Monday before Friday’s meeting. | | |
+[Read More](https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742) | | |
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
