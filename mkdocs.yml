@@ -41,9 +41,9 @@ pages:
   - Articles:
     - Home: 'articles/index.md'
     - Editorials:
-      - editorial_example01: 'articles/editorial/editorial_example01.md'
+      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - opinion_example01: 'articles/opinion/opinion_example01.md'
+      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
@@ -91,8 +91,8 @@ pages:
       - Classifieds:
         - Home: 'archive/issue01/classifieds/index.md'
       - Contributors:
-        - Home: 'contributors/index.md'
-        - Editors: 'contributors/editors.md'
-        - Reviewers: 'contributors/reviewers.md'
-        - Contributors: 'contributors/contributors.md'
-        - Columnists: 'contributors/columnists.md'
+        - Home: 'archive/issue01/contributors/index.md'
+        - Editors: 'archive/issue01/contributors/editors.md'
+        - Reviewers: 'archive/issue01/contributors/reviewers.md'
+        - Contributors: 'archive/issue01/contributors/contributors.md'
+        - Columnists: 'archive/issue01/contributors/columnists.md'

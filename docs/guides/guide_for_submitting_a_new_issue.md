@@ -4,7 +4,7 @@
 - Fill out the request with all the relevant information following the [new Issue template](new_issue_template.md)
 - Submit the new Issue and participate in the discussion on that Issue
 ___
-# Here's a breakdown of what you should include in your request for new content
+# Here's a breakdown of what you should include in your **request for new content**
 
 ## Request category:
 _Article_ / _Column_ / _News_
