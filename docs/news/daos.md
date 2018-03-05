@@ -9,8 +9,8 @@
  |
  |
 
- [**Decentralized Governance Matters**](https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed) | [**2018 — The DAOs return**](https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0)  | |
- :-----------:|:-----------:|:-----------:|
+[**Decentralized Governance Matters**](https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed) | [**2018 — The DAOs return**](https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0)  | |
+:-----------:|:-----------:|:-----------:|
 [DAOs](daos.md) | [DAOs](daos.md) |  |
 [<img src="../images/monthly_no_image.png">](https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed) | [<img src="https://cdn-images-1.medium.com/max/1800/1*LnAtxkUpp_nL1vJ06FtVzw.png">](https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0) | |
 _Author [Matan Field](https://medium.com/@matanfield) on Feb 6_ | _Author [Cris C.](https://blog.goodaudience.com/@carrascosa.cobos) on Jan 2_ | |
