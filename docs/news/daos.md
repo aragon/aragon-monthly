@@ -16,3 +16,8 @@ In my last article, I’ve discussed some of the most common types of blockchain
 _Author [Matan Field](https://medium.com/@matanfield) on Feb 6_ | _Author [Cris C.](https://blog.goodaudience.com/@carrascosa.cobos) on Jan 2_ |  |
 **Blockchain Is a Decentralized Governance System.** Blockchain hype is at an all-time high and many people anticipate the first decentralized application to reach the market and gain mass adoption. The term DAO (decentralized autonomous organization) is no longer esoteric. And hundreds of like-minded teams are building decentralized collaborative social news, insurance and investment platforms, numerous collaboration spaces, and even a couple of decentralized autonomous space agencies. | Since the “hack” of The DAO, this organizational structure has not been much used, I believe partially because of the reputational damage it caused, and partially due to its intrinsic complexity, especially for those who are not familiar with decentralized governance and/or blockchain. Nevertheless, if 2017 has been the year for ICOs, 2018 may be the year for the DAO return. |  |
 [Read More](https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed)| [Read More](https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0) |  |
+[**Decentralization 2.0**](https://medium.com/@jtiannelli63/decentralization-2-0-2e47b263e0f2/) |  |
+[_DAO_](tag.md) |  |
+_Author [Joe Iannelli](https://medium.com/@jtiannelli63) on Feb 21_ |  |
+**A plan of action for moving past the buzzwords.** |  |
+[Read More](https://medium.com/@jtiannelli63/decentralization-2-0-2e47b263e0f2) |  |
