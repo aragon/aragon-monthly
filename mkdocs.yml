@@ -96,3 +96,23 @@ pages:
         - Reviewers: 'archive/issue01/contributors/reviewers.md'
         - Contributors: 'archive/issue01/contributors/contributors.md'
         - Columnists: 'archive/issue01/contributors/columnists.md'
+    - Issue 02:
+      - Front Page: 'archive/issue02/index.md'
+      - News:
+        - Home: 'archive/issue02/news/index.md'
+        - DAOs: 'archive/issue02/news/daos.md'
+        - Aragon: 'archive/issue02/news/aragon.md'
+        - district0x: 'archive/issue02/news/governance.md'
+        - Ecosystem: 'archive/issue02/news/ecosystem.md'
+      - Articles:
+        - Home: 'archive/issue02/articles/index.md'
+        - Columns:
+          - Start a Column!: 'archive/issue02/articles/columns/submit.md'
+      - Classifieds:
+        - Home: 'archive/issue02/classifieds/index.md'
+      - Contributors:
+        - Home: 'archive/issue02/contributors/index.md'
+        - Editors: 'archive/issue02/contributors/editors.md'
+        - Reviewers: 'archive/issue02/contributors/reviewers.md'
+        - Contributors: 'archive/issue02/contributors/contributors.md'
+        - Columnists: 'archive/issue02/contributors/columnists.md'
