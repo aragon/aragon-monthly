@@ -27,3 +27,9 @@ _Author [Joe Iannelli](https://medium.com/@jtiannelli63) on Feb 21_  |
 _Author [Jose Garay](https://medium.com/@joselfgaray) on Mar 10_ |
 **Collaboration is defined in the dictionary as the situation of two or more people working together to create or achieve the same thing.** It’s a simple yet powerful concept that we will explore in this first piece of the series, touching on how the evolution of communication has shaped its form and how it then evolved to advance pretty much any human activity. |
 [Read More](https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d) |
+[DAOs, Democracy and Governance](http://merkle.com/papers/DAOdemocracyDraft.pdf) |
+[_DAOs_](daos.md) |
+![](https://i.ytimg.com/vi/dvzpvXLbpv4/maxresdefault.jpg) |
+_Author [Ralph C. Merkle](http://www.merkle.com/) on May 17th 2016_ |
+**Democracies are typically seen as governments which call upon the governed to make the major decisions of government:** who shall lead, what policies to follow, what laws to enact. In all these matters democracies call upon ordinary citizens to make complex decisions with eventful consequences.  |
+[Read More](http://merkle.com/papers/DAOdemocracyDraft.pdf) |
