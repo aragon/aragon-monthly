@@ -16,15 +16,9 @@ In my last article, I’ve discussed some of the most common types of blockchain
 _Author [Matan Field](https://medium.com/@matanfield) on Feb 6_ | _Author [Cris C.](https://blog.goodaudience.com/@carrascosa.cobos) on Jan 2_ |  |
 **Blockchain Is a Decentralized Governance System.** Blockchain hype is at an all-time high and many people anticipate the first decentralized application to reach the market and gain mass adoption. The term DAO (decentralized autonomous organization) is no longer esoteric. And hundreds of like-minded teams are building decentralized collaborative social news, insurance and investment platforms, numerous collaboration spaces, and even a couple of decentralized autonomous space agencies. | Since the “hack” of The DAO, this organizational structure has not been much used, I believe partially because of the reputational damage it caused, and partially due to its intrinsic complexity, especially for those who are not familiar with decentralized governance and/or blockchain. Nevertheless, if 2017 has been the year for ICOs, 2018 may be the year for the DAO return. |  |
 [Read More](https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed)| [Read More](https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0) |  |
-[**DAOs, Democracy and Governance**](http://merkle.com/papers/DAOdemocracyDraft.pdf) |  |
+[**Prediction markets for content curation DAOs**](https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312) |  |
 [_DAOs_](daos.md) |  |
-[<img src="../../images/monthly_no_image.png">](http://merkle.com/papers/DAOdemocracyDraft.pdf) |  |
-_Author [Ralph C. Merkle](http://www.merkle.com/) on May 17th 2016_ |  |
-**Democracies are typically seen as governments which call upon the governed to make the major decisions of government:** who shall lead, what policies to follow, what laws to enact. In all these matters democracies call upon ordinary citizens to make complex decisions with eventful consequences. |  |
-[Read More](http://merkle.com/papers/DAOdemocracyDraft.pdf) |  |
-[**DAOs and the Future of Work**](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288) |  |
-[_DAOs_](daos.md) |  |
-![](https://cdn-images-1.medium.com/max/800/1*HNsCGCeeZxBTYIXb2R1a4Q.jpeg) |  |
-_Author [David Passiak](https://hackernoon.com/@passiak?source=post_header_lockup) on Mar 28th 2016_ |  |
-**There is a lot of talk about the threat of automation. AI and robots are coming to take our jobs** Corporations and the government are taking control of our lives. This creates a scarcity mindset of “us versus them,” leading us to ask, How am I going to protect myself? Will I be one of the few people left when machines take over? |  |
-[Read More](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288) |  |
+[<img src="../../images/monthly_no_image.png">](https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312) |  |
+_Author [Vitalik Buterin](https://ethresear.ch/u/vbuterin) on Mar 6th 2016_ |  |
+**Suppose that you have a social media platform on which anyone can theoretically post content;** this could be Twitter or Reddit, some blockchain-based decentralized platform, and the internet itself. One highly desirable thing to have is a way of quickly filtering out content that is obviously malicious, such as spam, scams and impersonations. |  |
+[Read More](https://ethresear.ch/t/prediction-markets-for-content-curation-daos/1312) |  |
