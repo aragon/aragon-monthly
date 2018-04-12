@@ -30,6 +30,9 @@ _Author [Jose Garay](https://medium.com/@joselfgaray) on Mar 10_ |
 [DAOs, Democracy and Governance](http://merkle.com/papers/DAOdemocracyDraft.pdf) |
 [_DAOs_](daos.md) |
 ![](https://i.ytimg.com/vi/dvzpvXLbpv4/maxresdefault.jpg) |
-_Author [Ralph C. Merkle](http://www.merkle.com/) on May 17th 2016_ |
-**Democracies are typically seen as governments which call upon the governed to make the major decisions of government:** who shall lead, what policies to follow, what laws to enact. In all these matters democracies call upon ordinary citizens to make complex decisions with eventful consequences.  |
-[Read More](http://merkle.com/papers/DAOdemocracyDraft.pdf) |
+[**Prediction markets for content curation DAOs**](https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/) |  |
+[_DAOs_](daos.md) |  |
+[<img src="../../images/monthly_no_image.png">](https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/) |  |
+_Author [Rachel Rose O'Leary](https://www.coindesk.com/author/rachelroseoleary/) on Mar 22th 2018_ |  |
+**Who has the authority to change a public blockchain?** It's a question that has been in the minds of top cryptocurrency developers as the many available networks struggle to serve their diverse, often conflicting stakeholders. But that's not to say there aren't norms and best practices - the ability to make and enforce software changes is generally split between the developers that write the code and the computers, or nodes, that install it.. |  |
+[Read More](https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/) |  |
