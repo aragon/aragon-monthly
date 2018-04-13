@@ -72,5 +72,12 @@ _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Feb 26_ | _Author [J
 _Author [Mislav Javor](https://mislavjavor.github.io/) on Feb 21_ | _Author [James Pitts](https://medium.com/@jpitts) on Feb 12_ | |
 In my last article, I’ve discussed some of the most common types of blockchain tokens and the disadvantages of making everything a utility token. A critique is not worth much without offering a solution, so in this article I’ll focus on a legacy inspired company governance on the blockchain. How do you ensure both upgradeability and stability. In other words, how do you make sure that people who are using your contract have trust that the entire system they’ve put their livelihoods in won’t fall under their feet and simultaneously ensure that the contract is flexible enough to adapt to changing circumstances? | _Greg Colvin and I would like to invite the community to come together and participate in improving the Ethereum improvement process (and so much more)._ We propose to create a Fellowship within which the Ethereum community can self-organize to maximize technical opportunities, share ideas and work together effectively, online and in person, across national, organizational and other boundaries. | |
 [Read More](https://mislavjavor.github.io/2018-02-21/Democratically-Mutable-DAO/) | [Read More](https://medium.com/@jpitts/an-open-invitation-to-participate-in-a-fellowship-of-ethereum-magicians-982e6143db4f) | |
+[Collaborare  —  The Ugly DAOckling #1](https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d) |  |
+[_DAOs_](daos.md) |  |
+[<img src="../../images/monthly_no_image.png">](https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d) |  |
+_Author [Jose Garay](https://medium.com/@joselfgaray) on Mar 10#_  |  |
+**Collaboration is defined in the dictionary as the situation of two or more people working together to create or achieve the same thing.** It’s a simple yet powerful concept that we will explore in this first piece of the series, touching on how the evolution of communication has shaped its form and how it then evolved to advance pretty much any human activity.  |  |
+[Read More](https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d)  |  |
+
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
