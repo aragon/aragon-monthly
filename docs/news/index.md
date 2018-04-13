@@ -72,5 +72,11 @@ _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Feb 26_ | _Author [J
 _Author [Mislav Javor](https://mislavjavor.github.io/) on Feb 21_ | _Author [James Pitts](https://medium.com/@jpitts) on Feb 12_ | |
 In my last article, I’ve discussed some of the most common types of blockchain tokens and the disadvantages of making everything a utility token. A critique is not worth much without offering a solution, so in this article I’ll focus on a legacy inspired company governance on the blockchain. How do you ensure both upgradeability and stability. In other words, how do you make sure that people who are using your contract have trust that the entire system they’ve put their livelihoods in won’t fall under their feet and simultaneously ensure that the contract is flexible enough to adapt to changing circumstances? | _Greg Colvin and I would like to invite the community to come together and participate in improving the Ethereum improvement process (and so much more)._ We propose to create a Fellowship within which the Ethereum community can self-organize to maximize technical opportunities, share ideas and work together effectively, online and in person, across national, organizational and other boundaries. | |
 [Read More](https://mislavjavor.github.io/2018-02-21/Democratically-Mutable-DAO/) | [Read More](https://medium.com/@jpitts/an-open-invitation-to-participate-in-a-fellowship-of-ethereum-magicians-982e6143db4f) | |
+[**DAOs, Democracy and Governance**](http://merkle.com/papers/DAOdemocracyDraft.pdf) |  |
+[_DAOs_](daos.md) |  |
+[<img src="../../images/monthly_no_image.png">](http://merkle.com/papers/DAOdemocracyDraft.pdf) |  |
+_Author [Ralph C. Merkle](http://www.merkle.com/) on May 17th 2016_ |  |
+**Democracies are typically seen as governments which call upon the governed to make the major decisions of government:** who shall lead, what policies to follow, what laws to enact. In all these matters democracies call upon ordinary citizens to make complex decisions with eventful consequences. |  |
+[Read More](http://merkle.com/papers/DAOdemocracyDraft.pdf) |  |
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
