@@ -37,12 +37,13 @@ pages:
     - DAOs: 'news/daos.md'
     - Aragon: 'news/aragon.md'
     - Ecosystem: 'news/ecosystem.md'
+    - Governance: 'news/governance.md'
   - Articles:
     - Home: 'articles/index.md'
     - Editorials:
-      - editorial_example01: 'articles/editorial/editorial_example01.md'
+      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - opinion_example01: 'articles/opinion/opinion_example01.md'
+      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
@@ -90,8 +91,28 @@ pages:
       - Classifieds:
         - Home: 'archive/issue01/classifieds/index.md'
       - Contributors:
-        - Home: 'contributors/index.md'
-        - Editors: 'contributors/editors.md'
-        - Reviewers: 'contributors/reviewers.md'
-        - Contributors: 'contributors/contributors.md'
-        - Columnists: 'contributors/columnists.md'
+        - Home: 'archive/issue01/contributors/index.md'
+        - Editors: 'archive/issue01/contributors/editors.md'
+        - Reviewers: 'archive/issue01/contributors/reviewers.md'
+        - Contributors: 'archive/issue01/contributors/contributors.md'
+        - Columnists: 'archive/issue01/contributors/columnists.md'
+    - Issue 02:
+      - Front Page: 'archive/issue02/index.md'
+      - News:
+        - Home: 'archive/issue02/news/index.md'
+        - DAOs: 'archive/issue02/news/daos.md'
+        - Aragon: 'archive/issue02/news/aragon.md'
+        - district0x: 'archive/issue02/news/governance.md'
+        - Ecosystem: 'archive/issue02/news/ecosystem.md'
+      - Articles:
+        - Home: 'archive/issue02/articles/index.md'
+        - Columns:
+          - Start a Column!: 'archive/issue02/articles/columns/submit.md'
+      - Classifieds:
+        - Home: 'archive/issue02/classifieds/index.md'
+      - Contributors:
+        - Home: 'archive/issue02/contributors/index.md'
+        - Editors: 'archive/issue02/contributors/editors.md'
+        - Reviewers: 'archive/issue02/contributors/reviewers.md'
+        - Contributors: 'archive/issue02/contributors/contributors.md'
+        - Columnists: 'archive/issue02/contributors/columnists.md'

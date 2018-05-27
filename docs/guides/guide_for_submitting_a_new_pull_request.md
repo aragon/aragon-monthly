@@ -11,7 +11,7 @@
 - [Guide for submitting Articles](guide_for_submitting_articles.md)
 - [Guide for submitting Classifieds](guide_for_submitting_classifieds.md)
 ___
-# Here's a breakdown of what you should include in your submission for new content
+# Here's a breakdown of what you should include in your **submission for new content**
 
 ## Closing of a referenced Issue
 Closes #X
