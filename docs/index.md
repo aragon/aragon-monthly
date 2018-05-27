@@ -1,6 +1,10 @@
 # Aragon Monthly
 #### The community curated digital newspaper about DAOs and the Aragon ecosystem
+<<<<<<< HEAD
 #### Issue 04, April 5th 2018
+=======
+#### Issue 03, April 5th 2018
+>>>>>>> b7ddad1cfc0fb99c3f1961742d28b448946a1e98
 ___
 > **Content curation is the process of gathering information relevant to a particular topic or area of interest.**
 
