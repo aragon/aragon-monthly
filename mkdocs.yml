@@ -3,20 +3,23 @@ site_url: https://monthly.aragon.one
 repo_name: 'aragon/aragon-monthly'
 repo_url: 'https://github.com/aragon/aragon-monthly'
 site_description: 'Aragon Monthly, a community curated monthly digital newspaper about DAOs and the Aragon ecosystem'
-theme:     'material'
-site_favicon: 'images/favicon.ico'
+theme:
+  name: 'material'
+  palette:
+    primary: 'grey'
+    accent: 'cyan'
+  font:
+      text: 'Crimson Text'
+      code: 'Crimson Text'
+  logo:    'images/logo.svg'
+  favicon: 'images/favicon.ico'
+  feature:
+      tabs: 'true'
 extra_css:
   - 'stylesheets/monthly.css'
 extra_javascript:
   - 'javascript/extra_js.js'
 extra:
-  palette:
-    primary: 'grey'
-    accent:  'cyan'
-  logo:    'images/logo.svg'
-  font:
-    text: 'Crimson Text'
-    code: 'Crimson Text'
   social:
     - type: 'github'
       link: 'https://github.com/aragon'
@@ -28,8 +31,6 @@ extra:
       link: 'https://twitter.com/AragonProject'
     - type: 'linkedin'
       link: 'https://www.linkedin.com/company/aragonproject/'
-  feature:
-    tabs: 'true'
 pages:
   - Front Page: 'index.md'
   - News:

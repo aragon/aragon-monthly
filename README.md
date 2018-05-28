@@ -65,6 +65,17 @@ If you have a topic that you would like to either read about, create a [New Issu
 
 Be sure to include all the details in the new [Issue](https://github.com/aragon/aragon-monthly/issues) as described in the [Guide for submitting a new Issue](https://monthly.aragon.one/guides/guide_for_submitting_a_new_issue/)
 ___
+
+## Current versions used:
+[MKDocs version 0.17.3](http://www.mkdocs.org/about/release-notes/)
+
+[Material for MkDocs version 2.7.3](https://squidfunk.github.io/mkdocs-material/release-notes/)
+
+### To upgrade from previous versions:
+`pip install --upgrade mkdocs`
+
+`pip install --upgrade mkdocs-material`
+
 ## How do I run a local version of the site for editing?
 
 - Install [MkDocs](http://www.mkdocs.org/)
