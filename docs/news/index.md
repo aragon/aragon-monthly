@@ -17,6 +17,7 @@ _Author [Author Name](URI_to_author_profile) on Month Date#_ |
 | | |  
 | | |  
 
+<<<<<<< HEAD
 | | |  
 :-----------:|:-----------:|:-----------:|  
 | | |  
@@ -26,4 +27,6 @@ _Author [Author Name](URI_to_author_profile) on Month Date#_ |
 | | |  
 
 
+=======
+>>>>>>> b7ddad1cfc0fb99c3f1961742d28b448946a1e98
 ## [Submit News!](../guides/guide_for_submitting_news.md)
