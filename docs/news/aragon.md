@@ -3,7 +3,7 @@
 ## **Featured**
 
 [<h2>Enabling crypto networks to become cross-chain using Witnet</h2>](https://medium.com/witnet/enabling-crypto-networks-to-become-cross-chain-using-witnet-2c8d3731fcb5)| 
-:-----------:|
+:-----------|
 [Aragon](aragon.md)|
 [<img src="https://cdn-images-1.medium.com/max/2000/1*5quZiEFOGAy-NE67saKEoA.png">](https://medium.com/witnet/enabling-crypto-networks-to-become-cross-chain-using-witnet-2c8d3731fcb5) |
 _Author [Adán Sánchez de Pedro](https://medium.com/@aesedepece) on Mar 5_ | 
