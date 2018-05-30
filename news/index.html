@@ -1,4 +1,7 @@
 
+
+
+
 <!DOCTYPE html>
 <html lang="en" class="no-js">
   <head>
@@ -14,9 +17,26 @@
       
       
       
-        <link rel="shortcut icon" href="../images/favicon.ico">
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
       
-      <meta name="generator" content="mkdocs-0.16.3, mkdocs-material-1.10.1">
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../images/favicon.ico">
+      <meta name="generator" content="mkdocs-0.17.3, mkdocs-material-2.7.3">
     
     
       
@@ -24,20 +44,18 @@
       
     
     
-      <script src="../assets/javascripts/modernizr-e826f8942a.js"></script>
-    
-    
-      <link rel="stylesheet" href="../assets/stylesheets/application-a20f419c8e.css">
+      <link rel="stylesheet" href="../assets/stylesheets/application.8d40d89b.css">
       
-        <link rel="stylesheet" href="../assets/stylesheets/application-23f75ab9c7.palette.css">
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.6079476c.css">
       
     
     
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
       
-        
-        
-        
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson Text:300,400,400i,700|Crimson+Text">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text:300,400,400i,700|Crimson+Text">
         <style>body,input{font-family:"Crimson Text","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Crimson Text","Courier New",Courier,monospace}</style>
       
       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -48,22 +66,43 @@
     
   </head>
   
-  
-  
-  
-    <body data-md-color-primary="grey" data-md-color-accent="cyan">
+    
+    
+    <body dir="ltr" data-md-color-primary="grey" data-md-color-accent="cyan">
   
     <svg class="md-svg">
       <defs>
         
         
-          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448" viewBox="0 0 416 448" id="github"><path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19T128 352t-18.125-8.5-10.75-19T96 304t3.125-20.5 10.75-19T128 256t18.125 8.5 10.75 19T160 304zm160 0q0 10-3.125 20.5t-10.75 19T288 352t-18.125-8.5-10.75-19T256 304t3.125-20.5 10.75-19T288 256t18.125 8.5 10.75 19T320 304zm40 0q0-30-17.25-51T296 232q-10.25 0-48.75 5.25Q229.5 240 208 240t-39.25-2.75Q130.75 232 120 232q-29.5 0-46.75 21T56 304q0 22 8 38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0 37.25-1.75t35-7.375 30.5-15 20.25-25.75T360 304zm56-44q0 51.75-15.25 82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5T212 416q-19.5 0-35.5-.75t-36.875-3.125-38.125-7.5-34.25-12.875T37 371.5t-21.5-28.75Q0 312 0 260q0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25 30.875Q171.5 96 212 96q37 0 70 8 26.25-20.5 46.75-30.25T376 64q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34 99.5z"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
         
       </defs>
     </svg>
-    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
-    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <a href="#news" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
@@ -71,9 +110,7 @@
       <div class="md-flex__cell md-flex__cell--shrink">
         <a href="https://monthly.aragon.one" title="Aragon Monthly" class="md-header-nav__button md-logo">
           
-            
-              <img src="../images/logo.svg" width="24" height="24">
-            
+            <img src="../images/logo.svg" width="24" height="24">
           
         </a>
       </div>
@@ -81,35 +118,38 @@
         <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
       </div>
       <div class="md-flex__cell md-flex__cell--stretch">
-        <span class="md-flex__ellipsis md-header-nav__title">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           
             
-              
-                <span class="md-header-nav__parent">
-                  News
-                </span>
-              
+              <span class="md-header-nav__topic">
+                Aragon Monthly
+              </span>
+              <span class="md-header-nav__topic">
+                Home
+              </span>
             
-            Home
           
-        </span>
+        </div>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
         
-          <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
           
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
 <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="search"></label>
-  <div class="md-search__inner">
+  <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" required placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
       <label class="md-icon md-search__icon" for="search"></label>
-      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="result" data-md-lang-search="" data-md-lang-tokenizer="[\s\-]+">
-          <div class="md-search-result__meta" data-md-lang-result-none="No matching documents" data-md-lang-result-one="1 matching document" data-md-lang-result-other="# matching documents">
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
             Type to start searching
           </div>
           <ol class="md-search-result__list"></ol>
@@ -118,6 +158,7 @@
     </div>
   </div>
 </div>
+          
         
       </div>
       
@@ -129,7 +170,7 @@
   
 
 
-  <a href="https://github.com/aragon/aragon-monthly" title="Go to repository" class="md-source" data-md-source="github">
+  <a href="https://github.com/aragon/aragon-monthly/" title="Go to repository" class="md-source" data-md-source="github">
     
       <div class="md-source__icon">
         <svg viewBox="0 0 24 24" width="24" height="24">
@@ -150,6 +191,8 @@
 </header>
     
     <div class="md-container">
+      
+        
       
       
         
@@ -287,13 +330,11 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="drawer">
-    <div class="md-nav__button md-logo">
+    <span class="md-nav__button md-logo">
       
-        
-          <img src="../images/logo.svg">
-        
+        <img src="../images/logo.svg" width="48" height="48">
       
-    </div>
+    </span>
     Aragon Monthly
   </label>
   
@@ -304,7 +345,7 @@
   
 
 
-  <a href="https://github.com/aragon/aragon-monthly" title="Go to repository" class="md-source" data-md-source="github">
+  <a href="https://github.com/aragon/aragon-monthly/" title="Go to repository" class="md-source" data-md-source="github">
     
       <div class="md-source__icon">
         <svg viewBox="0 0 24 24" width="24" height="24">
@@ -402,6 +443,8 @@
       
       
       
+      
+      
     </ul>
   
 </nav>
@@ -429,18 +472,6 @@
   <li class="md-nav__item">
     <a href="aragon/" title="Aragon" class="md-nav__link">
       Aragon
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="ecosystem/" title="Ecosystem" class="md-nav__link">
-      Ecosystem
     </a>
   </li>
 
@@ -1369,6 +1400,318 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9-3" type="checkbox" id="nav-9-3">
+    
+    <label class="md-nav__link" for="nav-9-3">
+      Issue 02
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-9-3">
+        Issue 02
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/" title="Front Page" class="md-nav__link">
+      Front Page
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9-3-2" type="checkbox" id="nav-9-3-2">
+    
+    <label class="md-nav__link" for="nav-9-3-2">
+      News
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+      <label class="md-nav__title" for="nav-9-3-2">
+        News
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/news/" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/news/daos/" title="DAOs" class="md-nav__link">
+      DAOs
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/news/aragon/" title="Aragon" class="md-nav__link">
+      Aragon
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/news/governance/" title="district0x" class="md-nav__link">
+      district0x
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/news/ecosystem/" title="Ecosystem" class="md-nav__link">
+      Ecosystem
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9-3-3" type="checkbox" id="nav-9-3-3">
+    
+    <label class="md-nav__link" for="nav-9-3-3">
+      Articles
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+      <label class="md-nav__title" for="nav-9-3-3">
+        Articles
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/articles/" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9-3-3-2" type="checkbox" id="nav-9-3-3-2">
+    
+    <label class="md-nav__link" for="nav-9-3-3-2">
+      Columns
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="4">
+      <label class="md-nav__title" for="nav-9-3-3-2">
+        Columns
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/articles/columns/submit/" title="Start a Column!" class="md-nav__link">
+      Start a Column!
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9-3-4" type="checkbox" id="nav-9-3-4">
+    
+    <label class="md-nav__link" for="nav-9-3-4">
+      Classifieds
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+      <label class="md-nav__title" for="nav-9-3-4">
+        Classifieds
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/classifieds/" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9-3-5" type="checkbox" id="nav-9-3-5">
+    
+    <label class="md-nav__link" for="nav-9-3-5">
+      Contributors
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+      <label class="md-nav__title" for="nav-9-3-5">
+        Contributors
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/contributors/" title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/contributors/editors/" title="Editors" class="md-nav__link">
+      Editors
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/contributors/reviewers/" title="Reviewers" class="md-nav__link">
+      Reviewers
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/contributors/contributors/" title="Contributors" class="md-nav__link">
+      Contributors
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../archive/issue02/contributors/columnists/" title="Columnists" class="md-nav__link">
+      Columnists
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -1410,6 +1753,8 @@
       
       
       
+      
+      
     </ul>
   
 </nav>
@@ -1422,317 +1767,211 @@
             <article class="md-content__inner md-typeset">
               
                 
+                  <a href="https://github.com/aragon/aragon-monthly/edit/master/docs/news/index.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
+                
                 
                 <h1 id="news">News</h1>
 <h2 id="featured"><strong>Featured</strong></h2>
 <table>
 <thead>
 <tr>
-<th align="left"><a href="https://blog.aragon.one/announcing-aragon-labs-a679693429ae"><h2>Announcing Aragon Labs</h2></a></th>
+<th align="left"><a href="https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2"><h2>Pilot Experiment of the Space Decentral Collaboration Process</h2></a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="aragon/"><em>Aragon</em></a></td>
+<td align="left"><a href="daos/"><em>DAOs</em></a></td>
 </tr>
 <tr>
-<td align="left"><a href="https://blog.aragon.one/announcing-aragon-labs-a679693429ae"><img src="https://cdn-images-1.medium.com/max/2000/1*nx1j3ffgge1ebNObsgh1Zg.png"></a></td>
+<td align="left"><a href="https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2"><img src="https://cdn-images-1.medium.com/max/2000/1*D7j0jtilNSqxHxpsxFLeDg.png"></a></td>
 </tr>
 <tr>
-<td align="left"><em>Author <a href="https://blog.aragon.one/@lkngtn">Luke Duncan</a> on Feb 7</em></td>
+<td align="left"><em>Author <a href="https://medium.com/@Suzi_Bianco">Suzi Bianco</a> on Mar 26</em></td>
 </tr>
 <tr>
-<td align="left"><strong>Where research meets development.</strong> Ever since the early days of the Aragon project we’ve known that there will be obstacles that we’ll need to solve. Concepts that exist, but require research before we can begin implementing these ideas. But there’s no single solution in governance that works for each and every one. What might work well for a global aid organization likely doesn’t fit the needs of a neighbourhood lending ecosystem. The goal of Aragon Labs is to enable experimental research and development efforts that move fast and some times break (minor) things.</td>
+<td align="left"><strong>We invite you to propose our first space missions!</strong> We’re happy to see people discussing new and exciting concepts for space missions in the Space Decentral forum. For those who had the chance to view our talk at the Ethereum Community Conference, you got a preview at how we propose to operate Space Decentral as an autonomous organization that uses Aragon, in such a way that global citizens can unite to collectively develop an open source and strategic space program.</td>
 </tr>
 <tr>
-<td align="left"><a href="https://blog.aragon.one/announcing-aragon-labs-a679693429ae">Read More</a></td>
+<td align="left"><a href="https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2">Read More</a></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://blog.aragon.one/bringing-daos-back-aragon-monthly-92756cb65639"><strong>Bringing DAOs back-Aragon Monthly</strong></a></th>
-<th align="center"><a href="https://blog.aragon.one/aragon-team-update-january-2018-aacd32b709ed"><strong>Aragon Team Update: January 2018</strong></a></th>
-<th align="center"><a href="https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed"><strong>Decentralized Governance Matters</strong></a></th>
+<th align="center"><a href="http://merkle.com/papers/DAOdemocracyDraft.pdf"><strong>DAOs, Democracy and Governance</strong></a></th>
+<th align="center"><a href="https://www.dashforcenews.com/what-is-a-dao-and-why-is-it-revolutionary/"><strong>What is a DAO and why is it revolutionary</strong></a></th>
+<th align="center"><a href="https://medium.com/@jtiannelli63/decentralization-2-0-2e47b263e0f2"><strong>Decentralization 2.0</strong></a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
 <td align="center"><a href="daos/">DAOs</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://blog.aragon.one/bringing-daos-back-aragon-monthly-92756cb65639"><img src="https://cdn-images-1.medium.com/max/1000/1*gxOE5T3i1GRSFq4J-5A-9Q.png"></a></td>
-<td align="center"><a href="https://blog.aragon.one/aragon-team-update-january-2018-aacd32b709ed"><img src="https://cdn-images-1.medium.com/max/2000/1*8QXl_EiOUgU0ZW0BRZONMA.png"></a></td>
-<td align="center"><a href="https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed"><img src="../images/monthly_no_image.png"></a></td>
+<td align="center"><img alt="" src="./../../images/monthly_no_image.png" /></td>
+<td align="center"><a href="https://www.dashforcenews.com/what-is-a-dao-and-why-is-it-revolutionary/"><img src="https://www.dashforcenews.com/wp-content/uploads/2017/12/intro-to-dao.jpg"></a></td>
+<td align="center"><img alt="" src="./../../images/monthly_no_image.png" /></td>
 </tr>
 <tr>
-<td align="center"><em>Author <a href="https://blog.aragon.one/@Smokyish">Tatu Kärki</a> on Feb 2</em></td>
-<td align="center"><em>Author <a href="https://blog.aragon.one/@Smokyish">Tatu Kärki</a> on Feb 5</em></td>
-<td align="center"><em>Author <a href="https://medium.com/@matanfield">Matan Field</a> on Feb 6</em></td>
+<td align="center"><em>Author <a href="http://www.merkle.com/">Ralph C. Merkle</a> on May 31, 2016</em></td>
+<td align="center"><em>Author <a href="https://www.dashforcenews.com/author/joelvalenzuela/">Joël Valenzuela</a> on Dec 11, 2017</em></td>
+<td align="center"><em>Author <a href="https://medium.com/@jtiannelli63">Joe Iannelli</a> on Feb 21</em></td>
 </tr>
 <tr>
-<td align="center"><strong>Aragon Monthly is a community curated digital newspaper about DAOs and the Aragon ecosystem.</strong> Decentralized Autonomous Organizations aka DAOs have for too long been a taboo few dared to speak out loud. The catastrophic failure of The DAO ensured that the topic of decentralized organizations was pushed into oblivion. Aragon Monthly is a community curated monthly digital newspaper about Decentralized Autonomous Organizations and the Aragon ecosystem. Aragon Monthly is created by the community, for the community.</td>
-<td align="center"><strong>Written reviews of what the team members have been up to.</strong> Team members will produce a write-up of the most important things they have worked on since last Community Meeting, the problems they have found and what they plan to do in the next weeks (that can be a bit blurry, and that’s fine). These write-ups will be published as a blog post for the community to review on Monday before Friday’s meeting.</td>
-<td align="center"><strong>Blockchain Is a Decentralized Governance System.</strong> Blockchain hype is at an all-time high and many people anticipate the first decentralized application to reach the market and gain mass adoption. The term DAO (decentralized autonomous organization) is no longer esoteric. And hundreds of like-minded teams are building decentralized collaborative social news, insurance and investment platforms, numerous collaboration spaces, and even a couple of decentralized autonomous space agencies.</td>
+<td align="center">Democracies are typically seen as governments which call upon the governed to make the major decisions of government: who shall lead, what policies to follow, what laws to enact. In all these matters democracies call upon ordinary citizens to make complex decisions with eventful consequences.</td>
+<td align="center">First popularized by the ill-fated Ethereum project which resulted in the split to Ethereum Classic, the DAO is a bit of a blockchain buzzword. This innovation extends far beyond simple hype, however, and could revolutionize the way we structure organizations. Here’s a breakdown of what makes a DAO, as well as an explanation of why we should care.</td>
+<td align="center">Decentralization is what many of us claim to love about blockchain. The idea that our information is not controlled by a centralized server. The idea that a public ledger can be safely maintained without a central entity. The idea that something of value can cross boarders digitally and in only a matter of second or minutes. Blockchain is decentralized already, but what about the teams.</td>
 </tr>
 <tr>
-<td align="center"><a href="https://blog.aragon.one/bringing-daos-back-aragon-monthly-92756cb65639">Read More</a></td>
-<td align="center"><a href="https://blog.aragon.one/aragon-team-update-january-2018-aacd32b709ed">Read More</a></td>
-<td align="center"><a href="https://medium.com/daostack/decentralized-governance-first-principles-1fc6eaa492ed">Read More</a></td>
+<td align="center"><a href="http://merkle.com/papers/DAOdemocracyDraft.pdf">Read More</a></td>
+<td align="center"><a href="https://www.dashforcenews.com/what-is-a-dao-and-why-is-it-revolutionary/">Read More</a></td>
+<td align="center"><a href="https://medium.com/@jtiannelli63/decentralization-2-0-2e47b263e0f2">Read More</a></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://mybroadband.co.za/news/cryptocurrency/246104-building-a-decentralised-business-on-ethereum.html"><strong>Building a decentralised business on Ethereum</strong></a></th>
-<th align="center"><a href="https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0"><strong>2018 — The DAOs return</strong></a></th>
-<th align="center"><a href="https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17"><strong>How to Make Bonding Curves for Continuous Token Models</strong></a></th>
+<th align="center"><a href="https://chainstrategies.com/2018/03/11/malta-blockchain-regulation-proposal-legal-personality-for-daos-and-smart-contracts/"><strong>Malta Blockchain Regulation Proposal: Legal Personality for DAOs and Smart Contracts</strong></a></th>
+<th align="center"><a href="https://medium.com/witnet/enabling-crypto-networks-to-become-cross-chain-using-witnet-2c8d3731fcb5"><strong>Enabling crypto networks to become cross-chain using Witnet</strong></a></th>
+<th align="center"><a href="https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d"><strong>Collaborare — The Ugly DAOckling #1</strong></a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="ecosystem/"><em>Ecosystem</em></a></td>
-<td align="center"><a href="daos/"><em>DAOs</em></a></td>
-<td align="center"><a href="governance/"><em>Governance</em></a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
+<td align="center"><a href="aragon/">Aragon</a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://mybroadband.co.za/news/cryptocurrency/246104-building-a-decentralised-business-on-ethereum.html"><img src="https://mybroadband.co.za/news/wp-content/uploads/2017/12/Ethereum-logo-plain.jpg"></a></td>
-<td align="center"><a href="https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0"><img src="https://cdn-images-1.medium.com/max/1800/1*LnAtxkUpp_nL1vJ06FtVzw.png"></a></td>
-<td align="center"><a href="https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17"><img src="../images/monthly_no_image.png"></a></td>
+<td align="center"><img alt="" src="./../../images/monthly_no_image.png" /></td>
+<td align="center"><a href="https://medium.com/witnet/enabling-crypto-networks-to-become-cross-chain-using-witnet-2c8d3731fcb5"><img src="https://cdn-images-1.medium.com/max/2000/1*5quZiEFOGAy-NE67saKEoA.png"></a></td>
+<td align="center"><a href="https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d"><img src="https://cdn-images-1.medium.com/max/1600/1*BdH_J6HmhAuK94wVCxTapg.jpeg"></a></td>
 </tr>
 <tr>
-<td align="center"><em>Author <a href="https://mybroadband.co.za/news/author/jamie-mckane">Jamie McKane</a> on Feb 6</em></td>
-<td align="center"><em>Author <a href="https://blog.goodaudience.com/@carrascosa.cobos">Cris C.</a> on Jan 2</em></td>
-<td align="center"><em>Author <a href="https://hackernoon.com/@balasan">Slava Balasanov</a> on Feb 6</em></td>
+<td align="center"><em>Author <a href="https://chainstrategies.com/author/stevetendon/">Steve Tendon</a> on Mar 2</em></td>
+<td align="center"><em>Author <a href="https://medium.com/@aesedepece">Adán Sánchez de Pedro</a> on Mar 5</em></td>
+<td align="center"><em>Author <a href="https://medium.com/@joselfgaray">Jose Garay</a> on Mar 10</em></td>
 </tr>
 <tr>
-<td align="center"><strong>Ethereum, the second-biggest cryptocurrency in the world, has great potential as a platform for autonomous applications.</strong> It facilitates the transfer of its cryptocurrency, can support decentralised applications, and runs smart contracts. Smart contracts run on its blockchain and are the building blocks for ambitious projects, including games like CryptoKitties. To see what lies ahead for Ethereum, MyBroadband spoke to Ethereum developer Nick Johnson about the implications of decentralised organisations.</td>
-<td align="center">Since the “hack” of The DAO, this organizational structure has not been much used, I believe partially because of the reputational damage it caused, and partially due to its intrinsic complexity, especially for those who are not familiar with decentralized governance and/or blockchain. Nevertheless, if 2017 has been the year for ICOs, 2018 may be the year for the DAO return.</td>
-<td align="center"><strong>What are Bonding Curves?</strong> This is a technical primer on how to make your own bonding curves, followed by a discussion about the opportunities and risks involved. If you’re not interested in the tech, skip to the end for some general insights. If you just want some code samples in solidity, the reference github repo is <a href="https://github.com/relevant-community/contracts/tree/bondingCurves/contracts">here</a></td>
+<td align="center">On March 2, 2018, the Blockchain Malta Association hosted an event entitled “Reflections on the DLT Regulation.” A number of lawyers and industry experts were invited to debate the consultation document issued by the Government of Malta and wherein the country’s intention to regulate the sector was presented. The consultation document proposed three new bills, which cover a broad range of issues.</td>
+<td align="center">The Aragon Network aims to be a fully digital jurisdiction. By running entirely on the blockchain, it allows DAOs to interact with each other with notable guarantees. These include a decentralized arbitration system and mutual staking just in case any of the arbitration participants needs to be compensated.</td>
+<td align="center">Collaboration is defined in the dictionary as the situation of two or more people working together to create or achieve the same thing. It’s a simple yet powerful concept that we will explore in this first piece of the series, touching on how the evolution of communication has shaped its form and how it then evolved to advance pretty much any human activity.</td>
 </tr>
 <tr>
-<td align="center"><a href="https://mybroadband.co.za/news/cryptocurrency/246104-building-a-decentralised-business-on-ethereum.html">Read More</a></td>
-<td align="center"><a href="https://blog.goodaudience.com/2018-the-dao-returns-5868a473afb0">Read More</a></td>
-<td align="center"><a href="https://hackernoon.com/how-to-make-bonding-curves-for-continuous-token-models-3784653f8b17">Read More</a></td>
+<td align="center"><a href="https://chainstrategies.com/2018/03/11/malta-blockchain-regulation-proposal-legal-personality-for-daos-and-smart-contracts/">Read More</a></td>
+<td align="center"><a href="https://medium.com/witnet/enabling-crypto-networks-to-become-cross-chain-using-witnet-2c8d3731fcb5">Read More</a></td>
+<td align="center"><a href="https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d">Read More</a></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://blog.aragon.one/announcing-aragon-labs-a679693429ae"><strong>Announcing Aragon Labs</strong></a></th>
-<th align="center"><a href="https://blog.0xproject.com/front-running-griefing-and-the-perils-of-virtual-settlement-part-2-921b00109e21"><strong>Front-running, Griefing and the Perils of Virtual Settlement (Part 2)</strong></a></th>
-<th align="center"><a href="https://bitcoinmagazine.com/articles/space-decentral-using-blockchain-tech-democratize-space/"><strong>Space Decentral: Using Blockchain Tech to Democratize Space</strong></a></th>
+<th align="center"><a href="https://medium.com/@akomba/daico-praise-and-critique-2c5bcee2acfe"><strong>DAICO Attack Vectors and Solutions</strong></a></th>
+<th align="center"><a href="https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source"><strong>MachineLabs goes open source</strong></a></th>
+<th align="center"><a href="https://www.youtube.com/watch?v=nn1HsC99wcM"><strong>Approaching Infinity: Governance &amp; The Case for Experimentation</strong></a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
-<td align="center"><a href="ecosystem/"><em>Ecosystem</em></a></td>
-<td align="center"><a href="ecosystem/"><em>Ecosystem</em></a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
+<td align="center"><a href="governance/">Governance</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://blog.aragon.one/announcing-aragon-labs-a679693429ae"><img src="https://cdn-images-1.medium.com/max/2000/1*nx1j3ffgge1ebNObsgh1Zg.png"></a></td>
-<td align="center"><a href="https://blog.aragon.one/announcing-aragon-labs-a679693429ae"><img src="../images/monthly_no_image.png"></a></td>
-<td align="center"><a href="https://bitcoinmagazine.com/articles/space-decentral-using-blockchain-tech-democratize-space/"><img src="https://fs.bitcoinmagazine.com/img/images/space_decentral.width-800.jpg"></a></td>
+<td align="center"><img alt="" src="./../../images/monthly_no_image.png" /></td>
+<td align="center"><a href="https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source"><img src="https://blog.machinelabs.ai/images/ml-course-ad.png"></a></td>
+<td align="center"><img alt="" src="./../../images/monthly_no_image.png" /></td>
 </tr>
 <tr>
-<td align="center"><em>Author <a href="https://blog.aragon.one/@lkngtn">Luke Duncan</a> on Feb 7</em></td>
-<td align="center"><em>Author <a href="https://blog.0xproject.com/@willwarren89">Will Warren</a> on Feb 9</em></td>
-<td align="center"><em>Author <a href="https://bitcoinmagazine.com/authors/jessie-willms/">Jessie Willms</a> on Feb 13</em></td>
+<td align="center"><em>Author <a href="https://medium.com/@akomba">Andras Kristof</a> on Mar 12</em></td>
+<td align="center"><em>Author <a href="https://twitter.com/machinelabs_ai">MachineLabs</a> on Mar 21</em></td>
+<td align="center"><em>Author Brett Sun on Mar 22</em></td>
 </tr>
 <tr>
-<td align="center"><strong>Where research meets development.</strong> Ever since the early days of the Aragon project we’ve known that there will be obstacles that we’ll need to solve. Concepts that exist, but require research before we can begin implementing these ideas. But there’s no single solution in governance that works for each and every one. What might work well for a global aid organization likely doesn’t fit the needs of a neighbourhood lending ecosystem. The goal of Aragon Labs is to enable experimental research and development efforts that move fast and some times break (minor) things.</td>
-<td align="center">This post is a continuation of part 1, which provided an introduction to blockchain race conditions, front-running, the 0x protocol specification and presented two ways that 0x protocol may be used to implement a decentralized exchange that eliminates front-running and trade collisions by setting the 0x order schema’s taker parameter to an externally owned account (EOA).</td>
-<td align="center">Space Decentral hopes to leverage some of the current development work under way in the Ethereum community to produce an open-source toolbox to collaboratively design space missions. "Space technology and Earth technology go hand in hand — we need to utilize systems thinking to solve problems in parallel,” said Yalda Mousavinia, Space Decentral co-founder, referring to blockchain technology and distributed engineering.</td>
+<td align="center">Vitalik’s DAICO idea was badly needed. It’s really good to see the right message propagated from the top. If I were to describe blockchains in one word, it would be “blockchains make things more accountable”. If I were allowed only a single word, it would be “accountability”. The fact that ICOs don’t do everything they can to keep themselves accountable is a disgrace to the technology and community. So Vitalik highlighting the issue and proposing a solution is very important.</td>
+<td align="center">We started MachineLabs with the main goal to provide the community better tools to get started with Machine Learning. Everyone should be able to immediately start writing Machine Learning code without ever having to worry about setting up a complicated software stack themselves.</td>
+<td align="center"><strong>Blockstack Berlin 2018</strong> Talk by Brett Sun</td>
 </tr>
 <tr>
-<td align="center"><a href="https://blog.aragon.one/announcing-aragon-labs-a679693429ae">Read More</a></td>
-<td align="center"><a href="https://blog.0xproject.com/front-running-griefing-and-the-perils-of-virtual-settlement-part-2-921b00109e21">Read More</a></td>
-<td align="center"><a href="https://bitcoinmagazine.com/articles/space-decentral-using-blockchain-tech-democratize-space/">Read More</a></td>
+<td align="center"><a href="https://medium.com/@akomba/daico-praise-and-critique-2c5bcee2acfe">Read More</a></td>
+<td align="center"><a href="https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source">Read More</a></td>
+<td align="center"><a href="https://www.youtube.com/watch?v=nn1HsC99wcM">Read More</a></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://themerkle.com/what-is-aragon/"><strong>What Is Aragon?</strong></a></th>
-<th align="center"><a href="https://blog.aragon.one/decentralizing-aragons-development-5062fd6d135d"><strong>Decentralizing Aragon’s development</strong></a></th>
-<th align="center"><a href="https://blog.ycombinator.com/the-decentralized-future-series/"><strong>The Decentralized Future Series</strong></a></th>
+<th align="center"><a href="https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/"><strong>Polkadot's Plan for Governing a Blockchain of Blockchains</strong></a></th>
+<th align="center"><a href="https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52"><strong>SportsDAO</strong></a></th>
+<th align="center"><a href="https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2"><strong>Pilot Experiment of the Space Decentral Collaboration Process</strong></a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
-<td align="center"><a href="ecosystem/"><em>Ecosystem</em></a></td>
+<td align="center"><a href="governance/">Governance</a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
 </tr>
 <tr>
-<td align="center"><a href="https://themerkle.com/what-is-aragon/"><img src="https://themerkle.com/wp-content/uploads/Aragon-Project.png"></a></td>
-<td align="center"><a href="https://blog.aragon.one/decentralizing-aragons-development-5062fd6d135d"><img src="https://cdn-images-1.medium.com/max/2000/1*UXJScdPbFByFCVg8ZzzsAg.jpeg"></a></td>
-<td align="center"><a href="https://blog.ycombinator.com/the-decentralized-future-series/"><img src="../images/monthly_no_image.png"></a></td>
+<td align="center"><a href="https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/"><img src="https://media.coindesk.com/uploads/2018/03/buttons-860x430.jpg"></a></td>
+<td align="center"><a href="https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52"><img src="https://cdn-images-1.medium.com/max/2000/1*_7m8im8h2WmfWYOGs0xSPA.jpeg"></a></td>
+<td align="center"><a href="https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2"><img src="https://cdn-images-1.medium.com/max/2000/1*D7j0jtilNSqxHxpsxFLeDg.png"></a></td>
 </tr>
 <tr>
-<td align="center"><em>Author <a href="https://themerkle.com/author/writer10/">JP Buntinx</a> on Feb 13</em></td>
-<td align="center"><em>Author <a href="https://blog.aragon.one/@lic">Luis Cuende</a> on Feb 14</em></td>
-<td align="center"><em>Author <a href="https://blog.ycombinator.com/author/ramon-recuero/">Ramon Recuero</a> on Feb 14</em></td>
+<td align="center"><em>Author <a href="https://www.coindesk.com/author/rachelroseoleary/">Rachel Rose O'Leary</a> on Mar 22</em></td>
+<td align="center"><em>Author <a href="https://medium.com/@rzurrer">Ryan Zurrer</a> on Mar 22</em></td>
+<td align="center"><em>Author <a href="https://medium.com/@Suzi_Bianco">Suzi Bianco</a> on Mar 26</em></td>
 </tr>
 <tr>
-<td align="center">Aragon is another one of those cryptocurrency projects intent on making the world a fairer place for everyone. More specifically, the team aims to build an infrastructure which lets anyone create value without borders or intermediaries. Additionally, they hope to democratize governance in the future, although that will not be easy. Decentralized organizations are an appealing business model, but making sure they work in the real world is something else entirely.</td>
-<td align="center"><strong>Splitting the Foundation from the core devs, and kickstarting funding for other teams to work on Aragon.</strong> In the tech world, startups usually capitalize by amassing Intellectual Property, data, and governance. They attempt to centralize all this to their own benefit. Most crypto projects that are pursuing decentralization can’t be categorized as startups. Crypto projects usually capitalize by creating a network/protocol/DApp that has a token which should become more valuable as the utility of its network/protocol/DApp grows. To encourage other teams to work on Aragon, we will be splitting off the Foundation to form a company of core developers.</td>
-<td align="center"><strong>Premises, Promises, and Reality.</strong> There is a massive divide between the promises of cryptocurrency and the use cases they currently support. Most skeptics point out reasonably that there’s little to show regarding real adoption. At the same time, people in industry argue that they need time to finish the infrastructure before they can deliver game changing apps. And the tribalism clouding the topic doesn’t help. There is room for dialogue that would benefit both sides.</td>
+<td align="center"><strong>Who has the authority to change a public blockchain?</strong> It's a question that has been in the minds of top cryptocurrency developers as the many available networks struggle to serve their diverse, often conflicting stakeholders. But that's not to say there aren't norms and best practices – the ability to make and enforce software changes is generally split between the developers that write the code and the computers, or nodes, that install it.</td>
+<td align="center">A self-governing, meritocratic, decentralized autonomous organization that leverages the wisdom of the crowd and cryptoeconomic incentives to improve the decisions of a sports franchise.</td>
+<td align="center">We’re happy to see people discussing new and exciting concepts for space missions in the Space Decentral forum. For those who had the chance to view our talk at the Ethereum Community Conference, you got a preview at how we propose to operate Space Decentral as an autonomous organization that uses Aragon, in such a way that global citizens can unite to collectively develop an open source and strategic space program.</td>
 </tr>
 <tr>
-<td align="center"><a href="https://themerkle.com/what-is-aragon/">Read More</a></td>
-<td align="center"><a href="https://blog.aragon.one/decentralizing-aragons-development-5062fd6d135d">Read More</a></td>
-<td align="center"><a href="https://blog.ycombinator.com/the-decentralized-future-series/">Read More</a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th align="center"><a href="https://www.youtube.com/watch?v=IDY_inT-q0U"><strong>Conspiratus Podcast #1: Protocol Governance with Vlad Zamfir and Arthur Breitman</strong></a></th>
-<th align="center"><a href="https://blog.oceanprotocol.com/ocean-protocol-technical-whitepaper-c012daf12f2e"><strong>Ocean Protocol Technical Whitepaper</strong></a></th>
-<th align="center"><a href="https://medium.com/@simondlr/saving-the-planet-making-it-profitable-to-protect-the-commons-50393906fe22"><strong>Saving The Planet: Making It Profitable To Protect The Commons.</strong></a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><a href="governance/"><em>Governance</em></a></td>
-<td align="center"><a href="governance/"><em>Governance</em></a></td>
-<td align="center"><a href="ecosystem/"><em>Ecosystem</em></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.youtube.com/watch?v=IDY_inT-q0U"><img src="https://yt3.ggpht.com/-ra9xMYcNueY/AAAAAAAAAAI/AAAAAAAAAAA/6X7Z_toKPK4/s176-c-k-no-mo-rj-c0xffffff/photo.jpg"></a></td>
-<td align="center"><a href="https://blog.oceanprotocol.com/ocean-protocol-technical-whitepaper-c012daf12f2e"><img src="https://cdn-images-1.medium.com/max/1600/1*F1wPf1NPrb4LRJSl8kNyfQ.jpeg"></a></td>
-<td align="center"><a href="https://medium.com/@simondlr/saving-the-planet-making-it-profitable-to-protect-the-commons-50393906fe22"><img src="https://cdn-images-1.medium.com/max/1800/0*bkMWRWPxF4_tOUgQ."></a></td>
-</tr>
-<tr>
-<td align="center"><em>Author <a href="https://www.youtube.com/channel/UCoo5hUhXpAMnoFNd_W9UKdw">Conspiratus</a> on Feb 14</em></td>
-<td align="center"><em>Author <a href="https://blog.oceanprotocol.com/@don_gossen">Don Gossen</a> on Feb 20</em></td>
-<td align="center"><em>Author <a href="https://medium.com/@simondlr">Simon de la Rouviere</a> on Feb 20</em></td>
-</tr>
-<tr>
-<td align="center">Our first full Conspiratus episode where we discuss protocol governance with our two guests, Vlad Zamfir and Arthur Breitman.  Check out the associated reading list for this episode <a href="https://conspirat.us/podcast-resources-1-protocol-governance-300fac63ffa9">here</a></td>
-<td align="center">Today it is with great excitement that the Ocean Protocol team announces the release of the Ocean Protocol Technical Whitepaper! Ocean Protocol is a labor of love, blood, sweat, and tears. It encompasses the cumulative knowledge of multiple teams across multiple domains across multiple regions. It is a schelling point, influenced by tangible proficiency in diverse areas of expertise including data ecosystem architecture, blockchain implementation, cryptographic design, token mechanics, marketplace dynamics, game theory, and scalable, best-of-breed solution delivery. It is a framework that brings together services and capabilities to unlock data for AI.</td>
-<td align="center">Without regulation, it is hard to avoid the abuse of a commons: whether it is water, a pasture or a forest. Even with regulation from governments there are still externalities that exist that are tough to enforce: eg, global regulation is hard, some commons are out of reach of regulation, some commons regulation could still be abused through corruption &amp; some externalities are simply never catered for due to the cost in coordination. Instead of trying to force actors to curb the inevitable abuse of a commons, one could instead make it profitable to protect it.</td>
-</tr>
-<tr>
-<td align="center"><a href="https://www.youtube.com/watch?v=IDY_inT-q0U">Watch Video</a></td>
-<td align="center"><a href="https://blog.oceanprotocol.com/ocean-protocol-technical-whitepaper-c012daf12f2e">Read More</a></td>
-<td align="center"><a href="https://medium.com/@simondlr/saving-the-planet-making-it-profitable-to-protect-the-commons-50393906fe22">Read More</a></td>
+<td align="center"><a href="https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/">Read More</a></td>
+<td align="center"><a href="https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52">Read More</a></td>
+<td align="center"><a href="https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2">Read More</a></td>
 </tr>
 </tbody>
 </table>
 <table>
 <thead>
 <tr>
-<th align="center"><a href="https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6"><strong>The Token Curated Registry Reading List</strong></a></th>
-<th align="center"><a href="https://blog.aragon.one/aragon-ethdenver-recap-4a869a68bda2"><strong>Aragon @ ETHDenver Recap</strong></a></th>
-<th align="center"><a href="https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/"><strong>Liquid democracy uses blockchain to fix politics, and now you can vote for it</strong></a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><a href="governance/"><em>Governance</em></a></td>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
-<td align="center"><a href="governance/"><em>Governance</em></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6"><img src="https://cdn-images-1.medium.com/max/2000/1*vltyW_uArDGQBTHeCgtufA.jpeg"></a></td>
-<td align="center"><a href="https://blog.aragon.one/aragon-ethdenver-recap-4a869a68bda2"><img src="https://cdn-images-1.medium.com/max/2000/1*ohSiKPVr8y89e6Kn5m88Dw.jpeg"></a></td>
-<td align="center"><a href="https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/"><img src="https://tctechcrunch2011.files.wordpress.com/2018/02/gettyimages-865841142.jpg?w=686&zoom=2"></a></td>
-</tr>
-<tr>
-<td align="center"><em>Author <a href="https://medium.com/@tokencuratedregistry">Token Curated Registry</a> on Feb 22</em></td>
-<td align="center"><em>Author <a href="https://blog.aragon.one/@lightcoin">John Light</a> on Feb 23</em></td>
-<td align="center"><em>Author <a href="https://techcrunch.com/author/danny-crichton/">Danny Crichton</a> on Feb 24</em></td>
-</tr>
-<tr>
-<td align="center">An example of a list that could eventually become a TCR :)</td>
-<td align="center"><strong>An incredible weekend of building and bonding with the Denver community.</strong> This past weekend several members of the Aragon team, including Jorge, Luke, Oliver, and myself (John), attended ETHDenver in Colorado, USA. ETHDenver is an Ethereum community event featuring a hackathon and workshops. As we shared previously on the blog, Aragon helped sponsor the event this year and provided bounties for Best App/Integration and Best Proposal. What followed was a whirlwind weekend of hacking, mentoring, learning, and bonding.</td>
-<td align="center">Abraham Lincoln famously said that “government of the people, by the people, for the people, shall not perish from the earth,” but looking around these days, you would be forgiven if you thought representative democracy had already been buried alongside Washington, Jefferson, and Roosevelt. Confidence in Congress remains pitifully low, driven by perceived low ethical standards and an increasing awareness that politics is bought by the highest bidder.</td>
-</tr>
-<tr>
-<td align="center"><a href="https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6">Read More</a></td>
-<td align="center"><a href="https://blog.aragon.one/aragon-ethdenver-recap-4a869a68bda2">Read More</a></td>
-<td align="center"><a href="https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/">Read More</a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th align="center"><a href="https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742"><strong>Aragon Team Update: February 2018</strong></a></th>
-<th align="center"><a href="https://medium.com/@joselfgaray/the-aragon-mission-6cf972884769"><strong>The Aragon Mission</strong></a></th>
-<th align="center"><a href="https://medium.com/@ebay787/corporations-are-a-technology-and-blockchains-are-v2-909597a2a0ed"><strong>Corporations are a Technology, and Blockchains are V2</strong></a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
-<td align="center"><a href="aragon/"><em>Aragon</em></a></td>
-<td align="center"><a href="ecosystem/"><em>Ecosystem</em></a></td>
-</tr>
-<tr>
-<td align="center"><a href="https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742"><img src="https://cdn-images-1.medium.com/max/2000/1*zLEFIEzr7MCEYr6GiGoUow.png"></a></td>
-<td align="center"><a href="https://medium.com/@joselfgaray/the-aragon-mission-6cf972884769"><img src="https://cdn-images-1.medium.com/max/1800/1*ohmE3ILqGGDNElAH9nRUWA.jpeg"></a></td>
-<td align="center"><a href="https://medium.com/@ebay787/corporations-are-a-technology-and-blockchains-are-v2-909597a2a0ed"><img src="https://cdn-images-1.medium.com/max/1800/1*WmDXLSj1msvxw20WuhN-Sw.jpeg"></a></td>
-</tr>
-<tr>
-<td align="center"><em>Author <a href="https://blog.aragon.one/@Smokyish">Tatu Kärki</a> on Feb 26</em></td>
-<td align="center"><em>Author <a href="https://medium.com/@joselfgaray">Jose Garay</a> on Feb 27</em></td>
-<td align="center"><em>Author <a href="https://medium.com/@ebay787">eBay</a> on Feb 27</em></td>
-</tr>
-<tr>
-<td align="center"><strong>Written reviews of what the team members have been up to.</strong> Team members will produce a write-up of the most important things they have worked on since last Community Meeting, the problems they have found and what they plan to do in the next weeks (that can be a bit blurry, and that’s fine). These write-ups will be published as a blog post for the community to review on Monday before Friday’s meeting.</td>
-<td align="center"><strong>Empowering unstoppable organizations through freedom of collaboration.</strong> Understanding collaboration as the work of two or more people towards the achievement of a common goal, trade is one of the oldest forms of collaboration. The transfer of value between entities has for centuries motivated people to work together to fulfill a greater potential: the whole is greater than the sum of its parts.</td>
-<td align="center">We owe corporations credit for much of the last century’s growth and advancement. The profit-motivated and legally-backed corporation operating in a free market is the latest and greatest innovation in how humans cooperate to create things of value. Great corporations constantly reallocate resources to solve problems, and in the process provide for employees and improve products for the public. Amazon brings packages to your front door in two days, Trader Joe’s sells healthy food at an affordable price, and Google organizes information for anyone to consume.</td>
-</tr>
-<tr>
-<td align="center"><a href="https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742">Read More</a></td>
-<td align="center"><a href="https://medium.com/@joselfgaray/the-aragon-mission-6cf972884769">Read More</a></td>
-<td align="center"><a href="https://medium.com/@ebay787/corporations-are-a-technology-and-blockchains-are-v2-909597a2a0ed">Read More</a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th align="center"><a href="https://mislavjavor.github.io/2018-02-21/Democratically-Mutable-DAO/"><strong>Democratically Mutable DAO: A proposition for a fairer blockchain governance</strong></a></th>
-<th align="center"><a href="https://medium.com/@jpitts/an-open-invitation-to-participate-in-a-fellowship-of-ethereum-magicians-982e6143db4f"><strong>An open invitation to participate in a Fellowship of Ethereum Magicians</strong></a></th>
+<th align="center"><a href="http://yermoo.net/2044-a-world-governed-by-daos/"><strong>2044 a world governed by DAOs</strong></a></th>
+<th align="center"><a href="https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288"><strong>DAOs and the Future of Work</strong></a></th>
 <th align="center"></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="daos/"><em>DAOs</em></a></td>
-<td align="center"><a href="governance/"><em>Governance</em></a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
+<td align="center"><a href="daos/">DAOs</a></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://mislavjavor.github.io/2018-02-21/Democratically-Mutable-DAO/"><img src="../images/monthly_no_image.png"></a></td>
-<td align="center"><a href="https://medium.com/@jpitts/an-open-invitation-to-participate-in-a-fellowship-of-ethereum-magicians-982e6143db4f"><img src="https://cdn-images-1.medium.com/max/1800/1*l9PvgizajHTkK-DTjzXaoQ.png"></a></td>
+<td align="center"><a href="http://yermoo.net/2044-a-world-governed-by-daos/"><img src="http://yermoo.net/wp-content/uploads/2018/02/guin%CC%83oyermoocalidad-300x288.jpg"></a></td>
+<td align="center"><a href="https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288"><img src="https://cdn-images-1.medium.com/max/1600/1*HNsCGCeeZxBTYIXb2R1a4Q.jpeg"></a></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><em>Author <a href="https://mislavjavor.github.io/">Mislav Javor</a> on Feb 21</em></td>
-<td align="center"><em>Author <a href="https://medium.com/@jpitts">James Pitts</a> on Feb 12</em></td>
+<td align="center"><em>Author <a href="http://yermoo.net/author/admin/">Yermo</a> on Mar 27</em></td>
+<td align="center"><em>Author <a href="https://hackernoon.com/@passiak">David Passiak</a> on Mar 28</em></td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center">In my last article, I’ve discussed some of the most common types of blockchain tokens and the disadvantages of making everything a utility token. A critique is not worth much without offering a solution, so in this article I’ll focus on a legacy inspired company governance on the blockchain. How do you ensure both upgradeability and stability. In other words, how do you make sure that people who are using your contract have trust that the entire system they’ve put their livelihoods in won’t fall under their feet and simultaneously ensure that the contract is flexible enough to adapt to changing circumstances?</td>
-<td align="center"><em>Greg Colvin and I would like to invite the community to come together and participate in improving the Ethereum improvement process (and so much more).</em> We propose to create a Fellowship within which the Ethereum community can self-organize to maximize technical opportunities, share ideas and work together effectively, online and in person, across national, organizational and other boundaries.</td>
+<td align="center">A decentralized autonomous organization, or simply DAO, is a company or organization whose decisions are made electronically by means of a written computer code or by the vote of its members. In essence, it is a system of coded rules that define what actions an organization will take.</td>
+<td align="center">There is a lot of talk about the threat of automation. AI and robots are coming to take our jobs. Corporations and the government are taking control of our lives. This creates a scarcity mindset of “us versus them,” leading us to ask, How am I going to protect myself? Will I be one of the few people left when machines take over?</td>
 <td align="center"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://mislavjavor.github.io/2018-02-21/Democratically-Mutable-DAO/">Read More</a></td>
-<td align="center"><a href="https://medium.com/@jpitts/an-open-invitation-to-participate-in-a-fellowship-of-ethereum-magicians-982e6143db4f">Read More</a></td>
+<td align="center"><a href="http://yermoo.net/2044-a-world-governed-by-daos/">Read More</a></td>
+<td align="center"><a href="https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288">Read More</a></td>
 <td align="center"></td>
 </tr>
 </tbody>
@@ -1744,6 +1983,8 @@
               
               
                 
+
+
               
             </article>
           </div>
@@ -1793,9 +2034,9 @@
       <div class="md-footer-copyright">
         
         powered by
-        <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
+        <a href="http://www.mkdocs.org">MkDocs</a>
         and
-        <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
+        <a href="https://squidfunk.github.io/mkdocs-material/">
           Material for MkDocs</a>
       </div>
       
@@ -1823,10 +2064,9 @@
       
     </div>
     
-      <script src="../assets/javascripts/application-f3ab9e5ff8.js"></script>
+      <script src="../assets/javascripts/application.b438e6c5.js"></script>
       
-      
-      <script>app.initialize({url:{base:".."}})</script>
+      <script>app.initialize({version:"0.17.3",url:{base:".."}})</script>
       
         <script src="../javascript/extra_js.js"></script>
       
