@@ -1,43 +1,28 @@
 # News / DAOs
 
 ## **Featured**
-[<h2>DAOs and the Future of Work</h2>](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288) |
+[<h2>Title</h2>](URI_to_news) |
 :-----------|
-[_DAOs_](daos.md) |
-[<img src="https://cdn-images-1.medium.com/max/1600/1*HNsCGCeeZxBTYIXb2R1a4Q.jpeg">](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288) |
-_Author [David Passiak](https://hackernoon.com/@passiak) on Mar 28_ |
-**A Brave New Decentralized World**  There is a lot of talk about the threat of automation. AI and robots are coming to take our jobs. Corporations and the government are taking control of our lives. This creates a scarcity mindset of “us versus them,” leading us to ask, How am I going to protect myself? Will I be one of the few people left when machines take over? |
-[Read More](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288) |
+[_Tag_](tag.md) |
+![](../../images/monthly_no_image.png) |
+_Author [Author Name](URI_to_author_profile) on Month Date#_ |
+**Subtitle** Description of the content in the news. |
+[Read More](URI_to_news) |
 
-| [**DAOs, Democracy and Governance**](http://merkle.com/papers/DAOdemocracyDraft.pdf) | [**What is a DAO and why is it revolutionary**](https://www.dashforcenews.com/what-is-a-dao-and-why-is-it-revolutionary/)|  [**Decentralization 2.0**](https://medium.com/@jtiannelli63/decentralization-2-0-2e47b263e0f2)
+| | |  
 :-----------:|:-----------:|:-----------:|  
-| [DAOs](daos.md)| [DAOs](daos.md)|  [DAOs](daos.md)
-|![](../../images/monthly_no_image.png)  | [<img src="https://www.dashforcenews.com/wp-content/uploads/2017/12/intro-to-dao.jpg">](https://www.dashforcenews.com/what-is-a-dao-and-why-is-it-revolutionary/)| ![](../../images/monthly_no_image.png) 
-| _Author [Ralph C. Merkle](http://www.merkle.com/) on May 31, 2016_| _Author [Joël Valenzuela](https://www.dashforcenews.com/author/joelvalenzuela/) on Dec 11, 2017_ | _Author [Joe Iannelli](https://medium.com/@jtiannelli63) on Feb 21_
-|Democracies are typically seen as governments which call upon the governed to make the major decisions of government: who shall lead, what policies to follow, what laws to enact. In all these matters democracies call upon ordinary citizens to make complex decisions with eventful consequences. | First popularized by the ill-fated Ethereum project which resulted in the split to Ethereum Classic, the DAO is a bit of a blockchain buzzword. This innovation extends far beyond simple hype, however, and could revolutionize the way we structure organizations. Here’s a breakdown of what makes a DAO, as well as an explanation of why we should care. |  Decentralization is what many of us claim to love about blockchain. The idea that our information is not controlled by a centralized server. The idea that a public ledger can be safely maintained without a central entity. The idea that something of value can cross boarders digitally and in only a matter of second or minutes. Blockchain is decentralized already, but what about the teams.
-| [Read More](http://merkle.com/papers/DAOdemocracyDraft.pdf) | [Read More](https://www.dashforcenews.com/what-is-a-dao-and-why-is-it-revolutionary/) | [Read More](https://medium.com/@jtiannelli63/decentralization-2-0-2e47b263e0f2) |
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
 
-| [**Malta Blockchain Regulation Proposal: Legal Personality for DAOs and Smart Contracts**](https://chainstrategies.com/2018/03/11/malta-blockchain-regulation-proposal-legal-personality-for-daos-and-smart-contracts/)| [**Collaborare — The Ugly DAOckling #1**](https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d) | |
+| | |  
 :-----------:|:-----------:|:-----------:|  
-| [DAOs](daos.md)| [DAOs](daos.md) | |
-| ![](../../images/monthly_no_image.png) | [<img src="https://cdn-images-1.medium.com/max/1600/1*BdH_J6HmhAuK94wVCxTapg.jpeg">](https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d) | |
-| _Author [Steve Tendon](https://chainstrategies.com/author/stevetendon/) on Mar 2_ |  _Author [Jose Garay](https://medium.com/@joselfgaray) on Mar 10_ | |
-| On March 2, 2018, the Blockchain Malta Association hosted an event entitled “Reflections on the DLT Regulation.” A number of lawyers and industry experts were invited to debate the consultation document issued by the Government of Malta and wherein the country’s intention to regulate the sector was presented. The consultation document proposed three new bills, which cover a broad range of issues. | Collaboration is defined in the dictionary as the situation of two or more people working together to create or achieve the same thing. It’s a simple yet powerful concept that we will explore in this first piece of the series, touching on how the evolution of communication has shaped its form and how it then evolved to advance pretty much any human activity. | |
-| [Read More](https://chainstrategies.com/2018/03/11/malta-blockchain-regulation-proposal-legal-personality-for-daos-and-smart-contracts/)| [Read More](https://medium.com/@joselfgaray/collaborare-the-ugly-daockling-1-1233b596223d) | |
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
 
-
-| [**DAICO Attack Vectors and Solutions**](https://medium.com/@akomba/daico-praise-and-critique-2c5bcee2acfe) | [**MachineLabs goes open source**](https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source) | [**SportsDAO**](https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52)
-:-----------:|:-----------:|:-----------:|  
-| [DAOs](daos.md)| [DAOs](daos.md)|  [DAOs](daos.md)
-| ![](../../images/monthly_no_image.png) | [<img src="https://blog.machinelabs.ai/images/ml-course-ad.png">](https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source) | [<img src="https://cdn-images-1.medium.com/max/2000/1*_7m8im8h2WmfWYOGs0xSPA.jpeg">](https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52)
-| _Author [Andras Kristof](https://medium.com/@akomba) on Mar 12_ |  _Author [MachineLabs](https://twitter.com/machinelabs_ai) on Mar 21_  | _Author [Ryan Zurrer](https://medium.com/@rzurrer) on Mar 22_
-| Vitalik’s DAICO idea was badly needed. It’s really good to see the right message propagated from the top. If I were to describe blockchains in one word, it would be “blockchains make things more accountable”. If I were allowed only a single word, it would be “accountability”. The fact that ICOs don’t do everything they can to keep themselves accountable is a disgrace to the technology and community. So Vitalik highlighting the issue and proposing a solution is very important. | We started MachineLabs with the main goal to provide the community better tools to get started with Machine Learning. Everyone should be able to immediately start writing Machine Learning code without ever having to worry about setting up a complicated software stack themselves. | A self-governing, meritocratic, decentralized autonomous organization that leverages the wisdom of the crowd and cryptoeconomic incentives to improve the decisions of a sports franchise.
-| [Read More](https://medium.com/@akomba/daico-praise-and-critique-2c5bcee2acfe)  | [Read More](https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source) | [Read More](https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52) 
-
-|[**Pilot Experiment of the Space Decentral Collaboration Process**](https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2) | [**2044 a world governed by DAOs**](http://yermoo.net/2044-a-world-governed-by-daos/) | [**DAOs and the Future of Work**](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288)
-:-----------:|:-----------:|:-----------:|  
-| [DAOs](daos.md) | [DAOs](daos.md)| [DAOs](daos.md)
-|[<img src="https://cdn-images-1.medium.com/max/2000/1*D7j0jtilNSqxHxpsxFLeDg.png">](https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2) |[<img src="http://yermoo.net/wp-content/uploads/2018/02/guin%CC%83oyermoocalidad-300x288.jpg">](http://yermoo.net/2044-a-world-governed-by-daos/) | [<img src="https://cdn-images-1.medium.com/max/1600/1*HNsCGCeeZxBTYIXb2R1a4Q.jpeg">](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288)
-|_Author [Suzi Bianco](https://medium.com/@Suzi_Bianco) on Mar 26_ | _Author [Yermo](http://yermoo.net/author/admin/) on Mar 27_ |  _Author [David Passiak](https://hackernoon.com/@passiak) on Mar 28_| 
-|We’re happy to see people discussing new and exciting concepts for space missions in the Space Decentral forum. For those who had the chance to view our talk at the Ethereum Community Conference, you got a preview at how we propose to operate Space Decentral as an autonomous organization that uses Aragon, in such a way that global citizens can unite to collectively develop an open source and strategic space program.|A decentralized autonomous organization, or simply DAO, is a company or organization whose decisions are made electronically by means of a written computer code or by the vote of its members. In essence, it is a system of coded rules that define what actions an organization will take. |  There is a lot of talk about the threat of automation. AI and robots are coming to take our jobs. Corporations and the government are taking control of our lives. This creates a scarcity mindset of “us versus them,” leading us to ask, How am I going to protect myself? Will I be one of the few people left when machines take over? | 
-|[Read More](https://blog.space.coop/pilot-experiment-of-the-space-decentral-collaboration-process-8d2b9bfe4aa2) | [Read More](http://yermoo.net/2044-a-world-governed-by-daos/) |  [Read More](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288) | 
+## [Submit News!](../guides/guide_for_submitting_news.md)
