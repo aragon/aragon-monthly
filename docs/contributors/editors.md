@@ -1,4 +1,4 @@
-# Editors
+# Editors on Issue 04
 
 > Editor-in-chief is the publication's editorial leader who has final responsibility for its operations and policies.
 

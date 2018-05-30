@@ -29,4 +29,4 @@ To follow the progress of Aragon and for keeping up with the advancement in the 
 
 <!--End mc_embed_signup-->
 
-You will receive the [Front Page](../index.md) in your email as soon as a new issue of the Aragon Monthly newspaper is out! 
+You will receive the [Front Page](../index.md) in your email as soon as a new issue of the Aragon Monthly newspaper is out!

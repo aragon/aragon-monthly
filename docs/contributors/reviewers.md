@@ -1,4 +1,4 @@
-# Reviewers on Issue 0
+# Reviewers on Issue 04
 > Reviewers are people who contribute by helping review new content submitted via [Pull Requests](https://github.com/aragon/aragon-monthly/pulls)
 
 - Reviewer - [@izqui](https://github.com/izqui)
