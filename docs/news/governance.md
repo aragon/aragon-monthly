@@ -1,14 +1,5 @@
 # News / Governance
 
-## **Featured**
-[<h2>Title</h2>](URI_to_news) |
-:-----------|
-[_Tag_](tag.md) |
-![](../../images/monthly_no_image.png) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) |
-
 |[Curate This: Token Curated Registries That Don’t Work](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)|[DAOstack brings Decentralized Governance to Gnosis](https://blog.gnosis.pm/daostack-brings-decentralized-governance-to-gnosis-609cdc8d2a02)| [Graded Token-Curated Decisions with Up-/Downvoting](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)|
 :-----------:|:-----------:|:-----------:
 |[Governance](governance.md)|[Governance](governance.md)|[Governance](governance.md)
