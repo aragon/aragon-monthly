@@ -1,14 +1,5 @@
 # News
 
-## **Featured**
-[<h2>Title</h2>](URI_to_news) |
-:-----------|
-[_Tag_](tag.md) |
-![](../../images/monthly_no_image.png) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) |
-
 |[Should Couchsurfing Be a DAO?](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[Curate This: Token Curated Registries That Don’t Work](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)| [‘Hundreds’ Of DAOs Running on Aragon Says CTO In Exclusive Interview](https://bitsonline.com/aragon-daos-interview/)|
 :-----------:|:-----------:|:-----------:
 |[DAOs](daos.md)|[Governance](governance.md)|[Aragon](aragon.md)
