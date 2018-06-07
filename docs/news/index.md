@@ -1,59 +1,28 @@
 # News
 
-|[Should Couchsurfing Be a DAO?](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[Curate This: Token Curated Registries That Don’t Work](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)| [‘Hundreds’ Of DAOs Running on Aragon Says CTO In Exclusive Interview](https://bitsonline.com/aragon-daos-interview/)|
-:-----------:|:-----------:|:-----------:
-|[DAOs](daos.md)|[Governance](governance.md)|[Aragon](aragon.md)
-|[<img src=https://cdn-images-1.medium.com/max/800/1*r2icCZOUK1-FMIdar016FA.jpeg>](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[<img src=https://cdn-images-1.medium.com/max/1600/1*VvFDLpRZgHvySd7K_gtGGQ.jpeg>](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)|[<img src=https://cdn-images-1.medium.com/max/1200/1*Bp8k99cBLXYHL0vILo15wA.jpeg>](https://bitsonline.com/aragon-daos-interview/)
-|Author [Chelsea Rustrum](https://hackernoon.com/@shareablelife) on Apr 4|Author [Aleksandr Bulkin](https://blog.coinfund.io/@aleksandr.bulkin) on Apr 12|Author [Robert DeVoe](https://bitsonline.com/author/robert-devoe/) on Apr 27|
-|I’d experienced the joy of connecting without money — sharing meals and homes with complete strangers on Couchsurfing.com, gifting access to my car while I traveled, and experimenting with random acts of generosity. These experiences were so transformational that I volunteered to help shoot a documentary, One Couch at a Time, which highlighted the relational aspects of the burgeoning sharing economy.|Token curated registries (TCRs) are an economically incentivized mechanism that promises to address a serious need in decentralized systems: to provide a reliable signal of quality on something you can’t directly observe. Some examples of questions that TCRs are intended to answer: Is John a good roommate? Is Guggenheim a good museum? Is Neptune Diner worth having lunch at?|We caught up with one of the co-founders and company CTO Jorge Izquierdo at the Shanghai Ethereum Meetup to talk about his project and the recent developments they’ve had as they move into their next version of the software, v0.5.|
-|[Read More](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[Read More](https://blog.coinfund.io/curate-this-token-curated-registries-that-dont-work-d76370b77150)|[Read More](https://bitsonline.com/aragon-daos-interview/)|
+## **Featured**
+[<h2>Title</h2>](URI_to_news) |
+:-----------|
+[_Tag_](tag.md) |
+![](../../images/monthly_no_image.png) |
+_Author [Author Name](URI_to_author_profile) on Month Date#_ |
+**Subtitle** Description of the content in the news. |
+[Read More](URI_to_news) |
 
-|[Never Heard of a DAO? Here's Why It's Going to Become The Hottest New Type of Corporation](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html)|[DAOstack brings Decentralized Governance to Gnosis](https://blog.gnosis.pm/daostack-brings-decentralized-governance-to-gnosis-609cdc8d2a02)| [Graded Token-Curated Decisions with Up-/Downvoting](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)|
-:-----------:|:-----------:|:-----------:
-|[DAOs](daos.md)|[Governance](governance.md)|[Governance](governance.md)
-|[<img src=https://www.incimages.com/uploaded_files/image/1940x900/getty_935649472_354813.jpg>](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html)|[<img src=https://cdn-images-1.medium.com/max/2000/1*T3nFgXJRGtzxqwd-X9rQNQ.png>](https://blog.gnosis.pm/daostack-brings-decentralized-governance-to-gnosis-609cdc8d2a02)|[<img src=https://cdn-images-1.medium.com/max/800/1*tV7KCKwIRUoSU1X9CeZB5w.jpeg>](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)
-|Author [Darren Heitner](https://www.inc.com/author/darren-heitner) on Apr 27|Author [Nadja Beneš](https://blog.gnosis.pm/@bennadja) on Apr 30|Author [Sebastian Gajek](https://medium.com/@sebastian.gajek) on May 1|
-|You may have not heard of the abbreviation DAO, but it is a term that should keep popping up with more frequency during the blockchain boom. It stands for decentralized autonomous organizations. As companies are betting on and adopting blockchain, many believing that blockchain is the future, DAO could start playing an even bigger role.|Gnosis is proud to announce that it is entering into a partnership with DAOstack. Together, Gnosis and DAOstack will build autonomous, self-governing, reputation-based communities that empower millions of users on their platform. The founders of Gnosis and DAOstack respectively, have had a close relationship for many years consequently and will look to be united in their mission together.|A Graded Token-Curated Decision Protocol is a cryptoeconomic mechanism allowing an amorphous group of token holders to up- or downrank an object. Graded Token-Curated Registries implement fair ranking and reputation systems by alleviating the need for a centralized third party and by disincentivizing participants to provide fake or biased decisions.|
-|[Read More](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html)|[Read More](https://blog.gnosis.pm/daostack-brings-decentralized-governance-to-gnosis-609cdc8d2a02)|[Read More](https://medium.com/@sebastian.gajek/graded-token-curated-decisions-with-up-downvoting-designing-cryptoeconomic-ranking-and-2ce7c000bb51)|
+| | |  
+:-----------:|:-----------:|:-----------:|  
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
 
-|[The Layered TCR](https://blog.oceanprotocol.com/the-layered-tcr-56cc5b4cdc45)|[Decentralizing Aragon’s development II: Minimum Viable Foundation](https://blog.aragon.one/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc)| [ EIP0— Statement of intent to support Ethereum governance initiatives](https://medium.com/eip0-summit/eip0-summit-statement-of-intent-to-support-ethereum-governance-initiatives-e54ff782933)|
-:-----------:|:-----------:|:-----------:
-|[Governance](governance.md)|[Aragon](aragon.md)|[Governance](governance.md)
-|[<img src=https://cdn-images-1.medium.com/max/1600/1*m3F0-gw0RClk8fVN9BAlHg.png>](https://blog.oceanprotocol.com/the-layered-tcr-56cc5b4cdc45)|[<img src=https://cdn-images-1.medium.com/max/2000/1*W1MI5L6qr4I3aW_yifhwcg.jpeg>](https://blog.aragon.one/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc)|[<img src=http://www.crystalinks.com/romesenate1.jpg>](https://medium.com/eip0-summit/eip0-summit-statement-of-intent-to-support-ethereum-governance-initiatives-e54ff782933)
-|Author [Trent McConaghy](https://blog.oceanprotocol.com/@trentmc0) on May 1|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 3|Author [EIP0](https://medium.com/@EIP0) on May 9|
-|This article introduces the Layered Token Curated Registry (LTCR), a new cryptographic building block. LTCRs are composed of layers of TCRs. They replace the rather harsh “you’re either in or out” approach of TCRs, with a step-by-step increase in rights and responsibilities as the actor adds more value and stake.|We have previously shared plans to transform the Aragon project to a community governed project. It will involve decentralizing Aragon’s development, minimising the Foundation's role, decoupling the project from the foundational team and to level the playground for other teams to jump into the core development of the project.|EIP0 Summit was a gathering which aimed to learn how to better govern Ethereum. Since last year, there have been difficulties in settling conflicts certain topics such as ASIC resistance and EIP999. Such issues revealed a greater need for better governance. This statement concludes the first EIP0 summit and projects future plans going forward.|
-|[Read More](https://blog.oceanprotocol.com/the-layered-tcr-56cc5b4cdc45)|[Read More](https://blog.aragon.one/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc)|[Read More](https://medium.com/eip0-summit/eip0-summit-statement-of-intent-to-support-ethereum-governance-initiatives-e54ff782933)|
-
-|[The Aragon Manifesto](https://blog.aragon.one/the-aragon-manifesto-4a21212eac03)|[Aragon Nest: First awarded grants](https://blog.aragon.one/aragon-nest-first-awarded-grants-29a2f3aa8d4a)| [Aragon Q1 Development Update](https://blog.aragon.one/aragon-q1-development-update-b5525e9477c4)|
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://cdn-images-1.medium.com/max/2000/1*FAVJ6a4k9swHZcPg16Ttvw.jpeg>](https://blog.aragon.one/the-aragon-manifesto-4a21212eac03)|[<img src=https://cdn-images-1.medium.com/max/2000/1*GbgLWIFc-X4GcjcxKK3UcQ.jpeg>](https://blog.aragon.one/aragon-nest-first-awarded-grants-29a2f3aa8d4a)|[<img src=https://cdn-images-1.medium.com/max/800/1*NEK-AZPZ9AwaGh7ot3UNoQ.png>](https://blog.aragon.one/aragon-q1-development-update-b5525e9477c4)
-|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 9|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 10|Author [Jorge Izquierdo](https://blog.aragon.one/@izqui9) on May 12|
-|We will either see technology lead to a more free, open, and fair society or reinforce a global regime of centralized control, surveillance, and oppression. Our fear is that without a global, conscious, and concerted effort, the outlook is incredibly bleak.|We began by first introducing the Aragon Nest grant program back in  2017 and released it for submissions in the January of 2018. Now, it’s time to introduce the first five projects that we’ve granted funding in order for them to flourish, thrive and to pursue their goals of advancing these ecosystems.|Releasing Aragon Core v0.5, The Architect, was the biggest development milestone during the first quarter of the year. Check out what else we have also made ground on. |
-|[Read More](https://blog.aragon.one/the-aragon-manifesto-4a21212eac03)|[Read More](https://blog.aragon.one/aragon-nest-first-awarded-grants-29a2f3aa8d4a)|[Read More](https://blog.aragon.one/aragon-q1-development-update-b5525e9477c4)|
-
-|[First community-wide Aragon Feedback Survey!](https://blog.aragon.one/first-community-wide-aragon-feedback-survey-132df9547fbc)|[Introducing Aragon One](https://blog.aragon.one/introducing-aragon-one-b14dd804c5ce)| [Decentralizing Aragon’s development III: Onboarding new teams](https://blog.aragon.one/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5)|
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://cdn-images-1.medium.com/max/2000/1*vVLpdbbBdi6vj0kFY5FSiw.jpeg>](https://blog.aragon.one/first-community-wide-aragon-feedback-survey-132df9547fbc)|[<img src=https://cdn-images-1.medium.com/max/2000/1*PPdfJNy3uNaegc7QYqTk2w.png>](https://blog.aragon.one/introducing-aragon-one-b14dd804c5ce)|[<img src=https://cdn-images-1.medium.com/max/1000/1*FlHb4MYFi9eyxPOvwHTm8Q.png>](https://blog.aragon.one/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5)
-|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 15|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 17|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 18|
-|Now that we have released Aragon Core v0.5,  it’s time to hear your thoughts on how has your experience with it been and how can we improve it in the future. Take part even if you haven't used it and get some free swag!|Since we released the first version of the Aragon whitepaper, we knew that it was important to split the non-profit entity overseeing the project from the actual companies or teams working on its development. Today, we are announcing the next step. We are announcing Aragon One.|We have already explained why we are decentralizing Aragon’s development, how we are decentralizing the legal vehicle that represents the project and introduced Aragon One, the first company contributing to Aragon’s development. In this post, we will lay out the strategy for onboarding more teams to work on core Aragon infrastructure.|
-|[Read More](https://blog.aragon.one/first-community-wide-aragon-feedback-survey-132df9547fbc)|[Read More](https://blog.aragon.one/introducing-aragon-one-b14dd804c5ce)|[Read More](https://blog.aragon.one/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5)|
-
-|[Aragon Releases New Developer Portal For Building DApps and DAOs](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|[Releasing the Aragon Developer Portal](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)| [Aragon Q1 Transparency Report](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)|
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://sludgefeed.com/wp-content/uploads/2018/05/Aragon-696x391.png>](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|[<img src=https://cdn-images-1.medium.com/max/1000/1*WYO3BdrpJRwiXneQjpnUSw.png>](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[<img src=https://cdn-images-1.medium.com/max/2000/1*kf82hL_SYgGPwWXk8_6xNA.jpeg>](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)
-|Author [Craig Russo](https://sludgefeed.com/author/craig-russo/) on May 21|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 22|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 25|
-|Aragon (ANT), a project facilitating the creation and maintenance of organizational structures by using blockchain technology, announced the launch of a new developer portal today, providing developers with a new command line tool and improved documentation for building decentralized Aragon apps (DApps).|Introducing our new Aragon Developer Portal! We released: AragonOS—the smart contract framework that provides upgradeability and governance solutions out-of-the-box, Aragon UI—a toolkit of UI components that can be used to make beautiful frontend experiences and aragon.js—a library that handles transaction pathing, upgradeability and the state of the contracts.|A recap of what has been going on with Aragon during Q1 2018. Dive into the the operations of Aragon: Salaries, expenses, payments, bounties, code audits, hedging, governance, new team members and more...|
-|[Read More](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|[Read More](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[Read More](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)|"
-
-|[We Need to Formalize Governance Research using DAOs](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|||
-:-----------:|:-----------:|:-----------:|
-|[Governance](governance.md)|[](aragon.md)|[](aragon.md)
-|[<img src=https://4.bp.blogspot.com/-QYTO1m6eCWY/UKv0dYaWYFI/AAAAAAAAAC8/3ryN1b5-OFE/s1600/school-of-athens2.jpg>](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|||
-|Author [Zefram Lou](https://medium.com/@zeframlou) on May 28|||
-|As a human race we started taking governance seriously during the Renaissance period. We started to use our rationality to analyze our political systems, and developed a theoretical framework to think about governance systems, namely modern political science. Turns out it was pretty useful.|||
-|[Read More](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|||
+| | |  
+:-----------:|:-----------:|:-----------:|  
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
