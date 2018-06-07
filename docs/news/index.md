@@ -48,12 +48,12 @@
 |Aragon (ANT), a project facilitating the creation and maintenance of organizational structures by using blockchain technology, announced the launch of a new developer portal today, providing developers with a new command line tool and improved documentation for building decentralized Aragon apps (DApps).|Introducing our new Aragon Developer Portal! We released: AragonOS—the smart contract framework that provides upgradeability and governance solutions out-of-the-box, Aragon UI—a toolkit of UI components that can be used to make beautiful frontend experiences and aragon.js—a library that handles transaction pathing, upgradeability and the state of the contracts.|A recap of what has been going on with Aragon during Q1 2018. Dive into the the operations of Aragon: Salaries, expenses, payments, bounties, code audits, hedging, governance, new team members and more...|
 |[Read More](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|[Read More](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[Read More](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)|"
 
-|[We Need to Formalize Governance Research using DAOs](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|
-:-----------:|
+|[We Need to Formalize Governance Research using DAOs](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|||
+:-----------:|:-----------:|:-----------:|
 |[Governance](governance.md)|[](aragon.md)|[](aragon.md)
-|[<img src=https://4.bp.blogspot.com/-QYTO1m6eCWY/UKv0dYaWYFI/AAAAAAAAAC8/3ryN1b5-OFE/s1600/school-of-athens2.jpg>](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|[<img src=>]()|[<img src=>]()
-|Author [Zefram Lou](https://medium.com/@zeframlou) on May 28|
-|As a human race we started taking governance seriously during the Renaissance period. We started to use our rationality to analyze our political systems, and developed a theoretical framework to think about governance systems, namely modern political science. Turns out it was pretty useful.|
-|[Read More](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|
+|[<img src=https://4.bp.blogspot.com/-QYTO1m6eCWY/UKv0dYaWYFI/AAAAAAAAAC8/3ryN1b5-OFE/s1600/school-of-athens2.jpg>](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|||
+|Author [Zefram Lou](https://medium.com/@zeframlou) on May 28|||
+|As a human race we started taking governance seriously during the Renaissance period. We started to use our rationality to analyze our political systems, and developed a theoretical framework to think about governance systems, namely modern political science. Turns out it was pretty useful.|||
+|[Read More](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)|||
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
