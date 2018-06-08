@@ -122,7 +122,7 @@ pages:
             - Home: 'archive/issue04/news/index.md'
             - DAOs: 'archive/issue04/news/daos.md'
             - Aragon: 'archive/issue04/news/aragon.md'
-            - Governance: 'news/governance.md'
+            - Governance: 'archive/issue04/news/governance.md'
           - Articles:
             - Home: 'archive/issue04/articles/index.md'
             - Columns:
