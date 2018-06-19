@@ -1,5 +1,15 @@
 # News / DAOs
 
+## **Featured**
+
+[<h2>Never Heard of a DAO? Here's Why It's Going to Become The Hottest New Type of Corporation</h2>](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html) |
+:-----------|
+[DAOs](daos.md) |
+[<img src=https://www.incimages.com/uploaded_files/image/1940x900/getty_935649472_354813.jpg>](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html) |
+Author [Darren Heitner](https://www.inc.com/author/darren-heitner) on Apr 27 |
+You may have not heard of the abbreviation DAO, but it is a term that should keep popping up with more frequency during the blockchain boom. It stands for decentralized autonomous organizations. As companies are betting on and adopting blockchain, many believing that blockchain is the future, DAO could start playing an even bigger role. |
+[Read More](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html) |
+
 |[Should Couchsurfing Be a DAO?](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[Never Heard of a DAO? Here's Why It's Going to Become The Hottest New Type of Corporation](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html)||
 :-----------:|:-----------:|:-----------:|
 |[DAOs](daos.md)|[DAOs](daos.md)||
