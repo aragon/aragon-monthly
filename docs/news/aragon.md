@@ -2,52 +2,12 @@
 
 ## **Featured**
 
-[<h2>Aragon launches Survey app on Mainnet</h2>](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) |
-:-----------|
-[Aragon](aragon.md) |
-[<img src=https://cdn-images-1.medium.com/max/2000/1*o7yRBPfaXV7lGQRbQ5eXmQ.jpeg>](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) |
-Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) |
-**First Aragon app launched on Ethereum Mainnet for community sentiment signaling**. Today we are releasing an entirely new step for community members to signal their sentiment on the project and igniting the next level of participation in the project for all ANT holders. Survey app is the fourth app developed by our team in addition to the Token Manager, Voting & Finance apps seen previously in Aragon Core v0.5. And the first one to launch on the Ethereum Mainnet. |
-[Read More](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) |
-
-|[‘Hundreds’ Of DAOs Running on Aragon Says CTO In Exclusive Interview](https://bitsonline.com/aragon-daos-interview/)|[Decentralizing Aragon’s development II: Minimum Viable Foundation](https://blog.aragon.one/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc)| [The Aragon Manifesto](https://blog.aragon.one/the-aragon-manifesto-4a21212eac03)|
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://cdn-images-1.medium.com/max/1200/1*Bp8k99cBLXYHL0vILo15wA.jpeg>](https://bitsonline.com/aragon-daos-interview/)|[<img src=https://cdn-images-1.medium.com/max/2000/1*W1MI5L6qr4I3aW_yifhwcg.jpeg>](https://blog.aragon.one/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc)|[<img src=https://cdn-images-1.medium.com/max/2000/1*FAVJ6a4k9swHZcPg16Ttvw.jpeg>](https://blog.aragon.one/the-aragon-manifesto-4a21212eac03)
-|Author [Robert DeVoe](https://bitsonline.com/author/robert-devoe/) on Apr 27|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 3|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 9|
-|We caught up with one of the co-founders and company CTO Jorge Izquierdo at the Shanghai Ethereum Meetup to talk about his project and the recent developments they’ve had as they move into their next version of the software, v0.5.|We have previously shared plans to transform the Aragon project to a community governed project. It will involve decentralizing Aragon’s development, minimising the Foundation's role, decoupling the project from the foundational team and to level the playground for other teams to jump into the core development of the project.|We will either see technology lead to a more free, open, and fair society or reinforce a global regime of centralized control, surveillance, and oppression. Our fear is that without a global, conscious, and concerted effort, the outlook is incredibly bleak.|
-|[Read More](https://bitsonline.com/aragon-daos-interview/)|[Read More](https://blog.aragon.one/decentralizing-aragons-development-ii-minimum-viable-foundation-8ec1f9a13ebc)|[Read More](https://blog.aragon.one/the-aragon-manifesto-4a21212eac03)|
-
-|[Aragon Nest: First awarded grants](https://blog.aragon.one/aragon-nest-first-awarded-grants-29a2f3aa8d4a)|[Aragon Q1 Development Update](https://blog.aragon.one/aragon-q1-development-update-b5525e9477c4)| [First community-wide Aragon Feedback Survey!](https://blog.aragon.one/first-community-wide-aragon-feedback-survey-132df9547fbc)|
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://cdn-images-1.medium.com/max/2000/1*GbgLWIFc-X4GcjcxKK3UcQ.jpeg>](https://blog.aragon.one/aragon-nest-first-awarded-grants-29a2f3aa8d4a)|[<img src=https://cdn-images-1.medium.com/max/800/1*NEK-AZPZ9AwaGh7ot3UNoQ.png>](https://blog.aragon.one/aragon-q1-development-update-b5525e9477c4)|[<img src=https://cdn-images-1.medium.com/max/2000/1*vVLpdbbBdi6vj0kFY5FSiw.jpeg>](https://blog.aragon.one/first-community-wide-aragon-feedback-survey-132df9547fbc)
-|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 10|Author [Jorge Izquierdo](https://blog.aragon.one/@izqui9) on May 12|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 15|
-|We began by first introducing the Aragon Nest grant program back in  2017 and released it for submissions in the January of 2018. Now, it’s time to introduce the first five projects that we’ve granted funding in order for them to flourish, thrive and to pursue their goals of advancing these ecosystems.|Releasing Aragon Core v0.5, The Architect, was the biggest development milestone during the first quarter of the year. Check out what else we have also made ground on. |Now that we have released Aragon Core v0.5,  it’s time to hear your thoughts on how has your experience with it been and how can we improve it in the future. Take part even if you haven't used it and get some free swag!|
-|[Read More](https://blog.aragon.one/aragon-nest-first-awarded-grants-29a2f3aa8d4a)|[Read More](https://blog.aragon.one/aragon-q1-development-update-b5525e9477c4)|[Read More](https://blog.aragon.one/first-community-wide-aragon-feedback-survey-132df9547fbc)|
-
-|[Introducing Aragon One](https://blog.aragon.one/introducing-aragon-one-b14dd804c5ce)|[Decentralizing Aragon’s development III: Onboarding new teams](https://blog.aragon.one/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5)| [Aragon Releases New Developer Portal For Building DApps and DAOs](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://cdn-images-1.medium.com/max/2000/1*PPdfJNy3uNaegc7QYqTk2w.png>](https://blog.aragon.one/introducing-aragon-one-b14dd804c5ce)|[<img src=https://cdn-images-1.medium.com/max/1000/1*FlHb4MYFi9eyxPOvwHTm8Q.png>](https://blog.aragon.one/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5)|[<img src=https://sludgefeed.com/wp-content/uploads/2018/05/Aragon-696x391.png>](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)
-|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 17|Author [Luis Cuende](https://blog.aragon.one/@lic) on May 18|Author [Craig Russo](https://sludgefeed.com/author/craig-russo/) on May 21|
-|Since we released the first version of the Aragon whitepaper, we knew that it was important to split the non-profit entity overseeing the project from the actual companies or teams working on its development. Today, we are announcing the next step. We are announcing Aragon One.|We have already explained why we are decentralizing Aragon’s development, how we are decentralizing the legal vehicle that represents the project and introduced Aragon One, the first company contributing to Aragon’s development. In this post, we will lay out the strategy for onboarding more teams to work on core Aragon infrastructure.|Aragon (ANT), a project facilitating the creation and maintenance of organizational structures by using blockchain technology, announced the launch of a new developer portal today, providing developers with a new command line tool and improved documentation for building decentralized Aragon apps (DApps).|
-|[Read More](https://blog.aragon.one/introducing-aragon-one-b14dd804c5ce)|[Read More](https://blog.aragon.one/decentralizing-aragons-development-iii-onboarding-new-teams-32786cb805a5)|[Read More](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|
-
-|[Releasing the Aragon Developer Portal](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[Aragon Q1 Transparency Report](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)| [Aragon Network — On a path towards a digital jurisdiction](https://blog.aragon.one/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c) |
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://cdn-images-1.medium.com/max/1000/1*WYO3BdrpJRwiXneQjpnUSw.png>](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[<img src=https://cdn-images-1.medium.com/max/2000/1*kf82hL_SYgGPwWXk8_6xNA.jpeg>](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)|[<img src=https://cdn-images-1.medium.com/max/2000/1*yNk4bvKU5Wmfrtx5t22R-Q.png>](https://blog.aragon.one/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c)|
-|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 22|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 25| Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on May 25|
-|Introducing our new Aragon Developer Portal! We released: AragonOS—the smart contract framework that provides upgradeability and governance solutions out-of-the-box, Aragon UI—a toolkit of UI components that can be used to make beautiful frontend experiences and aragon.js—a library that handles transaction pathing, upgradeability and the state of the contracts.|A recap of what has been going on with Aragon during Q1 2018. Dive into the the operations of Aragon: Salaries, expenses, payments, bounties, code audits, hedging, governance, new team members and more...| **Launch of a new edition of the Aragon Network whitepaper and our research forum**. The initial version of the Aragon Network whitepaper was published over a year ago. Since then we have made tremendous progress in making Decentralized Autonomous Organizations a reality.|
-|[Read More](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[Read More](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)| [Read More](https://blog.aragon.one/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c) |
-
-[[Aragon launches Survey app on Mainnet](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) |  |  |
+[**Title**](URI_to_news) | | |
 :-----------:|:-----------:|:-----------:|
-[Aragon](aragon.md) |  |  |
-[<img src=https://cdn-images-1.medium.com/max/2000/1*o7yRBPfaXV7lGQRbQ5eXmQ.jpeg>](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) | [<img src="../../images/monthly_no_image.png">](../news) | [<img src="../../images/monthly_no_image.png">](../news) |
-Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 31 |  |  |
-**First Aragon app launched on Ethereum Mainnet for community sentiment signaling**. Today we are releasing an entirely new step for community members to signal their sentiment on the project and igniting the next level of participation in the project for all ANT holders. Survey app is the fourth app developed by our team in addition to the Token Manager, Voting & Finance apps seen previously in Aragon Core v0.5. And the first one to launch on the Ethereum Mainnet. |  |  |
-[Read More](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) | [Read More](../news) | [Submit News!](../guides/guide_for_submitting_news.md) |
+[_Tag_](tag.md) | | |
+[<img src="../../images/monthly_no_image.png">](URI_to_news) | [<img src="../../images/monthly_no_image.png">](URI_to_news) | [<img src="../../images/monthly_no_image.png">](URI_to_news) |
+_Author [Author Name](URI_to_author_profile) on Month Date#_ | | |
+**Subtitle** Description of the content in the news. | | |
+[Read More](URI_to_news) | [Submit News!](../guides/guide_for_submitting_news.md) | [Submit News!](../guides/guide_for_submitting_news.md) |
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
