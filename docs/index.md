@@ -32,13 +32,26 @@ _Author [Alex Tabarrok](https://marginalrevolution.com/about) on Jun 14_ | _Auth
 ___
 ## [Recent Articles](articles/index.md)
 
-[<h2>Looking for interested contributors</h2>](https://github.com/aragon/aragon-monthly/labels/article) |
+[<h2>Ethereum’s response to EIP0 Results: Governance & Community</h2>](articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md) |
 :-----------|
-[_Editorial_](https://github.com/aragon/aragon-monthly/labels/article) |
-![](../images/monthly_no_image.png) |
-_Author [You!](https://github.com/aragon/aragon-monthly/labels/article) on Feb 17_ |
-[**Want to write an article for Aragon Monthly?**](https://github.com/aragon/aragon-monthly/labels/article) |
-[Read More](https://github.com/aragon/aragon-monthly/labels/article) |
+[_Opinion pieces_](#opinion-pieces) |
+_Author [Pet3rpan](https://medium.com/@pet3rpan)_ |
+It has been three years since the launch of Ethereum and it has taken the center stage of the global tech community. Decisions over the future of Ethereum now reverberate louder than ever and it was a matter of time before we all had to address how we govern ourselves... |
+[Read More](articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md) |
+
+[<h2>Governance Through Code</h2>](articles/opinion/governance_through_code.md) |
+:-----------|
+[_Opinion pieces_](#opinion-pieces) |
+_Author [Thijs Maas / @ThijsMaasLaw](https://github.com/ThijsMaasLaw)_ |
+**The biggest evolution in governance since the invention of the company.** With the rise of the internet and advances in cryptography, online communities and new forms of governance are increasingly emerging. In fact, governance through code is the single largest innovation in the field of governance since the company. Yet, new advances made in this area barely get the attention they deserve. |
+[Read More](articles/opinion/governance_through_code.md) |
+
+[<h2>The importance of Governance</h2>](articles/opinion/importance_of_governance.md) |
+:-----------|
+[_Opinion pieces_](#opinion-pieces) |
+_Author [Diego Xirinachs / @dxiri](https://github.com/dxiri)_ |
+**Why it matters and why you should care.** Governance is an important topic that touches everyone's lives in some way or another. With our current system: a government is established, ground rules are set in the form of a constitution, and everyone in that same jurisdiction agrees to follow those ground rules. So, to build unstoppable organizations, you need to start by laying some ground rules that everyone participating agrees with... |
+[Read More](articles/opinion/importance_of_governance.md) |
 
 ###### [Browse More Articles](articles/index.md)
 ___

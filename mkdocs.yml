@@ -43,7 +43,9 @@ pages:
     - Editorials:
       - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
+      - Ethereum’s response to EIP0 Results: 'articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md'
+      - Governance Through Code: 'articles/opinion/governance_through_code.md'
+      - The importance of Governance: 'articles/opinion/importance_of_governance.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
