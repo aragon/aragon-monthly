@@ -1,21 +1,11 @@
 # News / DAOs
 
-## **Featured**
-
-[<h2>Never Heard of a DAO? Here's Why It's Going to Become The Hottest New Type of Corporation</h2>](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html) |
-:-----------|
-[DAOs](daos.md) |
-[<img src=https://www.incimages.com/uploaded_files/image/1940x900/getty_935649472_354813.jpg>](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html) |
-Author [Darren Heitner](https://www.inc.com/author/darren-heitner) on Apr 27 |
-You may have not heard of the abbreviation DAO, but it is a term that should keep popping up with more frequency during the blockchain boom. It stands for decentralized autonomous organizations. As companies are betting on and adopting blockchain, many believing that blockchain is the future, DAO could start playing an even bigger role. |
-[Read More](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html) |
-
-|[Should Couchsurfing Be a DAO?](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[Never Heard of a DAO? Here's Why It's Going to Become The Hottest New Type of Corporation](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html)||
-:-----------:|:-----------:|:-----------:|
-|[DAOs](daos.md)|[DAOs](daos.md)||
-|[<img src=https://cdn-images-1.medium.com/max/800/1*r2icCZOUK1-FMIdar016FA.jpeg>](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[<img src=https://www.incimages.com/uploaded_files/image/1940x900/getty_935649472_354813.jpg>](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html)|
-|Author [Chelsea Rustrum](https://hackernoon.com/@shareablelife) on Apr 4|Author [Darren Heitner](https://www.inc.com/author/darren-heitner) on Apr 27||
-|I’d experienced the joy of connecting without money — sharing meals and homes with complete strangers on Couchsurfing.com, gifting access to my car while I traveled, and experimenting with random acts of generosity. These experiences were so transformational that I volunteered to help shoot a documentary, One Couch at a Time, which highlighted the relational aspects of the burgeoning sharing economy.|You may have not heard of the abbreviation DAO, but it is a term that should keep popping up with more frequency during the blockchain boom. It stands for decentralized autonomous organizations. As companies are betting on and adopting blockchain, many believing that blockchain is the future, DAO could start playing an even bigger role.||
-|[Read More](https://hackernoon.com/should-couchsurfing-be-a-dao-6507646e34ef)|[Read More](https://www.inc.com/darren-heitner/never-heard-of-a-dao-heres-why-its-going-to-become-hottest-new-type-of-corporation.html)||
+[**How Daox Works — Part 1**](https://medium.com/daox/how-daox-works-part-1-a1d2a456cbe7) | [**Ethereum’s Forgotten Treasure: DAOs**](https://cryptoslate.com/ethereums-forgotten-treasure-daos/) |
+:-----------:|:-----------:|
+[DAOs](daos.md) | [DAOs](daos.md)
+[<img src="https://cdn-images-1.medium.com/max/1000/1*mokPhiFWuufVAajUNgjnuQ.png">](https://medium.com/daox/how-daox-works-part-1-a1d2a456cbe7) | [<img src="https://images.unsplash.com/photo-1516434233442-0c69c369b66d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2c02393e44448e27bd588d1c872b7595&auto=format&fit=crop&w=800&q=80">](https://cryptoslate.com/ethereums-forgotten-treasure-daos/) |
+_Author [Anton Vityazev](https://medium.com/@vityazevanton) on May 15_ | _Author [Joe Kildune](https://cryptoslate.com/author/joe-kildune/) on Jun 10_  |
+This article is for anyone who is interested in the Daox project understand how this platform works, what the main stages of lifecycle for each created DAO are, and how different components of the platform connect with each other. | **Learning from the DAO failure.** The Original DAO was a venture capital fund meant to support new blockchain enterprises, which suffered from a fatal flaw, but we have learned the failure was specific to the Original DAO, not to the concept itself. |
+[Read More](https://medium.com/daox/how-daox-works-part-1-a1d2a456cbe7) | [Read More](https://cryptoslate.com/ethereums-forgotten-treasure-daos/) |
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)

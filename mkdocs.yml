@@ -43,7 +43,9 @@ pages:
     - Editorials:
       - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
+      - Ethereum’s response to EIP0 Results: 'articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md'
+      - Governance Through Code: 'articles/opinion/governance_through_code.md'
+      - The importance of Governance: 'articles/opinion/importance_of_governance.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
@@ -135,3 +137,22 @@ pages:
             - Reviewers: 'archive/issue04/contributors/reviewers.md'
             - Contributors: 'archive/issue04/contributors/contributors.md'
             - Columnists: 'archive/issue04/contributors/columnists.md'
+    - Issue 05:
+          - Front Page: 'archive/issue05/index.md'
+          - News:
+            - Home: 'archive/issue05/news/index.md'
+            - DAOs: 'archive/issue05/news/daos.md'
+            - Aragon: 'archive/issue05/news/aragon.md'
+            - Governance: 'archive/issue05/news/governance.md'
+          - Articles:
+            - Home: 'archive/issue05/articles/index.md'
+            - Columns:
+              - Start a Column!: 'archive/issue05/articles/columns/submit.md'
+          - Classifieds:
+            - Home: 'archive/issue05/classifieds/index.md'
+          - Contributors:
+            - Home: 'archive/issue05/contributors/index.md'
+            - Editors: 'archive/issue05/contributors/editors.md'
+            - Reviewers: 'archive/issue05/contributors/reviewers.md'
+            - Contributors: 'archive/issue05/contributors/contributors.md'
+            - Columnists: 'archive/issue05/contributors/columnists.md'

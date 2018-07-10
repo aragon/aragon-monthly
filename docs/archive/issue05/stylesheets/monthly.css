@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass');
+
+.md-typeset {
+  font-size: 1.8rem;
+}
+
+[data-md-color-primary="grey"] .md-header {
+  background-color: #fff;
+  color: #000;
+}
+
+.md-header-nav__parent {
+  color: #000;
+}
+
+.md-header-nav__parent:after {
+  color: #000;
+}
+
+.md-search__input {
+  border-radius: 0.2rem 0.2rem 0 0;
+  background-color: #606060;
+  color: rgba(0, 0, 0, 0.87);
+  text-overflow: none;
+  border-radius: 4px;
+}
+
+.md-search__input:hover {
+  background-color: #808080;
+}
+
+.md-typeset h1#aragon-monthly {
+  color: rgba(0, 0, 0, 1);
+  font-size: 8rem;
+  font-family: 'Overpass', sans-serif;
+  text-align: center;
+  margin-top: -4rem;
+  margin-bottom: -2.5rem;
+}
+
+.md-content__inner.md-typeset h4 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: -2.5rem;
+}
+
+.md-content__inner:before {
+  display: none;
+}
+
+.md-typeset h1 {
+  color: rgba(0, 0, 0, 1);
+}
+
+.md-typeset h1#news {
+  color: rgba(0, 0, 0, 1);
+}
+
+.md-typeset .md-typeset__table {
+  width: 100%;
+  margin-left: -1%;
+}
+
+@media only screen and (min-width: 60em) {
+  .md-content {
+    margin-right: -0;
+  }
+}
+
+.md-sidebar--secondary {
+  display: none;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #fff;
+  color: #000;
+  width: 33%;
+  border-right: 1px;
+  border-right-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset table:not([class]) td {
+  border-right: 1px;
+  border-right-style: solid;
+  border-color: rgba(0, 0, 0, 0.1);
+  padding-top: 1rem;
+  padding-bottom: 0.8rem;
+}
+
+.md-typeset table:not([class]) tr:first-child td {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
+.md-typeset table:not([class]) tr:first-child td a {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.md-typeset table:not([class]) tr:first-child td a:hover {
+  color: rgba(32, 172, 163, 0.5);
+}
+
+.md-typeset table:not([class]) tr a {
+  color: rgba(0, 0, 0, 1);
+  font-size: 1.5rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(5) a {
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(5) a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+.md-typeset table:not([class]) tr:nth-child(3) em a {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 1.2rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(3) em {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 1.4rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(3) em a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+.md-typeset table:not([class]) tr:nth-child(3) td {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.md-typeset table:not([class]) tr:nth-child(4) td {
+  font-size: 1.6rem;
+}
+
+.md-typeset table:not([class]) td img {
+  width: 25rem;
+}
+
+.md-typeset table:not([class]) td {
+  overflow: hidden;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.md-typeset table:not([class]) th {
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  border-top: 1px;
+  border-top-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.md-typeset h2 {
+  margin-top: 0.1rem;
+}
+
+.md-typeset h2#featured {
+  margin-top: -3rem;
+  margin-bottom: -1rem;
+  font-size: 2rem;
+}
+
+.md-typeset table:not([class]) th h2 a {
+  margin-top: 0.1rem;
+  font-size: 4rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(4) a {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 2rem;
+}
+
+.md-typeset table:not([class]) tr:nth-child(4) a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+.md-typeset iframe, .md-typeset img, .md-typeset svg {
+  max-width: 50rem;
+}
+
+.md-typeset table:not([class]) td {
+  font-size: 1.8rem;
+}
+
+[title="Project info"] {
+  color: hsla(0, 0%, 100%, 0.5);
+}
+
+[title="Guides"] {
+  color: hsla(0, 0%, 100%, 0.5);
+}
+
+h2#recent-news a {
+  color: #000;
+  text-decoration: underline;
+  font-size: 4rem;
+  padding: 5px;
+}
+
+h2#recent-news a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+h2#recent-articles a {
+  color: #000;
+  text-decoration: underline;
+  font-size: 4rem;
+  padding: 5px;
+}
+
+h2#recent-articles a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+h2#recent-classifieds a {
+  color: #000;
+  text-decoration: underline;
+  font-size: 4rem;
+  padding: 5px;
+}
+
+h2#recent-classifieds a:hover {
+  color: rgba(9, 186, 213, 0.8);
+}
+
+h6#browse-more-news a {
+  color: rgba(9, 186, 213, 1);
+  font-size: 3rem;
+  text-decoration: none;
+}
+
+h6#browse-more-news a:hover {
+  color: #000;
+}
+
+h6#browse-more-articles a:hover {
+  color: #000;
+}
+
+h6#browse-more-articles a {
+  color: rgba(9, 186, 213, 0.8);
+  font-size: 3rem;
+}
+
+h6#browse-more-classifieds a:hover {
+  color: #000;
+}
+
+h6#browse-more-classifieds a {
+  color: rgba(9, 186, 213, 0.8);
+  font-size: 3rem;
+}

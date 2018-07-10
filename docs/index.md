@@ -1,6 +1,6 @@
 # Aragon Monthly
 #### The community curated digital newspaper about DAOs and the Aragon ecosystem
-#### Issue 05, June 8th 2018
+#### Issue 06, July 2018
 ___
 > **Content curation is the process of gathering information relevant to a particular topic or area of interest.**
 
@@ -12,46 +12,54 @@ For more information, see [**How does this work?**](info/index.md#how-does-this-
 ___
 ## [Recent News](news/index.md)
 
-| [**Aragon Network — On a path towards a digital jurisdiction**](https://blog.aragon.one/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c)|[**We Need to Formalize Governance Research using DAOs**](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3) | [**Aragon launches Survey app on Mainnet**](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) |
-:-----------:|:-----------:|:-----------:|
-| [Aragon](aragon.md) |[Governance](governance.md)|[Aragon](aragon.md)|
-| [<img src=https://cdn-images-1.medium.com/max/2000/1*yNk4bvKU5Wmfrtx5t22R-Q.png>](https://blog.aragon.one/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c) |[<img src=https://4.bp.blogspot.com/-QYTO1m6eCWY/UKv0dYaWYFI/AAAAAAAAAC8/3ryN1b5-OFE/s1600/school-of-athens2.jpg>](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)| [<img src=https://cdn-images-1.medium.com/max/2000/1*o7yRBPfaXV7lGQRbQ5eXmQ.jpeg>](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) |
-| Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on May 25 |Author [Zefram Lou](https://medium.com/@zeframlou) on May 28| Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 31 |
-| **Launch of a new edition of the Aragon Network whitepaper and our research forum**. The initial version of the Aragon Network whitepaper was published over a year ago. Since then we have made tremendous progress in making Decentralized Autonomous Organizations a reality. |As a human race we started taking governance seriously during the Renaissance period. We started to use our rationality to analyze our political systems, and developed a theoretical framework to think about governance systems, namely modern political science. Turns out it was pretty useful.| **First Aragon app launched on Ethereum Mainnet for community sentiment signaling**. Today we are releasing an entirely new step for community members to signal their sentiment on the project and igniting the next level of participation in the project for all ANT holders. Survey app is the fourth app developed by our team in addition to the Token Manager, Voting & Finance apps seen previously in Aragon Core v0.5. And the first one to launch on the Ethereum Mainnet.|
-| [Read More](https://blog.aragon.one/aragon-network-on-a-path-towards-a-digital-jurisdiction-752ccf4b9d5c) |[Read More](https://medium.com/betoken/we-need-to-formalize-governance-research-using-daos-e9393da427f3)| [Read More](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) |
+[**Crypto Commons — from tragedy to wealth of the commons**](https://blog.usejournal.com/crypto-commons-da602fb98138) | [**What is on-chain cryptocurrency governance? Is it plutocratic?**](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) | [**Exploring Ethereum Storage Costs with the FOAM Developer Tools**](https://blog.foam.space/exploring-ethereum-storage-costs-with-the-foam-developer-tools-96d84e1a06b5) |
+:-----------:|:-----------:|:-----------:|  
+[_Governance_](governance.md) | [_Governance_](governance.md) | [_Governance_](governance.md) |
+[<img src="https://cdn.britannica.com/668x448/09/134309-004-ABF9FE28.jpg">](https://blog.usejournal.com/crypto-commons-da602fb98138) | [<img src="https://images.unsplash.com/photo-1499909694555-1ae5b7067b1a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85c6f4950e33e2feb5252e160c649a21&auto=format&fit=crop&w=800&q=80">](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) | [<img src="https://cdn-images-1.medium.com/max/800/1*kbBSEYx4ssictZbc2P3IgQ.jpeg">](https://blog.foam.space/exploring-ethereum-storage-costs-with-the-foam-developer-tools-96d84e1a06b5) |  
+_Author [Mike Maples, Jr.](https://blog.usejournal.com/@m2jr) on Jun 28_ | _Author [Richard Red](https://medium.com/@richardred) on Jun 20_ | _Author [Ilya Ostrovskiy](https://blog.foam.space/@iostat_foam) on Jun 18_ |  
+The tragedy of the commons describes how individuals, acting independently according to their self-interest, can accidentally destroy a shared resource. The article proposes how cryptocurrency can be used as a scalable governance model for shared resources. | **A rebuttal to On-Chain Blockchain Governance.** A detailed response to a number of posts from prominent blockchain personalities about how on-chain governance based on coin-holder votes is inherently plutocratic and bad. | **A good craftsman never has to blame their tools.** A showcase on how we used our stack to help drive the design and engineering process behind the FOAM TCR. |  
+[Read More](https://blog.usejournal.com/crypto-commons-da602fb98138) | [Read More](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) | [Read More](https://blog.foam.space/exploring-ethereum-storage-costs-with-the-foam-developer-tools-96d84e1a06b5) |  
 
-|[**Aragon Releases New Developer Portal For Building DApps and DAOs**](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|[**Releasing the Aragon Developer Portal**](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)| [**Aragon Q1 Transparency Report**](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)|
-:-----------:|:-----------:|:-----------:
-|[Aragon](aragon.md)|[Aragon](aragon.md)|[Aragon](aragon.md)
-|[<img src=https://sludgefeed.com/wp-content/uploads/2018/05/Aragon-696x391.png>](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|[<img src=https://cdn-images-1.medium.com/max/1000/1*WYO3BdrpJRwiXneQjpnUSw.png>](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[<img src=https://cdn-images-1.medium.com/max/2000/1*kf82hL_SYgGPwWXk8_6xNA.jpeg>](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)
-|Author [Craig Russo](https://sludgefeed.com/author/craig-russo/) on May 21|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 22|Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 25|
-|Aragon (ANT), a project facilitating the creation and maintenance of organizational structures by using blockchain technology, announced the launch of a new developer portal today, providing developers with a new command line tool and improved documentation for building decentralized Aragon apps (DApps).|Introducing our new Aragon Developer Portal! We released: AragonOS—the smart contract framework that provides upgradeability and governance solutions out-of-the-box, Aragon UI—a toolkit of UI components that can be used to make beautiful frontend experiences and aragon.js—a library that handles transaction pathing, upgradeability and the state of the contracts.|A recap of what has been going on with Aragon during Q1 2018. Dive into the the operations of Aragon: Salaries, expenses, payments, bounties, code audits, hedging, governance, new team members and more...|
-|[Read More](https://sludgefeed.com/aragon-releases-new-developer-portal-for-building-dapps-and-daos/)|[Read More](https://blog.aragon.one/releasing-the-aragon-developer-portal-237a8dbc8a48)|[Read More](https://blog.aragon.one/aragon-q1-transparency-report-5ba9fc435ca6)|
+[**Towards An International Court of Smart Contract Arbitration**](https://marginalrevolution.com/marginalrevolution/2018/06/towards-international-court-smart-contract-arbitration.html) | [**EasyTCR — a UI/UX framework for Token-curated registries**](https://medium.com/dappdev/easytcr-a-ui-ux-framework-for-token-curated-registries-dd80a8bcc6c6) | [**POA Network: Preserving the human — blockchain connection**](https://medium.com/poa-network/poa-network-preserving-the-human-blockchain-connection-774e221308aa) |
+:-----------:|:-----------:|:-----------:|
+[_Governance_](governance.md) | [_Governance_](governance.md) | [_Governance_](governance.md) |
+[<img src="https://images.unsplash.com/photo-1515040242872-08257d6d08c2?ixlib=rb-0.3.5&s=e7e07b35570d150a85700c871139f1fb&auto=format&fit=crop&w=800&q=80">](https://marginalrevolution.com/marginalrevolution/2018/06/towards-international-court-smart-contract-arbitration.html) | [<img src="https://cdn-images-1.medium.com/max/800/1*uskfNJIZA50toPjBxw8YAQ.png">](https://medium.com/dappdev/easytcr-a-ui-ux-framework-for-token-curated-registries-dd80a8bcc6c6) | [<img src="https://cdn-images-1.medium.com/max/800/1*OALwmEp8ED1uwtkX0oOLzw.png">](https://medium.com/poa-network/poa-network-preserving-the-human-blockchain-connection-774e221308aa) |
+_Author [Alex Tabarrok](https://marginalrevolution.com/about) on Jun 14_ | _Author [DApp DEV Consulting](https://medium.com/@dappdev) on Jun 13_ | _Author [POA Network](https://medium.com/@poanetwork) on Jun 13_ |
+**Lex Cryptographia, the legal system of smart contracts and code-is-law** In this article, Alex proposes a court system analogous to the courts of arbitration that govern international commerce be created to govern smart contracts in virtual space. | **A UI/UX framework on top of the TCR smart contracts** Announcing EasyTCR, in cooperation with ConsenSys we create an intuitive and easy to use solution for the curation markets ecosystem. | **An open Ethereum sidechain with Proof of Authority (PoA) consensus by independent validators.** While computers and algorithms play a vital role in encrypting, writing, and storing blocks, people are still responsible for the code and integrity of the system. |
+[Read More](https://marginalrevolution.com/marginalrevolution/2018/06/towards-international-court-smart-contract-arbitration.html) | [Read More](https://medium.com/dappdev/easytcr-a-ui-ux-framework-for-token-curated-registries-dd80a8bcc6c6) | [Read More](https://medium.com/poa-network/poa-network-preserving-the-human-blockchain-connection-774e221308aa) |
 
 ###### [Browse More News](news/index.md)
 ___
 ## [Recent Articles](articles/index.md)
 
-[<h2>Looking for interested contributors</h2>](https://github.com/aragon/aragon-monthly/labels/article) |
+[<h2>Ethereum’s response to EIP0 Results: Governance & Community</h2>](articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md) |
 :-----------|
-[_Editorial_](https://github.com/aragon/aragon-monthly/labels/article) |
-![](../images/monthly_no_image.png) |
-_Author [You!](https://github.com/aragon/aragon-monthly/labels/article) on Feb 17_ |
-[**Want to write an article for Aragon Monthly?**](https://github.com/aragon/aragon-monthly/labels/article) |
-[Read More](https://github.com/aragon/aragon-monthly/labels/article) |
+[_Opinion pieces_](#opinion-pieces) |
+_Author [Pet3rpan](https://medium.com/@pet3rpan)_ |
+It has been three years since the launch of Ethereum and it has taken the center stage of the global tech community. Decisions over the future of Ethereum now reverberate louder than ever and it was a matter of time before we all had to address how we govern ourselves... |
+[Read More](articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md) |
+
+[<h2>Governance Through Code</h2>](articles/opinion/governance_through_code.md) |
+:-----------|
+[_Opinion pieces_](#opinion-pieces) |
+_Author [Thijs Maas / @ThijsMaasLaw](https://github.com/ThijsMaasLaw)_ |
+**The biggest evolution in governance since the invention of the company.** With the rise of the internet and advances in cryptography, online communities and new forms of governance are increasingly emerging. In fact, governance through code is the single largest innovation in the field of governance since the company. Yet, new advances made in this area barely get the attention they deserve. |
+[Read More](articles/opinion/governance_through_code.md) |
+
+[<h2>The importance of Governance</h2>](articles/opinion/importance_of_governance.md) |
+:-----------|
+[_Opinion pieces_](#opinion-pieces) |
+_Author [Diego Xirinachs / @dxiri](https://github.com/dxiri)_ |
+**Why it matters and why you should care.** Governance is an important topic that touches everyone's lives in some way or another. With our current system: a government is established, ground rules are set in the form of a constitution, and everyone in that same jurisdiction agrees to follow those ground rules. So, to build unstoppable organizations, you need to start by laying some ground rules that everyone participating agrees with... |
+[Read More](articles/opinion/importance_of_governance.md) |
 
 ###### [Browse More Articles](articles/index.md)
 ___
 ## [Recent Classifieds](classifieds/index.md)
 
-[<h2>TruffleCon 2018, our first-ever Truffle conference</h2>](http://truffleframework.com/trufflecon2018) |
+[<h2>Blockchain For Peace — Law & Governance Hackathon</h2>](https://hackernoon.com/blockchain-for-peace-law-governance-hackathon-41bb784cc25f) |
 :-----------|
-**TruffleCon 2018, our first-ever Truffle conference,** will be in Portland, Oregon, on October 5-7, 2018. Mark your calendars! |
-[Learn More](http://truffleframework.com/trufflecon2018) |
-
-[<h2>Web3 Developer Opening at Aragon</h2>](http://wiki.aragon.one/jobs/openings/web3/) |
-:-----------|
-Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world’s worst problems. **We’re looking for a Web3 Developer to help us bridge smart contracts to a frontend**. Internally, we call this position "Glue". Our Web3 Developer is ideally not only a Javascript expert but also a decentralization evangelist—someone who enjoys researching and testing new Web3 technologies. |
-[Learn More](http://wiki.aragon.one/jobs/openings/web3/) |
+We’re excited to announce the dopest hackathon of the year, Blockchain for Peace’s “Law & Governance” hack at Bushwick Generator on July 27–29th. It will be co-hosted by Peace Accelerators, Stanford University, and Bushwick Blockchain Alliance, taking place two blocks from ConsenSys headquarters in the heart of NYC’s blockchain community. |
+[Learn More](https://hackernoon.com/blockchain-for-peace-law-governance-hackathon-41bb784cc25f) |
 
 ###### [Browse More Classifieds](classifieds/index.md)
