@@ -1,5 +1,15 @@
 # News / Governance
 
+## **Featured**
+
+[<h2>**Trust Mapping Social Arrangements**</h2>](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+:-----------|
+[_Governance_](governance.md) |
+[<img src="https://cdn-images-1.medium.com/max/800/1*kwUBxvjOeXj3PbV2W_gT8A.png">](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+_Author [Dan Finlay](https://medium.com/@danfinlay) on May 26_ |
+**Using a visual language for trust diagrams** Dan Finlay examines how a variety of social arrangements can be diagrammed with this trust map syntax, which will give us a set of tools for analyzing other problems... |
+[Read More](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+
 [**Swae, The Future of Organizations, Decision-Making, Governance, and You…**](https://medium.com/swae/swae-the-future-of-organizations-decision-making-governance-and-you-4ec94a99f899) | [**Trust Mapping Social Arrangements**](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) | [**Token curated playlists #2: throughput & fitness, use cases, UX**](https://medium.com/paratii/token-curated-playlists-2-throughput-fitness-use-cases-ux-6421733b0063) |
 :-----------:|:-----------:|:-----------:|
 [_Governance_](governance.md) | [_Governance_](governance.md) | [_Governance_](governance.md) |
@@ -27,9 +37,9 @@ _Author [Alex Tabarrok](https://marginalrevolution.com/about) on Jun 14_ | _Auth
 [**Voting and Governance in Security Tokens**](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [**Crypto Commons — from tragedy to wealth of the commons**](https://blog.usejournal.com/crypto-commons-da602fb98138) | |
 :-----------:|:-----------:|:-----------:|
 [_Governance_](governance.md) | [_Governance_](governance.md) | |
-[<img src="https://cdn-images-1.medium.com/max/800/1*F7oHt_loAWz4EACe_SqRgQ.jpeg">](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [<img src="https://cdn.britannica.com/668x448/09/134309-004-ABF9FE28.jpg">](https://blog.usejournal.com/crypto-commons-da602fb98138) | |
+[<img src="https://cdn-images-1.medium.com/max/800/1*F7oHt_loAWz4EACe_SqRgQ.jpeg">](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [<img src="https://cdn.britannica.com/668x448/09/134309-004-ABF9FE28.jpg">](https://blog.usejournal.com/crypto-commons-da602fb98138) | [<img src="../../images/monthly_no_image.png">](../guides/guide_for_submitting_news.md) |
 _Author [Jesus Rodriguez](https://medium.com/@jrodthoughts) on Jun 21_ | _Author [Mike Maples, Jr.](https://blog.usejournal.com/@m2jr) on Jun 28_ | |
 **Token voting mechanisms and their attack vectors.** The main challenges of voting and governance in the security token space is related to the fact that a significant part of the lifecycle of a toke takes place off chain. | The tragedy of the commons describes how individuals, acting independently according to their self-interest, can accidentally destroy a shared resource. The article proposes how cryptocurrency can be used as a scalable governance model for shared resources. | |
-[Read More](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [Read More](https://blog.usejournal.com/crypto-commons-da602fb98138) | |
+[Read More](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [Read More](https://blog.usejournal.com/crypto-commons-da602fb98138) | [Submit News!](../guides/guide_for_submitting_news.md) |
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)

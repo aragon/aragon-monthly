@@ -1,5 +1,15 @@
 # News
 
+## **Featured**
+
+[<h2>**Trust Mapping Social Arrangements**</h2>](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+:-----------|
+[_Governance_](governance.md) |
+[<img src="https://cdn-images-1.medium.com/max/800/1*kwUBxvjOeXj3PbV2W_gT8A.png">](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+_Author [Dan Finlay](https://medium.com/@danfinlay) on May 26_ |
+**Using a visual language for trust diagrams** Dan Finlay examines how a variety of social arrangements can be diagrammed with this trust map syntax, which will give us a set of tools for analyzing other problems... |
+[Read More](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+
 [**Swae, The Future of Organizations, Decision-Making, Governance, and You…**](https://medium.com/swae/swae-the-future-of-organizations-decision-making-governance-and-you-4ec94a99f899) | [**How Daox Works — Part 1**](https://medium.com/daox/how-daox-works-part-1-a1d2a456cbe7) | [**Luis Cuende: Aragon - Decentralized Governance and the Fight for Freedom**](https://soundcloud.com/epicenterbitcoin/eb-236/) |
 :-----------:|:-----------:|:-----------:|
 [_Governance_](governance.md) | [DAOs](daos.md) | [_Aragon_](aragon.md) |
