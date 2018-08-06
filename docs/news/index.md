@@ -2,60 +2,28 @@
 
 ## **Featured**
 
-[<h2>**Trust Mapping Social Arrangements**</h2>](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+[<h2>Title</h2>](URI_to_news) |
 :-----------|
-[_Governance_](governance.md) |
-[<img src="https://cdn-images-1.medium.com/max/800/1*kwUBxvjOeXj3PbV2W_gT8A.png">](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
-_Author [Dan Finlay](https://medium.com/@danfinlay) on May 26_ |
-**Using a visual language for trust diagrams** Dan Finlay examines how a variety of social arrangements can be diagrammed with this trust map syntax, which will give us a set of tools for analyzing other problems... |
-[Read More](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) |
+[_Tag_](tag.md) |
+![](../../images/monthly_no_image.png) |
+_Author [Author Name](URI_to_author_profile) on Month Date#_ |
+**Subtitle** Description of the content in the news. |
+[Read More](URI_to_news) |
 
-[**Swae, The Future of Organizations, Decision-Making, Governance, and You…**](https://medium.com/swae/swae-the-future-of-organizations-decision-making-governance-and-you-4ec94a99f899) | [**How Daox Works — Part 1**](https://medium.com/daox/how-daox-works-part-1-a1d2a456cbe7) | [**Luis Cuende: Aragon - Decentralized Governance and the Fight for Freedom**](https://soundcloud.com/epicenterbitcoin/eb-236/) |
-:-----------:|:-----------:|:-----------:|
-[_Governance_](governance.md) | [DAOs](daos.md) | [_Aragon_](aragon.md) |
-[<img src="http://www.swae.io/wp-content/uploads/2018/02/logo@3x.png">](https://medium.com/swae/swae-the-future-of-organizations-decision-making-governance-and-you-4ec94a99f899) | [<img src="https://cdn-images-1.medium.com/max/1000/1*mokPhiFWuufVAajUNgjnuQ.png">](https://medium.com/daox/how-daox-works-part-1-a1d2a456cbe7) | [<img src="https://i1.sndcdn.com/artworks-000352234458-n15z5o-t500x500.jpg">](https://soundcloud.com/epicenterbitcoin/eb-236/) |
-_Author [Soushiant Zanganehpour](https://medium.com/@soushiant) on May 2_ | _Author [Anton Vityazev](https://medium.com/@vityazevanton) on May 15_ | _Author [Epicenter](https://soundcloud.com/epicenterbitcoin) on May 24_ |
-The founder shares his journey of re-imagining organizational decision-making and build their operating system for the future. Swae is their first product to help individuals within organizations create great proposals anonymously with support of AI, then improve the quality of those proposals with crowd input. | This article is for anyone who is interested in the Daox project understand how this platform works, what the main stages of lifecycle for each created DAO are, and how different components of the platform connect with each other. | **Epicenter Episode #236** Aragon Founder Luis Cuende joined us to discuss their work on building tools for decentralized governance. We covered the origins of his deep drive, why this is a crucial fight for humanity and the tools that Aragon has built. |
-[Read More](https://medium.com/swae/swae-the-future-of-organizations-decision-making-governance-and-you-4ec94a99f899) | [Read More](https://medium.com/daox/how-daox-works-part-1-a1d2a456cbe7) | [Read More](https://soundcloud.com/epicenterbitcoin/eb-236/) |
+| | |  
+:-----------:|:-----------:|:-----------:|  
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
 
-[**Trust Mapping Social Arrangements**](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) | [**Token curated playlists #2: throughput & fitness, use cases, UX**](https://medium.com/paratii/token-curated-playlists-2-throughput-fitness-use-cases-ux-6421733b0063) | [**EIP0 Shared Values: My Answers**](https://medium.com/coinmonks/eip0-shared-values-my-answers-9f9a6767dffd) |
-:-----------:|:-----------:|:-----------:|
-[_Governance_](governance.md) | [_Governance_](governance.md) | [_Governance_](governance.md) |
-[<img src="https://cdn-images-1.medium.com/max/800/1*kwUBxvjOeXj3PbV2W_gT8A.png">](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) | [<img src="https://cdn-images-1.medium.com/max/1000/1*H6tbiAX9al-BVFfslxc2ZQ.png">](https://medium.com/paratii/token-curated-playlists-2-throughput-fitness-use-cases-ux-6421733b0063) | [<img src="https://cdn-images-1.medium.com/max/1000/1*gpX2u-ym_e_R-jzWhbstjw.jpeg">](https://medium.com/coinmonks/eip0-shared-values-my-answers-9f9a6767dffd) |
-_Author [Dan Finlay](https://medium.com/@danfinlay) on May 26_ | _Author [Felipe Gaúcho Pereira](https://medium.com/@felipegachopereira) on May 30_ | _Author [Vivek Singh](https://medium.com/@vivek.m.singh) on Jun 3_  |
-**Using a visual language for trust diagrams** Dan Finlay examines how a variety of social arrangements can be diagrammed with this trust map syntax, which will give us a set of tools for analyzing other problems... | **Navigating tradeoffs in the world of skin-in-the-game curation (or “can TCR tokens be seen as work-tokens”?).** In part II of this series, Felipe takes a deeper look into TCR and the state of user interfaces. | **Responses from an Ethereum community member** A public response to the EIP0 Shared Values survey, which was created to build an open data-set of individual perspectives to help inform the Shared Values of Ethereum. |
-[Read More](https://medium.com/capabul/trust-mapping-social-arrangements-7fd03b2bf627) | [Read More](https://medium.com/paratii/token-curated-playlists-2-throughput-fitness-use-cases-ux-6421733b0063) | [Read More](https://medium.com/coinmonks/eip0-shared-values-my-answers-9f9a6767dffd) |
-
-[**Aragon Dev Meetup at BlueYard **](https://www.youtube.com/watch?v=atEnUHLaPE0&feature=youtu.be) | [**Ethereum’s Forgotten Treasure: DAOs**](https://cryptoslate.com/ethereums-forgotten-treasure-daos/) | [**Opening applications for the Building DAOs video series**](https://blog.aragon.one/opening-applications-for-the-building-daos-video-series-81a17c92149f) |
-:-----------:|:-----------:|:-----------:|
-[_Aragon_](aragon.md) | [DAOs](daos.md) | [_Aragon_](aragon.md) |
-[<img src="https://i.ytimg.com/vi/atEnUHLaPE0/maxresdefault.jpg">](https://www.youtube.com/watch?v=atEnUHLaPE0&feature=youtu.be) | [<img src="https://images.unsplash.com/photo-1516434233442-0c69c369b66d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2c02393e44448e27bd588d1c872b7595&auto=format&fit=crop&w=800&q=80">](https://cryptoslate.com/ethereums-forgotten-treasure-daos/) | [<img src="https://cdn-images-1.medium.com/max/2000/0*QeSEqPFWg06e7F8h">](https://blog.aragon.one/opening-applications-for-the-building-daos-video-series-81a17c92149f) |
-_Author [Brett Sun](https://github.com/sohkai) on Jun 8_ | _Author [Joe Kildune](https://cryptoslate.com/author/joe-kildune/) on Jun 10_ | _Author [John Light](https://blog.aragon.one/@lightcoin) on Jun 13_ |
-**Building upgradeable organizations on the blockchain** We begin with an overview of Aragon's vision for human organization, our recent 0.5 release, and what’s in store for the journey ahead. We’ll then dive into each component of our fully decentralized application stack, exploring the limits of smart contract and dapp development. | **Learning from the DAO failure.** The Original DAO was a venture capital fund meant to support new blockchain enterprises, which suffered from a fatal flaw, but we have learned the failure was specific to the Original DAO, not to the concept itself. | **Join us in building your own customized DAO on Ethereum** We are excited to invite our community to participate in Building DAOs, an educational video series that will feature the Aragon One developer team working side-by-side with community members and their teams to configure their smart contracts and build their DAOs. |
-[Read More](https://www.youtube.com/watch?v=atEnUHLaPE0&feature=youtu.be) | [Read More](https://cryptoslate.com/ethereums-forgotten-treasure-daos/) | [Read More](https://blog.aragon.one/opening-applications-for-the-building-daos-video-series-81a17c92149f) |
-
-[**EasyTCR — a UI/UX framework for Token-curated registries**](https://medium.com/dappdev/easytcr-a-ui-ux-framework-for-token-curated-registries-dd80a8bcc6c6) | [**POA Network: Preserving the human — blockchain connection**](https://medium.com/poa-network/poa-network-preserving-the-human-blockchain-connection-774e221308aa) | [**Towards An International Court of Smart Contract Arbitration**](https://marginalrevolution.com/marginalrevolution/2018/06/towards-international-court-smart-contract-arbitration.html) |
-:-----------:|:-----------:|:-----------:|
-[_Governance_](governance.md) | [_Governance_](governance.md) | [_Governance_](governance.md) |
-[<img src="https://cdn-images-1.medium.com/max/800/1*uskfNJIZA50toPjBxw8YAQ.png">](https://medium.com/dappdev/easytcr-a-ui-ux-framework-for-token-curated-registries-dd80a8bcc6c6) | [<img src="https://cdn-images-1.medium.com/max/800/1*OALwmEp8ED1uwtkX0oOLzw.png">](https://medium.com/poa-network/poa-network-preserving-the-human-blockchain-connection-774e221308aa) | [<img src="https://images.unsplash.com/photo-1515040242872-08257d6d08c2?ixlib=rb-0.3.5&s=e7e07b35570d150a85700c871139f1fb&auto=format&fit=crop&w=800&q=80">](https://marginalrevolution.com/marginalrevolution/2018/06/towards-international-court-smart-contract-arbitration.html) |
-_Author [DApp DEV Consulting](https://medium.com/@dappdev) on Jun 13_ | _Author [POA Network](https://medium.com/@poanetwork) on Jun 13_ | _Author [Alex Tabarrok](https://marginalrevolution.com/about) on Jun 14_ |
-**A UI/UX framework on top of the TCR smart contracts** Announcing EasyTCR, in cooperation with ConsenSys we create an intuitive and easy to use solution for the curation markets ecosystem. | **An open Ethereum sidechain with Proof of Authority (PoA) consensus by independent validators.** While computers and algorithms play a vital role in encrypting, writing, and storing blocks, people are still responsible for the code and integrity of the system. | **Lex Cryptographia, the legal system of smart contracts and code-is-law** In this article, Alex proposes a court system analogous to the courts of arbitration that govern international commerce be created to govern smart contracts in virtual space. |
-[Read More](https://medium.com/dappdev/easytcr-a-ui-ux-framework-for-token-curated-registries-dd80a8bcc6c6) | [Read More](https://medium.com/poa-network/poa-network-preserving-the-human-blockchain-connection-774e221308aa) | [Read More](https://marginalrevolution.com/marginalrevolution/2018/06/towards-international-court-smart-contract-arbitration.html) |
-
-[**Exploring Ethereum Storage Costs with the FOAM Developer Tools**](https://blog.foam.space/exploring-ethereum-storage-costs-with-the-foam-developer-tools-96d84e1a06b5) | [**Aragon Core v0.5.1 Post Mortem — Part 1**](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | [**What is on-chain cryptocurrency governance? Is it plutocratic?**](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) |
-:-----------:|:-----------:|:-----------:|
-[_Governance_](governance.md) | [_Aragon_](aragon.md) | [_Governance_](governance.md) |
-[<img src="https://cdn-images-1.medium.com/max/800/1*kbBSEYx4ssictZbc2P3IgQ.jpeg">](https://blog.foam.space/exploring-ethereum-storage-costs-with-the-foam-developer-tools-96d84e1a06b5) | [<img src="https://cdn-images-1.medium.com/max/1000/1*-hd2CC4ZPZ6N5wmhH7YTZA.jpeg">](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | [<img src="https://images.unsplash.com/photo-1499909694555-1ae5b7067b1a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=85c6f4950e33e2feb5252e160c649a21&auto=format&fit=crop&w=800&q=80">](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) |
-_Author [Ilya Ostrovskiy](https://blog.foam.space/@iostat_foam) on Jun 18_ | _Author [Chris Remus](https://blog.aragon.one/@cjremus) on Jun 19_ | _Author [Richard Red](https://medium.com/@richardred) on Jun 20_ |
-**A good craftsman never has to blame their tools.** A showcase on how we used our stack to help drive the design and engineering process behind the FOAM TCR. | **Summary of our first new development cycle.** In Part I of II, Chris discusses the expectations of the current development cycle and the challenges of establishing a sustainable product development process. | **A rebuttal to On-Chain Blockchain Governance.** A detailed response to a number of posts from prominent blockchain personalities about how on-chain governance based on coin-holder votes is inherently plutocratic and bad. |
-[Read More](https://blog.foam.space/exploring-ethereum-storage-costs-with-the-foam-developer-tools-96d84e1a06b5) | [Read More](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | [Read More](https://medium.com/@richardred/what-is-on-chain-cryptocurrency-governance-is-it-plutocratic-bfb407ef6f1) |
-
-[**Voting and Governance in Security Tokens**](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [**Crypto Commons — from tragedy to wealth of the commons**](https://blog.usejournal.com/crypto-commons-da602fb98138) | |
-:-----------:|:-----------:|:-----------:|
-[_Governance_](governance.md) | [_Governance_](governance.md) | |
-[<img src="https://cdn-images-1.medium.com/max/800/1*F7oHt_loAWz4EACe_SqRgQ.jpeg">](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [<img src="https://cdn.britannica.com/668x448/09/134309-004-ABF9FE28.jpg">](https://blog.usejournal.com/crypto-commons-da602fb98138) | |
-_Author [Jesus Rodriguez](https://medium.com/@jrodthoughts) on Jun 21_ | _Author [Mike Maples, Jr.](https://blog.usejournal.com/@m2jr) on Jun 28_ |
-**Token voting mechanisms and their attack vectors.** The main challenges of voting and governance in the security token space is related to the fact that a significant part of the lifecycle of a toke takes place off chain... | The tragedy of the commons describes how individuals, acting independently according to their self-interest, can accidentally destroy a shared resource. The article proposes how cryptocurrency can be used as a scalable governance model for shared resources. | |
-[Read More](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [Read More](https://blog.usejournal.com/crypto-commons-da602fb98138) | |
+| | |  
+:-----------:|:-----------:|:-----------:|  
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)

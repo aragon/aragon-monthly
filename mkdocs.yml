@@ -43,9 +43,7 @@ pages:
     - Editorials:
       - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - Ethereum’s response to EIP0 Results: 'articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md'
-      - Governance Through Code: 'articles/opinion/governance_through_code.md'
-      - The importance of Governance: 'articles/opinion/importance_of_governance.md'
+      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
@@ -156,3 +154,28 @@ pages:
             - Reviewers: 'archive/issue05/contributors/reviewers.md'
             - Contributors: 'archive/issue05/contributors/contributors.md'
             - Columnists: 'archive/issue05/contributors/columnists.md'
+    - Issue 06:
+          - Front Page: 'archive/issue06/index.md'
+          - News:
+            - Home: 'archive/issue06/news/index.md'
+            - DAOs: 'archive/issue06/news/daos.md'
+            - Aragon: 'archive/issue06/news/aragon.md'
+            - Governance: 'archive/issue06/news/governance.md'
+          - Articles:
+              - Home: 'archive/issue06/articles/index.md'
+              - Editorials:
+                - Submit an Article!: 'guides/guide_for_submitting_articles.md'
+              - Opinion pieces:
+                  - Ethereum’s response to EIP0 Results: 'archive/issue06/articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md'
+                  - Governance Through Code: 'archive/issue06/articles/opinion/governance_through_code.md'
+                  - The importance of Governance: 'archive/issue06/articles/opinion/importance_of_governance.md'
+              - Columns:
+                  - Start a Column!: 'articles/columns/submit.md'
+          - Classifieds:
+            - Home: 'archive/issue06/classifieds/index.md'
+          - Contributors:
+            - Home: 'archive/issue06/contributors/index.md'
+            - Editors: 'archive/issue06/contributors/editors.md'
+            - Reviewers: 'archive/issue06/contributors/reviewers.md'
+            - Contributors: 'archive/issue06/contributors/contributors.md'
+            - Columnists: 'archive/issue06/contributors/columnists.md'
