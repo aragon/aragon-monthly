@@ -18,27 +18,9 @@ _Author [Luis Cuende](https://blog.aragon.one/@lic) on Jul 25_ | _Author [Jorge 
 In the ideal world, every organization has a manifesto with its mission and values. Those values could be ranked, just like in the Aragon Manifesto. I doubt most founders of those organizations had evil goals in mind. If anything, they were negligent not to set incentives and values to avoid evil... | **How to deploy and distribute a censorship-resistant upgradeable dApp** In this post we explore the process of how Aragon Core and the different apps the Aragon team has built so far (Voting, Token Manager, etc.) get deployed and how we make them available to users regardless of their skill level. | Find out what Aragon One is working on, the positions we are currently hiring for and our community referral program. Aragon One is one of the development teams working on Aragon. It is part of the plan to decentralize Aragon’s development and governance. |
 [Read More](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) | [Read More](https://blog.aragon.one/deploying-and-distributing-aragon-core-11e70cbc9b50) | [Read More](https://blog.aragon.one/join-aragon-one-18ba965c0c0c) |
 
-
-
 ###### [Browse More News](news/index.md)
 ___
 ## [Recent Articles](articles/index.md)
-
-[<h2>Title</h2>](category/title_of_the_article.md) |
-:-----------|
-[_Category_](#category) |
-![](category/images/title_of_the_article.png) |
-_Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_ |
-Short intro to the article |
-[Read More](category/title_of_the_article.md) |
-
-[<h2>Title</h2>](category/title_of_the_article.md) |
-:-----------|
-[_Category_](#category) |
-![](category/images/title_of_the_article.png) |
-_Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_ |
-Short intro to the article |
-[Read More](category/title_of_the_article.md) |
 
 [<h2>Title</h2>](category/title_of_the_article.md) |
 :-----------|
