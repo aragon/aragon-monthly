@@ -2,10 +2,15 @@
 
 > Classifieds or Classified advertising is free of charge in the newspaper. Keep them short and to the point.
 
-[<h2>**Blockchain For Peace — Law & Governance Hackathon**</h2>](https://hackernoon.com/blockchain-for-peace-law-governance-hackathon-41bb784cc25f) |
+[<h2>**Senior software dev/architect at P2P Models**</h2>](https://p2pmodels.eu/jobs-senior-dev/) |
 :-----------|
-Blockchain for Peace is a community resource center for social entrepreneurs, researchers, and impact investors to create an open-source knowledge library. We’re excited to announce the dopest hackathon of the year, Blockchain for Peace’s “Law & Governance” hack at Bushwick Generator on July 27–29th. It will be co-hosted by Peace Accelerators, Stanford University, and Bushwick Blockchain Alliance, taking place two blocks from ConsenSys headquarters in the heart of NYC’s blockchain community. |
-[Learn More](https://hackernoon.com/blockchain-for-peace-law-governance-hackathon-41bb784cc25f) |
+[P2P Models](https://p2pmodels.eu/) is a 5-year (2018-2022) EU-funded (1.5M€) project around blockchain and the commons, which will be based at the Universidad Complutense de Madrid (Spain). More in this [thread](https://twitter.com/p2pmod/status/1017802485422067713). **We are looking for a Senior Software Developer/Architect** to lead the development of a blockchain-based framework to build collaborative Decentralized Autonomous Organizations. This role involves to establish the architectural foundations and develop a software framework to build modular components of DAOs, with a focus on supporting collaboration and communities. |
+[Learn More](https://p2pmodels.eu/jobs-senior-dev/) |
+
+[<h2>**Project Manager / Communication Manager at P2P Models**</h2>](https://p2pmodels.eu/jobs-project-manager/) |
+:-----------|
+[P2P Models](https://p2pmodels.eu/). P2P Models aim is to build decentralized, democratic & sustainable Collaborative Economy organizations, aided by blockchain technologies. More in this [thread](https://twitter.com/p2pmod/status/1017802485422067713). We are looking for a (Research) Project Manager / Communication Manager for an interdisciplinary research project around blockchain and P2P communities. This role involves the day-to-day and ongoing operations for the project and the facilitation of the project social impact. |
+[Learn More](https://p2pmodels.eu/jobs-project-manager/) |
 
 [<h2>**Web3 Developer Opening at Aragon**</h2>](http://wiki.aragon.one/jobs/openings/web3/) |
 :-----------|
