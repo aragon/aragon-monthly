@@ -10,10 +10,18 @@ Aragon Monthly is **created by the community, for the community**.
 
 For more information, see [**How does this work?**](info/index.md#how-does-this-work) and [**How can I contribute?**](info/index.md#how-can-i-contribute)
 ___
+[**Community Aggregation Theory**](https://blog.aragon.one/community-aggregation-theory-973a283c7226) | [**On Signaling and Social Pressure**](https://blog.aragon.one/on-signaling-and-social-pressure-3d97afbea355)| [**Dad and DAO**](https://medium.com/@atvanguard/dad-and-dao-357cbb210f36) |  
+:-----------:|:-----------:|:-----------:|  
+[_Governance_](governance.md) | [_Governance_](governance.md) | [DAOs](daos.md) |
+[<img src="https://cdn-images-1.medium.com/max/1200/0*_3WCSslBivxPUJYO">](https://blog.aragon.one/community-aggregation-theory-973a283c7226) | [<img src="https://cdn-images-1.medium.com/max/800/1*NvlE85W_eO-oaOnMINghcg.png">](https://blog.aragon.one/on-signaling-and-social-pressure-3d97afbea355) | [<img src="https://cdn-images-1.medium.com/max/800/1*PH51WV3M1xOV49acMIaUqg.png">](https://medium.com/@atvanguard/dad-and-dao-357cbb210f36) |
+_Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on Jul 3_ | _Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on Jul 10_ | _Author [Arpit Agarwal](https://medium.com/@atvanguard) on Jul 11_ |
+**Exploring how the valuation models fail to account for protocol commoditization** How the inverse relationship that arises between token price and protocol utility shows a fundamental misalignment between the interests of investors and consumers. | In the context of decentralized blockchain networks which are easily forked, the social pressure on decision makers is amplified due the relative ease with which neglected stakeholders can coordinate an exit. In this article, Luke proposes the idea of Signaling DAOs as a way for stakeholder groups to self organize and produce clear signals.| In this article the author briefly discusses regulations; and the pros and cons of DAOs with some reflections from his father, a chartered accountant. |
+[Read More](https://blog.aragon.one/community-aggregation-theory-973a283c7226) | [Read More](https://blog.aragon.one/on-signaling-and-social-pressure-3d97afbea355) | [Read More](https://medium.com/@atvanguard/dad-and-dao-357cbb210f36) |  
+
 [**Manifesto-based organizations**](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) | [**Deploying and distributing Aragon Core**](https://blog.aragon.one/deploying-and-distributing-aragon-core-11e70cbc9b50) | [**Join Aragon One**](https://blog.aragon.one/join-aragon-one-18ba965c0c0c) |
 :-----------:|:-----------:|:-----------:|  
 [_Governance_](governance.md) | [_Aragon_](aragon.md) | [_Aragon_](aragon.md) |
-[<img src="https://cdn-images-1.medium.com/max/800/1*w-zhg_D3iNfaoQuGWWvicQ.png">](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) | [<img src="https://cdn-images-1.medium.com/max/800/1*u8nCiZUgr3Jgmxu0m_l1CA.png">](https://blog.aragon.one/deploying-and-distributing-aragon-core-11e70cbc9b50) | [<img src="https://wiki.aragon.org/design/logo/aragon_one/png/aragon-one-lineart-black-transparent.png">](https://blog.aragon.one/join-aragon-one-18ba965c0c0c)
+[<img src="https://blog.aragon.org/content/images/2018/07/1-DwMGtcagtChZ_kaqEA2Bhg.png">](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) | [<img src="https://cdn-images-1.medium.com/max/800/1*u8nCiZUgr3Jgmxu0m_l1CA.png">](https://blog.aragon.one/deploying-and-distributing-aragon-core-11e70cbc9b50) | [<img src="https://wiki.aragon.org/design/logo/aragon_one/png/aragon-one-lineart-black-transparent.png">](https://blog.aragon.one/join-aragon-one-18ba965c0c0c)
 _Author [Luis Cuende](https://blog.aragon.one/@lic) on Jul 25_ | _Author [Jorge Izquierdo](https://blog.aragon.one/@izqui9) on Jul 26_ | _Author [Jorge Izquierdo](https://blog.aragon.one/@izqui9) on Aug 1_ |
 In the ideal world, every organization has a manifesto with its mission and values. Those values could be ranked, just like in the Aragon Manifesto. I doubt most founders of those organizations had evil goals in mind. If anything, they were negligent not to set incentives and values to avoid evil... | **How to deploy and distribute a censorship-resistant upgradeable dApp** In this post we explore the process of how Aragon Core and the different apps the Aragon team has built so far (Voting, Token Manager, etc.) get deployed and how we make them available to users regardless of their skill level. | Find out what Aragon One is working on, the positions we are currently hiring for and our community referral program. Aragon One is one of the development teams working on Aragon. It is part of the plan to decentralize Aragon’s development and governance. |
 [Read More](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) | [Read More](https://blog.aragon.one/deploying-and-distributing-aragon-core-11e70cbc9b50) | [Read More](https://blog.aragon.one/join-aragon-one-18ba965c0c0c) |
@@ -22,13 +30,13 @@ In the ideal world, every organization has a manifesto with its mission and valu
 ___
 ## [Recent Articles](articles/index.md)
 
-[<h2>Title</h2>](category/title_of_the_article.md) |
+[<h2>Looking for interested contributors</h2>](https://github.com/aragon/aragon-monthly/labels/article) |
 :-----------|
-[_Category_](#category) |
-![](category/images/title_of_the_article.png) |
-_Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_ |
-Short intro to the article |
-[Read More](category/title_of_the_article.md) |
+[_Editorial_](https://github.com/aragon/aragon-monthly/labels/article) |
+![](../images/monthly_no_image.png) |
+_Author [You!](https://github.com/aragon/aragon-monthly/labels/article) on Feb 17_ |
+[**Want to write an article for Aragon Monthly?**](https://github.com/aragon/aragon-monthly/labels/article) |
+[Read More](https://github.com/aragon/aragon-monthly/labels/article) |
 
 ###### [Browse More Articles](articles/index.md)
 ___
