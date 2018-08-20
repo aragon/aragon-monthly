@@ -16,7 +16,7 @@ Several hours after the bus had dropped her off, she headed towards the long pie
 
 ## The Failure of Government
 
-Political and economic collapse in Venezuela, war in Syria, China’s transformation into a police state, and the US’s failed democracy are awakening the world to the instability of government, the corruption of wealth and corporations, and the lack of freedom for societies all around the world.
+Political and economic collapse in Venezuela, the flood of refugees from Syria, China’s transformation into a police state, and the US’s failed democracy are awakening the world to the instability of government, the corruption of wealth and corporations, and the lack of freedom for societies all around the world.
 
 For thousands of years we’ve been attempting to iterate on a model of governance that has failed to scale to accommodate a globalized world focused on the individual liberties of humankind. And now we’re coming to terms with the consequences. Globally, people are beginning to flee in search of freedoms, peace, and resources that are not available within their homelands. We need a new model to accommodate these shifts.
 
@@ -38,7 +38,7 @@ These conditions create an ecosystem ripe for individuals to begin experimenting
  
 And at first this seems like a nice little experiment, a luxury for alternative lifestyles to prosper outside of the formal state. But when we look closer at how oppressive governments and regimes have become relative to our expectations, we realize that governments are not fulfilling their part of the social contract. They are failing their citizens and non-registered residents in monumental ways.
 
-People with disabilities are legally allowed to be paid sub minimum wage. Sex workers are constantly threatened through predatory legislation and a host of legislation threatens the internet as we know it.
+People with disabilities are legally allowed to be paid subminimum wage. Sex workers are constantly threatened through predatory legislation. All while a host of indecipherable political jargon threatens the internet as we know it.
 
 In countries like the United States, Australia, and South Africa, prison systems continue to disproportionally incarcerate black communities for the same crimes committed by whites.
 It seems that the only tool that government continues to institute is the use of force to maintain order.
@@ -69,7 +69,7 @@ Self-governance is not a luxury, it is a human right.
  
 The movement to reframe self-governance as an inalienable human right is in its nascency. Organizations like Amnesty International and the United Nations still function on the premise of nation states, and most activists, political change makers, and human rights advocates still see the governments as not only central to their work, but the key component of change making. Identify a human rights crisis, investigate, work with lawmakers to craft legislation, and then lobby.
  
-In the coming decades we need to start considering alternative paths. Circumventing corrupt governments to provide opportunity for communities to self organize, self govern, and start their own societies is one approach.
+In the coming decades we need to start considering alternative paths. Circumventing corrupt governments to provide opportunity for communities to self organize, self-govern, and start their own societies is one approach.
  
 There are, of course, caveats. We need to make freedom of migration a priority. Ties to land, resources, and geographically placed social connections keep us in societies that are not beneficial to our wellbeing.
  
@@ -85,7 +85,7 @@ The blockchain community is frustrated by centralization. We hate the repercussi
 
 But governments play just as much, if not a greater, role in centralization of power. Instead of controlling servers, governments control land, borders, and behavior through the mask of nation states.
 
-So the question becomes what can the blockchain community do to contribute to the human rights struggle for self-governance.
+So the question becomes what can the blockchain community do to contribute to the human rights struggle for self-governance?
 
 
 > Let us never forget that government is ourselves and not an alien power over us. The ultimate rulers of our democracy are not a President and senators and congressmen and government officials, but the voters of this country.     -Franklin D. Roosevelt
@@ -112,13 +112,13 @@ And fortunately, that’s how governance on the blockchain is evolving.
 Corporations and Organizations
 When we look at corporations and organizations we see many new blockchain startups building the infrastructure to tackle this institution. Companies like Aragon lead the way, embracing the culture and language of DAOs or Decentralized Autonomous Organizations.
 
-DAO’s are entities that rely on smart contracts, pre-programmed rules that define the behavior and allowed actions within a system.
+DAOs are entities that rely on smart contracts, pre-programmed rules that define the behavior and allowed actions within a system.
  
 For example, you can program smart contracts to carry out tasks such as releasing funds on a certain date or when a percentage of voters agree to fund a project. Essentially, DAOs are a way to cryptographically guarantee democracy. Participants are able to vote on new rules, change rules, remove members, and come to consensus on issues which can then trigger system action.
 
 No centralized control. No corrupt intermediaries.
 
-While Aragon has embraced the language of DAO’s, the other organizations in the decentralized governance space are essentially building variations of this same system.
+While Aragon has embraced the language of DAOs, the other organizations in the decentralized governance space are essentially building variations of this same system.
 
 Government
 On the government front, we see Agora working with nation states like Sierra Leone to implement blockchain based elections.
