@@ -1,6 +1,6 @@
 # Aragon Monthly
 #### The community curated digital newspaper about DAOs, governance and the Aragon ecosystem
-#### Issue 07
+#### Issue 07, August 24th 2018
 ___
 > **Content curation is the process of gathering information relevant to a particular topic or area of interest.**
 
@@ -10,6 +10,9 @@ Aragon Monthly is **created by the community, for the community**.
 
 For more information, see [**How does this work?**](info/index.md#how-does-this-work) and [**How can I contribute?**](info/index.md#how-can-i-contribute)
 ___
+
+## [Recent News](news/index.md)
+
 [**Community Aggregation Theory**](https://blog.aragon.one/community-aggregation-theory-973a283c7226) | [**On Signaling and Social Pressure**](https://blog.aragon.one/on-signaling-and-social-pressure-3d97afbea355)| [**Dad and DAO**](https://medium.com/@atvanguard/dad-and-dao-357cbb210f36) |  
 :-----------:|:-----------:|:-----------:|  
 [_Governance_](governance.md) | [_Governance_](governance.md) | [DAOs](daos.md) |
