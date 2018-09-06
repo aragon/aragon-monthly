@@ -2,6 +2,9 @@
 
 ## **Collection of past Issues**
 
+[**Issue 07**](issue07/index.md)  
+August 24th 2018
+
 [**Issue 06**](issue06/index.md)  
 July 11th 2018
 

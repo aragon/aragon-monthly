@@ -1,9 +1,9 @@
-# Contributors for Issue 08
+# Contributors for Issue 07
 ## [Editors](editors.md)
 > Editors are people who regularly provide content to the publication and make sure that the content is always high quality. They write articles, review Pull Requests, and are generally active in the creation of this publication.
 
-- Editor - [@](https://github.com/)
-> Huge thanks to [@](https://github.com/) for filling the [_Editor: Compile Issue 08 of Aragon Monthly_](https://github.com/aragon/aragon-monthly/issues/) bounty and doing a major contribution to get Issue 08 out!
+- Editor - [@tao](https://github.com/tao)
+> Huge thanks to [@tao](https://github.com/tao) for filling the [_Editor: Compile Issue 07 of Aragon Monthly_](https://github.com/aragon/aragon-monthly/issues/184) bounty and doing a major contribution to get Issue 07 out!
 ___
 > The Editor-in-chief is the publication's editorial leader who has final responsibility for its operations and policies.
 
@@ -13,7 +13,7 @@ ___
 ## [Contributors](contributors.md)
 > Contributors are people who have contributed to the creation of the current Issue.
 
-- Contributor - [@](https://github.com/)
+- Contributor - [@john-light](https://github.com/john-light)
 ___
 
 ## [Reviewers](reviewers.md)

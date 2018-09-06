@@ -163,8 +163,6 @@ pages:
             - Governance: 'archive/issue06/news/governance.md'
           - Articles:
               - Home: 'archive/issue06/articles/index.md'
-              - Editorials:
-                - Submit an Article!: 'guides/guide_for_submitting_articles.md'
               - Opinion pieces:
                   - Ethereum’s response to EIP0 Results: 'archive/issue06/articles/opinion/ethereums_response_to_EIP0_Results_Part_1.md'
                   - Governance Through Code: 'archive/issue06/articles/opinion/governance_through_code.md'
@@ -179,3 +177,20 @@ pages:
             - Reviewers: 'archive/issue06/contributors/reviewers.md'
             - Contributors: 'archive/issue06/contributors/contributors.md'
             - Columnists: 'archive/issue06/contributors/columnists.md'
+    - Issue 07:
+          - Front Page: 'archive/issue07/index.md'
+          - News:
+            - Home: 'archive/issue07/news/index.md'
+            - DAOs: 'archive/issue07/news/daos.md'
+            - Aragon: 'archive/issue07/news/aragon.md'
+            - Governance: 'archive/issue07/news/governance.md'
+          - Articles:
+              - Home: 'archive/issue07/articles/index.md'
+          - Classifieds:
+            - Home: 'archive/issue07/classifieds/index.md'
+          - Contributors:
+            - Home: 'archive/issue07/contributors/index.md'
+            - Editors: 'archive/issue07/contributors/editors.md'
+            - Reviewers: 'archive/issue07/contributors/reviewers.md'
+            - Contributors: 'archive/issue07/contributors/contributors.md'
+            - Columnists: 'archive/issue07/contributors/columnists.md'

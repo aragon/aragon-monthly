@@ -1,11 +1,19 @@
 # News / Governance
 
-[**Community Aggregation Theory**](https://blog.aragon.one/community-aggregation-theory-973a283c7226) | [**On Signaling and Social Pressure**](https://blog.aragon.one/on-signaling-and-social-pressure-3d97afbea355)| [**Manifesto-based organizations**](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) |  
+[<h2>Title</h2>](URI_to_news) |
+:-----------|
+[_Tag_](tag.md) |
+![](../../images/monthly_no_image.png) |
+_Author [Author Name](URI_to_author_profile) on Month Date#_ |
+**Subtitle** Description of the content in the news. |
+[Read More](URI_to_news) |
+
+| | |  
 :-----------:|:-----------:|:-----------:|  
-[_Governance_](governance.md) | [_Governance_](governance.md) | [_Governance_](governance.md) |  
-[<img src="https://blog.aragon.org/content/images/2018/07/1-DwMGtcagtChZ_kaqEA2Bhg.png">](https://blog.aragon.one/community-aggregation-theory-973a283c7226) | [<img src="https://cdn-images-1.medium.com/max/800/1*NvlE85W_eO-oaOnMINghcg.png">](https://blog.aragon.one/on-signaling-and-social-pressure-3d97afbea355) | [<img src="https://cdn-images-1.medium.com/max/800/1*w-zhg_D3iNfaoQuGWWvicQ.png">](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) |
-_Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on Jul 3_ | _Author [Luke Duncan](https://blog.aragon.one/@lkngtn) on Jul 10_ | _Author [Luis Cuende](https://blog.aragon.one/@lic) on Jul 25_ |  
-**Exploring how the valuation models fail to account for protocol commoditization** How the inverse relationship that arises between token price and protocol utility shows a fundamental misalignment between the interests of investors and consumers. | In the context of decentralized blockchain networks which are easily forked, the social pressure on decision makers is amplified due the relative ease with which neglected stakeholders can coordinate an exit. In this article, Luke proposes the idea of Signaling DAOs as a way for stakeholder groups to self organize and produce clear signals. | In the ideal world, every organization has a manifesto with its mission and values. Those values could be ranked, just like in the Aragon Manifesto. I doubt most founders of those organizations had evil goals in mind. If anything, they were negligent not to set incentives and values to avoid evil... |  
-[Read More](https://blog.aragon.one/community-aggregation-theory-973a283c7226) | [Read More](https://blog.aragon.one/on-signaling-and-social-pressure-3d97afbea355) | [Read More](https://blog.aragon.one/manifesto-based-organizations-3c8ddcf6e666) |
+| | |  
+| | |  
+| | |  
+| | |  
+| | |  
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
