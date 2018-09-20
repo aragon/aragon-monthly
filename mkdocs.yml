@@ -43,7 +43,7 @@ pages:
     - Editorials:
       - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
+      - Self-Governance as a Human Right: 'articles/opinion/Self-Governance_as_a_Human_Right.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
