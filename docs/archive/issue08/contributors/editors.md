@@ -6,6 +6,8 @@
 
 > Editors are people that regularly provide content to the publication and make sure that the content is always high quality. They write articles, review [Pull Requests](https://github.com/aragon/aragon-monthly/pulls) and are generally active in the creation of this publication.
 
+- Editor - [@irmacias](https://github.com/irmacias)
+> Huge thanks to [@irmacias](https://github.com/irmacias) for filling the [_Editor: Compile Issue 08 of Aragon Monthly_](https://github.com/aragon/aragon-monthly/issues/197) bounty and doing a major contribution to get Issue 08 out!
 - Editor - [@bradymck](https://github.com/bradymck)
 - Editor - [@ChaceHunter](https://github.com/ChaceHunter)
 - Editor - [@eordano](https://github.com/eordano)

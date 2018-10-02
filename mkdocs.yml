@@ -43,7 +43,7 @@ pages:
     - Editorials:
       - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - Self-Governance as a Human Right: 'articles/opinion/Self-Governance_as_a_Human_Right.md'
+      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:
@@ -194,3 +194,22 @@ pages:
             - Reviewers: 'archive/issue07/contributors/reviewers.md'
             - Contributors: 'archive/issue07/contributors/contributors.md'
             - Columnists: 'archive/issue07/contributors/columnists.md'
+    - Issue 08:
+          - Front Page: 'archive/issue08/index.md'
+          - News:
+            - Home: 'archive/issue08/news/index.md'
+            - DAOs: 'archive/issue08/news/daos.md'
+            - Aragon: 'archive/issue08/news/aragon.md'
+            - Governance: 'archive/issue08/news/governance.md'
+          - Articles:
+              - Home: 'archive/issue08/articles/index.md'
+              - Opinion pieces:
+                - Self-Governance as a Human Right: 'archive/issue08/articles/opinion/Self-Governance_as_a_Human_Right.md'
+          - Classifieds:
+            - Home: 'archive/issue08/classifieds/index.md'
+          - Contributors:
+            - Home: 'archive/issue08/contributors/index.md'
+            - Editors: 'archive/issue08/contributors/editors.md'
+            - Reviewers: 'archive/issue08/contributors/reviewers.md'
+            - Contributors: 'archive/issue08/contributors/contributors.md'
+            - Columnists: 'archive/issue08/contributors/columnists.md'
