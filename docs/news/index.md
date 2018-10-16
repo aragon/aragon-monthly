@@ -1,5 +1,4 @@
 # News
-
 ## **Featured**
 
 [<h2>Blockchain Governance Reading List</h2>](https://medium.com/provably-neutral/blockchain-governance-710abb823d60) |

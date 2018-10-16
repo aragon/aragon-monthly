@@ -1,5 +1,4 @@
 # News / Aragon
-
 ## **Featured**
 
 [<h2>A Blockchain Perspective on Three Product #BUIDL’ing Motivations<h2>](https://blog.aragon.one/a-blockchain-perspective-on-three-product-buidling-motivations/) |
