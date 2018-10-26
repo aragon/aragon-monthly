@@ -2,9 +2,15 @@
 
 > Classifieds or Classified advertising is free of charge in the newspaper. Keep them short and to the point.
 
-[<h2>**AraCon is Coming in January**</h2>](https://aracon.one)
-[REGISTER BUILDING ORGANIZATIONS & GOVERNANCE OF THE FUTURE](https://aracon.one/registration/) 29th-30th of January 2019 in Berlin Berlin, Germany Jan 29-30.2019 The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web.
-[Learn More](https://aracon.one/faq) |
+[<h2>**Announcing AraCon — The Aragon Conference**</h2>](https://AraCon.one) |
+:-----------|
+**Today we’re announcing the first Aragon Conference — AraCon.** The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. |
+[Learn More](https://AraCon.one) |
+
+[<h2>**AraCon scholarship applications are now open!**</h2>](https://AraCon.one/scholarships/) |
+:-----------|
+**Excited to come to AraCon, but don't have the financial resources?** Our vision for this conference is to gather Aragon’s global community together. Therefore we want everyone who's super interested in joining the event to be able to attend. The scholarship recipients will get a conference ticket, round trip flights and accommodation for the duration of the conference. Everyone is welcome to apply! |
+[Learn More](https://AraCon.one/scholarships/) |
 
 [<h2>**Senior software dev/architect at P2P Models**</h2>](https://p2pmodels.eu/jobs-senior-dev/) |
 :-----------|

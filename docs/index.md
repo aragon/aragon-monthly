@@ -47,19 +47,19 @@ ___
 ___
 ## [Recent Classifieds](classifieds/index.md)
 
-[<h2>**DevOps opening at Aragon**</h2>](https://wiki.aragon.org/jobs/openings/dev-ops/) |
+[<h2>**Announcing AraCon — The Aragon Conference**</h2>](https://AraCon.one) |
 :-----------|
-Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. **We’re looking for a DevOps Engineer to help us architect our server infrastructure and automate internal processes. Our ideal DevOps Engineer is someone who wants to create tools that will ultimately automate DAOs, and loves to create open source tools to benefit the open source community**. We try to keep our centralized infrastructure at a minimum, balancing usability and decentralization (censorship-resistance). We strive to make as much as the infrastructure that supports using Aragon Core reproducible by users so they don’t have to rely on our servers. |
-[Learn More](https://wiki.aragon.org/jobs/openings/dev-ops/) |
+**Today we’re announcing the first Aragon Conference — AraCon.** The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. |
+[Learn More](https://AraCon.one) |
+
+[<h2>**AraCon scholarship applications are now open!**</h2>](https://AraCon.one/scholarships/) |
+:-----------|
+**Excited to come to AraCon, but don't have the financial resources?** Our vision for this conference is to gather Aragon’s global community together. Therefore we want everyone who's super interested in joining the event to be able to attend. The scholarship recipients will get a conference ticket, round trip flights and accommodation for the duration of the conference. Everyone is welcome to apply! |
+[Learn More](https://AraCon.one/scholarships/) |
 
 [<h2>**Documentation Technical Writer opening at Aragon**</h2>](https://wiki.aragon.org/jobs/openings/technical-writer/) |
 :-----------|
 Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. **We’re looking for a Technical Writer to help us communicate the different moving parts of Aragon Core and Dev Tools to facilitate the development of the Ethereum community**. Our Technical Writer will be the bridge between Aragon engineers and external developers, as well as the reference to support the growth of the Ethereum community through better documentation. |
 [Learn More](https://wiki.aragon.org/jobs/openings/technical-writer/) |
-
-[<h2>**UI Developer at Aragon One − Contract Position**</h2>](https://wiki.aragon.org/jobs/openings/ui-developer-contract/) |
-:-----------|
-**We are looking for a user interface developer to work with us on Aragon and the Aragon Apps**. Consider applying if you have the ability to ship high quality UI code that is maintainable, performant, accessible, precise, and compatible with modern browsers. |
-[Learn More](https://wiki.aragon.org/jobs/openings/ui-developer-contract/) |
 
 ###### [Browse More Classifieds](classifieds/index.md)
