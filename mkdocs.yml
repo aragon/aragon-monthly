@@ -35,7 +35,6 @@ pages:
   - Front Page: 'index.md'
   - News:
     - Home: 'news/index.md'
-    - DAOs: 'news/daos.md'
     - Aragon: 'news/aragon.md'
     - Governance: 'news/governance.md'
   - Articles:
@@ -43,7 +42,7 @@ pages:
     - Editorials:
       - Submit an Article!: 'guides/guide_for_submitting_articles.md'
     - Opinion pieces:
-      - Submit an Article!: 'guides/guide_for_submitting_articles.md'
+      - ICOs for Fraud DAOs for function: 'articles/opinion/ICOs_For_Fraud-DAOs_For_Function.md'
     - Columns:
       - Start a Column!: 'articles/columns/submit.md'
   - Classifieds:

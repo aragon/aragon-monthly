@@ -35,11 +35,11 @@ ___
 ## [Recent Articles](articles/index.md)
 
 [<h3>Looking for interested contributors</h3>](https://github.com/aragon/aragon-monthly/labels/article)
-[<h2>ICOs are for fraud, DAOs are for function</h2>](articles/opinion/daoarticleissue152.md) |
+[<h2>ICOs are for fraud, DAOs are for function</h2>](articles/opinion/ICOs_For_Fraud-DAOs_For_Function.md) |
 [_Opinion pieces_](#opinion-pieces) _Author [C.E. Davis III / @csggene3](https://github.com/csggene3)_ |
 **The last two years have seen a precipitous rise and fall in the both the price of cryptocurrencies like Bitcoin and Ethereum amongst many new others branded as ICOs (or initial coin offerings) as well as a general awareness of their existence and the broader underlying ecosystems that accompany them.** Many this year are quite upset with their purchases from last year due to the steep drop off in associated prices. The perception is that software developers created simple tokens on the various issuing blockchains (like Ethereum, NEO, Cardano, Ethereum Classic, etc) that served little more purpose than to act as a form of quick and dirty security issuance, or "penny stock," with little oversight or regulation, and then cashed out large groups of shares for themselves, ostensibly to fund future software development of their projects, but truthfully or more likely to enrich themselves greatly with no intention or obligation for their promises to the public or their own investors to be kept. There are hundreds of similar projects like these with similar accusations against their progenitors and "developers," or dismissed as " honest failures due to diminished market conditions," yet these types of blatant excuses fall on the deaf ears of the thousands that lost out and the many other honest developers that knew better.
 
-[Read More](articles/opinion/daoarticleissue152.md) |
+[Read More](articles/opinion/ICOs_For_Fraud-DAOs_For_Function.md) |
 [**Want to write an article for Aragon Monthly?**](https://github.com/aragon/aragon-monthly/labels/article) |
 [Read More](https://github.com/aragon/aragon-monthly/labels/article) |
 
@@ -47,19 +47,19 @@ ___
 ___
 ## [Recent Classifieds](classifieds/index.md)
 
-[<h2>Title</h2>](URI) |
+[<h2>**DevOps opening at Aragon**</h2>](https://wiki.aragon.org/jobs/openings/dev-ops/) |
 :-----------|
-Description |
-[Learn More](URI) |
+Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. **We’re looking for a DevOps Engineer to help us architect our server infrastructure and automate internal processes. Our ideal DevOps Engineer is someone who wants to create tools that will ultimately automate DAOs, and loves to create open source tools to benefit the open source community**. We try to keep our centralized infrastructure at a minimum, balancing usability and decentralization (censorship-resistance). We strive to make as much as the infrastructure that supports using Aragon Core reproducible by users so they don’t have to rely on our servers. |
+[Learn More](https://wiki.aragon.org/jobs/openings/dev-ops/) |
 
-[<h2>Title</h2>](URI) |
+[<h2>**Documentation Technical Writer opening at Aragon**</h2>](https://wiki.aragon.org/jobs/openings/technical-writer/) |
 :-----------|
-Description |
-[Learn More](URI) |
+Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. **We’re looking for a Technical Writer to help us communicate the different moving parts of Aragon Core and Dev Tools to facilitate the development of the Ethereum community**. Our Technical Writer will be the bridge between Aragon engineers and external developers, as well as the reference to support the growth of the Ethereum community through better documentation. |
+[Learn More](https://wiki.aragon.org/jobs/openings/technical-writer/) |
 
-[<h2>Title</h2>](URI) |
+[<h2>**UI Developer at Aragon One − Contract Position**</h2>](https://wiki.aragon.org/jobs/openings/ui-developer-contract/) |
 :-----------|
-Description |
-[Learn More](URI) |
+**We are looking for a user interface developer to work with us on Aragon and the Aragon Apps**. Consider applying if you have the ability to ship high quality UI code that is maintainable, performant, accessible, precise, and compatible with modern browsers. |
+[Learn More](https://wiki.aragon.org/jobs/openings/ui-developer-contract/) |
 
 ###### [Browse More Classifieds](classifieds/index.md)
