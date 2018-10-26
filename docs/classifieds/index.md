@@ -74,5 +74,8 @@ Aragon is an open source, decentralized, project fighting for the freedom to org
 
 [<h2>**Project Manager for the Aragon DAC**</h2>](https://wiki.aragon.org/jobs/openings/DAC-Project_Manager/) |
 :-----------|
+Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for a Project Manager to lead this effort and ensure our team is successful**. The first concrete project to manage will be making the Aragon DAC Website using upwork web devs or equivelent. |
+[Learn More](https://wiki.aragon.org/jobs/openings/DAC-Project_Manager/) |
+:-----------|
 Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for a Project Manager to lead this effort and ensure our team is successful**. The first concrete project to manage will be making the Aragon DAC Website using upwork web devs or equivelent.
 [Learn More](https://wiki.aragon.org/jobs/openings/DAC-Project_Manager/) |
