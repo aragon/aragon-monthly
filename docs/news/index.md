@@ -2,13 +2,13 @@
 
 ## **Featured**
 
-[<h2>Blockchain Governance Reading List</h2>](https://medium.com/provably-neutral/blockchain-governance-710abb823d60) |
+[<h2>Building a decentralized OS</h2>](https://blog.aragon.org/building-a-decentralized-os/) |
 :-----------|
-[_Governance_](governance.md) |
-[<img src="https://cdn-images-1.medium.com/max/2000/1*u573NiGsotOxZB1MTtSETA.jpeg">](https://medium.com/provably-neutral/blockchain-governance-710abb823d60) |
-_Author [Spencer Noon](https://medium.com/@spencernoon?source=post_header_lockup) on Apr 19_ |
-**Governance** is a topic that is misunderstood by both investors and makers in the space, and for those who understand it, there are still the questions of (1) what is good governance and (2) how do you properly value it. |
-[Read More](https://medium.com/provably-neutral/blockchain-governance-710abb823d60) |
+[_Aragon_](aragon.md) |
+[<img src="https://blog.aragon.org/content/images/2018/09/Building_decentralized_OS_v3.jpg">](https://blog.aragon.org/building-a-decentralized-os/) |
+_Author [Luis Cuende](https://blog.aragon.one/author/luis/) on Sept 7_ |
+**How we built an Ethereum operating system that is upgradeable, secure and easy to use.** For users, Aragon Core is the easiest way to create unstoppable organizations. The UI abstracts away technical details, and lets the user focus on what matters.  |
+[Read More](https://blog.aragon.org/building-a-decentralized-os/) |
 
 | [**Working in Decentralized Environments**](https://medium.com/@consensys_uni/working-in-decentralised-environments-d155e3634cbf) | [**The Decentralized Org Structure**](https://medium.com/@consensys_uni/the-decentralized-org-structure-376bee0544cf) | [**A Blockchain Perspective on Three Product #BUIDL’ing Motivations**](https://blog.aragon.one/a-blockchain-perspective-on-three-product-buidling-motivations/)  
 :-----------:|:-----------:|:-----------:|  
