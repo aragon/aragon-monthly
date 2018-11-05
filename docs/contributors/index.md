@@ -13,6 +13,9 @@ ___
 
 ## [Contributors](contributors.md)
 > Contributors are people who have contributed to the creation of the current Issue.
+
+- Contributor - [@john-light](https://github.com/john-light)
+- Contributor - [@csggene3](https://github.com/csggene3)
 ___
 
 ## [Reviewers](reviewers.md)
