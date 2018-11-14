@@ -26,7 +26,7 @@ _Author [C.E. Davis III / @csggene3](https://github.com/csggene3)_ |
 
 > Columns are written by columnists who are dedicated to contribute quality content for an extended time, usually on the same subject area or theme each time – that typically contains the author's opinion or point of view.
 
-[<h2>Looking for interested contributors</h2>](columns/submit.md) |
+[<h2>Looking for interested contributors</h2>](https://monthly.aragon.org/guides/guide_for_submitting_news/) |
 :-----------|
 [_Column_](#columns) |
 ![](../images/monthly_no_image.png) |
