@@ -14,7 +14,7 @@ _Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ 
 ## **Opinion pieces**
 > An opinion piece is an article that mainly reflects the author's opinion about the subject. Opinion pieces in the newspaper are often written by a subject-matter expert, a person with a unique perspective on an issue.
 
-[<h2>ICOs are for fraud, DAOs are for function</h2>](opinion/ICOs_For_Fraud-DAOs_For_Function.md) |
+[<h2>ICOs are for fraud, DAOs are for function</h2>](opinion/ICOs_For_Fraud-DAOs-For_Function.md) |
 :-----------|
 [_Opinion pieces_](#opinion-pieces) |
 _Author [C.E. Davis III / @csggene3](https://github.com/csggene3)_ |
