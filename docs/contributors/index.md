@@ -8,16 +8,20 @@
 ___
 > The Editor-in-chief is the publication's editorial leader who has final responsibility for its operations and policies.
 
-- Editor-in-chief - [@Smokyish](https://github.com/Smokyish)
+- Editor-in-chief - [@krrisis](https://github.com/krrisis)
 ___
 
 ## [Contributors](contributors.md)
 > Contributors are people who have contributed to the creation of the current Issue.
+
+- Contributor - [@john-light](https://github.com/john-light)
+- Contributor - [@csggene3](https://github.com/csggene3)
 ___
 
 ## [Reviewers](reviewers.md)
 > Reviewers are people who contribute by helping review new content submitted via Pull Requests.
 
+- Reviewer - [@Smokyish](https://github.com/Smokyish)
 - Reviewer - [@krrisis](https://github.com/krrisis)
 ___
 
