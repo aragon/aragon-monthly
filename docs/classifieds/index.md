@@ -12,16 +12,6 @@
 **Excited to come to AraCon, but don't have the financial resources?** Our vision for this conference is to gather Aragon’s global community together. Therefore we want everyone who's super interested in joining the event to be able to attend. The scholarship recipients will get a conference ticket, round trip flights and accommodation for the duration of the conference. Everyone is welcome to apply! |
 [Learn More](https://AraCon.one/scholarships/) |
 
-[<h2>**Senior software dev/architect at P2P Models**</h2>](https://p2pmodels.eu/jobs-senior-dev/) |
-:-----------|
-[**P2P Models**](https://p2pmodels.eu/) is a 5-year (2018-2022) EU-funded (1.5M€) project around blockchain and the commons, which will be based at the Universidad Complutense de Madrid (Spain). More in this [**thread**](https://twitter.com/p2pmod/status/1017802485422067713). **We are looking for a Senior Software Developer/Architect** to lead the development of a blockchain-based framework to build collaborative Decentralized Autonomous Organizations. This role involves to establish the architectural foundations and develop a software framework to build modular components of DAOs, with a focus on supporting collaboration and communities. |
-[Learn More](https://p2pmodels.eu/jobs-senior-dev/) |
-
-[<h2>**Project Manager / Communication Manager at P2P Models**</h2>](https://p2pmodels.eu/jobs-project-manager/) |
-:-----------|
-[P2P Models](https://p2pmodels.eu/) aim is to build decentralized, democratic & sustainable Collaborative Economy organizations, aided by blockchain technologies. More in this [thread](https://twitter.com/p2pmod/status/1017802485422067713). **We are looking for a (Research) Project Manager / Communication Manager for an interdisciplinary research project around blockchain and P2P communities**. This role involves the day-to-day and ongoing operations for the project and the facilitation of the project social impact. |
-[Learn More](https://p2pmodels.eu/jobs-project-manager/) |
-
 [<h2>**Web3 Developer Opening at Aragon**</h2>](http://wiki.aragon.one/jobs/openings/web3/) |
 :-----------|
 Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world’s worst problems. **We’re looking for a Web3 Developer to help us bridge smart contracts to a frontend**. Internally, we call this position "Glue". Our Web3 Developer is ideally not only a Javascript expert but also a decentralization evangelist—someone who enjoys researching and testing new Web3 technologies. |
