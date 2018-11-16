@@ -1,236 +1,628 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>https://monthly.aragon.org/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
     <url>
      <loc>https://monthly.aragon.org/news/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/news/daos/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     <url>
      <loc>https://monthly.aragon.org/news/aragon/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://monthly.aragon.org/news/governance/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://monthly.aragon.org/articles/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://monthly.aragon.org/classifieds/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://monthly.aragon.org/contributors/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/contributors/editors/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/contributors/reviewers/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/contributors/contributors/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/contributors/columnists/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://monthly.aragon.org/newsletter/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://monthly.aragon.org/info/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>https://monthly.aragon.org/guides/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/guides/guide_for_submitting_a_new_issue/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/guides/guide_for_submitting_a_new_pull_request/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://monthly.aragon.org/guides/guide_for_submitting_news/</loc>
-     <lastmod>2018-09-21</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     <url>
      <loc>https://monthly.aragon.org/guides/guide_for_submitting_articles/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    <url>
+     <loc>https://monthly.aragon.org/articles/opinion/ICOs_For_Fraud-DAOs-For_Function/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/articles/columns/submit/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/newsletter/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/info/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/guides/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/guides/guide_for_submitting_a_new_issue/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/guides/guide_for_submitting_a_new_pull_request/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/guides/guide_for_submitting_news/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/guides/guide_for_submitting_articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     <url>
      <loc>https://monthly.aragon.org/guides/guide_for_submitting_classifieds/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://monthly.aragon.org/guides/new_issue_template/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://monthly.aragon.org/guides/new_pull_request_template/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
      <loc>https://monthly.aragon.org/guides/repository_structure/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
-        
     <url>
      <loc>https://monthly.aragon.org/archive/</loc>
-     <lastmod>2018-09-21</lastmod>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
+     <loc>https://monthly.aragon.org/archive/issue01/</loc>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
+     <loc>https://monthly.aragon.org/archive/issue01/news/</loc>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
+     <loc>https://monthly.aragon.org/archive/issue01/news/daos/</loc>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
+     <loc>https://monthly.aragon.org/archive/issue01/news/aragon/</loc>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
+     <loc>https://monthly.aragon.org/archive/issue01/news/district0x/</loc>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>https://monthly.aragon.org</loc>
-     <lastmod></lastmod>
+     <loc>https://monthly.aragon.org/archive/issue01/news/ecosystem/</loc>
+     <lastmod>2018-11-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/articles/editorial/the_district0x_in_a_nutshell/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/articles/opinion/TCRs_Separating_the_Wheat_from_the_Chaf/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/articles/opinion/how_aragon_create_a_fairer_world/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/articles/opinion/thoughts_on_governance_network_effects/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/articles/columns/submit/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue01/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/news/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/news/daos/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/news/aragon/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/news/governance/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/news/ecosystem/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/articles/columns/submit/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue02/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/news/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/news/daos/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/news/aragon/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/news/governance/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/articles/columns/submit/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue04/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/news/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/news/daos/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/news/aragon/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/news/governance/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/articles/columns/submit/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue05/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/news/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/news/daos/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/news/aragon/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/news/governance/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/articles/opinion/ethereums_response_to_EIP0_Results_Part_1/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/articles/opinion/governance_through_code/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/articles/opinion/importance_of_governance/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/articles/columns/submit/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue06/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/news/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/news/daos/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/news/aragon/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/news/governance/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue07/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/news/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/news/daos/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/news/aragon/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/news/governance/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/articles/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/articles/opinion/Self-Governance_as_a_Human_Right/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/classifieds/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/contributors/editors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/contributors/reviewers/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/contributors/contributors/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://monthly.aragon.org/archive/issue08/contributors/columnists/</loc>
+     <lastmod>2018-11-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
 </urlset>
