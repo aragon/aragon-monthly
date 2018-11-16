@@ -212,3 +212,23 @@ pages:
             - Reviewers: 'archive/issue08/contributors/reviewers.md'
             - Contributors: 'archive/issue08/contributors/contributors.md'
             - Columnists: 'archive/issue08/contributors/columnists.md'
+
+    - Issue 09:
+          - Front Page: 'archive/issue09/index.md'
+          - News:
+            - Home: 'archive/issue09/news/index.md'
+            - DAOs: 'archive/issue09/news/daos.md'
+            - Aragon: 'archive/issue09/news/aragon.md'
+            - Governance: 'archive/issue09/news/governance.md'
+          - Articles:
+              - Home: 'archive/issue09/articles/index.md'
+              - Opinion pieces:
+                - ICOs are for Fraud, DAOs are for function: 'archive/issue09/articles/opinion/ICOs_For_Fraud-DAOs-For_Function.md'
+          - Classifieds:
+            - Home: 'archive/issue09/classifieds/index.md'
+          - Contributors:
+            - Home: 'archive/issue09/contributors/index.md'
+            - Editors: 'archive/issue09/contributors/editors.md'
+            - Reviewers: 'archive/issue09/contributors/reviewers.md'
+            - Contributors: 'archive/issue09/contributors/contributors.md'
+            - Columnists: 'archive/issue09/contributors/columnists.md'
