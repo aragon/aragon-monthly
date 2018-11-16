@@ -14,7 +14,7 @@
 Description |
 [Learn More](URI) |
 ```
-> Preview of a basic template for news
+> Preview of a basic template for Classifieds
 
 [<h2>Title</h2>](URI) |
 :-----------|
