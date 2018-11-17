@@ -27,7 +27,7 @@ Existing test organizations deployed on Rinkeby to be deprecated after Oct. 28th
 [Read More](https://blog.aragon.org/deprecation-notice-on-v0-5-rinkeby-daos/) | [Read More](https://blog.aragon.org/aragon-nest-third-round-of-grants/) | [Read More](https://blog.aragon.org/flock-funding-for-aragon-teams/) |
 
 [**Aragon 6.0 is live on Mainnet**](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [**Aragon @ Devcon4 Recap**](https://blog.aragon.org/devcon4-recap/) |
-:-----------:|:-----------:|:-----------:|
+:-----------:|:-----------:|
 [_Aragon_](aragon.md) | [_Aragon_](aragon.md) |
 [<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/devcon4-recap/) |
 _Author [Aragon Blog](https://blog.aragon.org) on October 30_ | _Author [Aragon Blog](https://blog.aragon.org) on November 9_ |
