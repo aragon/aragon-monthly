@@ -1,27 +1,27 @@
 # News / DAOs
 
-[<h2>Title</h2>](URI_to_news) |
-:-----------|
-[_Tag_](tag.md) |
-![](../../images/monthly_no_image.png) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) |
+[**The Smartdrop Model**](https://medium.com/@DJohnstonEC/the-smartdrop-model-859888916d94) | [**Token Bonding Curves in Practice**](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) | [**Dynamic Token Bonding Curves**](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa) |
+:-----------:|:-----------:|:-----------:|
+[_DAOs_](doas.md) | [_DAOs_](daos.md) | [_DAOs_](daos.md) |
+[<img src="https://cdn-images-1.medium.com/max/1600/1*cRxf5Y1nKbhbfqsZ-n6g0g.png">](https://medium.com/@DJohnstonEC/the-smartdrop-model-859888916d94) | [<img src="https://cdn-images-1.medium.com/max/1600/0*aN47Q0RFAMFi7gUa">](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) | [<img src="https://cdn-images-1.medium.com/max/1600/1*rvTSneINGx3IunJcdjW8Ew.jpeg">](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa) |
+_Author [David A. Johnston](https://medium.com/@DJohnstonEC) on July 2_ | _Author [Paul Kohlhaas](https://tokeneconomy.co/@Paul.Haas) on August 27_ | _Author [David Truong](https://tokeneconomy.co/@mrdavey) on September 5_ |
+This paper proposes best practices for “Smartdrops”, as a means of fast-tracking community growth, raising brand awareness and incentivizing early adopters that are highly aligned with the values of your project. Intelligently targeting the recipients of an airdrop and giving away a meaningful amount of value provides large benefits to your project, primarily: increased network effect and allowing many new users to access your technology.| This article explores the practical use of token bonding curves and curation markets to fund, curate and distribute ownership of intellectual property. In short, Token Curated Intellectual Property. The goal of the proposed design mechanism is to distribute risk, reward and ownership of intellectual assets and enable market participants to make early research and development stages liquid and tradable. This could have a wide range of applications in scientific development, pharmaceuticals, software development and engineering.| Bonding curves are essentially a mechanism that allows the continual liquidity of a token, with the price changing depending on how much ‘activity’ is conducted. Most use cases are for buying and selling into the curve, e.g. the more people that buy tokens, the higher the price goes up, the less people that buy tokens, the lower the price goes. |
+[Read More](https://medium.com/@DJohnstonEC/the-smartdrop-model-859888916d94) | [Read More](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) | [Read More](https://tokeneconomy.co/dynamic-token-bonding-curves-41d36e43befa) |
 
-| | |  
-:-----------:|:-----------:|:-----------:|  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
+[**Bribery Resistant Voting Schemes for Smart Contracts**](https://ethresear.ch/t/bribery-resistant-voting-schemes-for-smart-contracts/3354) | [**Futarchy With Bonding Curve Tokens**](https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449) | [**What The DAO?**](https://our.status.im/what-the-dao/) |
+:-----------:|:-----------:|:-----------:|
+[_DAOs_](daos.md) | [_DAOs_](daos.md) | [_DAOs_](daos.md) |
+[<img src="https://ethresear.ch/uploads/default/original/2X/8/84d109b2d8dd6bc4fe5255cd44fc429e5649da32.png">](https://ethresear.ch/t/bribery-resistant-voting-schemes-for-smart-contracts/3354) | [<img src="https://ethresear.ch/uploads/default/original/2X/8/84d109b2d8dd6bc4fe5255cd44fc429e5649da32.pngg">](https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449) | [<img src="https://our.status.im/content/images/2018/09/dao.jpg">](https://our.status.im/what-the-dao/) |
+_Author [Phil Daian](https://ethresear.ch/u/phil) on September 13_ | _Author [Chris Whinfrey](https://ethresear.ch/u/chris.whinfrey) on September 20_ | _Author [cryptowanderer](https://our.status.im/author/cryptowanderer/) on September 26_ |
+Recently, a number of proposals and applications have evolved on Ethereum that require voting; from contracts that use voting-based DAOs for governance or other administrative tasks, to boardroom-like votes to proposals for open source funding. Voting appears to be a natural target for Ethereum and applications. Unfortunately, the space of voting algorithms opens a new class of buying and bribery coordination mechanisms that could prove devastating in permissionless networks, either as credible threats or as actual deployed threats. Some schemes, even ones which assume robust identity, may be even more vulnerable than naive schemes. | Decentralized exchanges are likely the best price-finding solution for futarchy markets but, until they’ve achieved sufficient usability and liquidity, futarchies must be self contained providing their own price-finding mechanism. The current best know solution is to use an LMSR automated market maker but this presents a significant challenge. Each LMSR market must be funded up front in order to provide liquidity to market participants. This places a significant burden on the party that needs to provide the funding. | What does moving toward a DAO mean for you as a contributor to Status, what are the different ways to get involved and how does what you do at Status change? The problem with writing about new stuff is that it's very hard not to use jargon which ends up intimidating everyone and distracting them from the real intention around experimenting with different kinds of services, organisation, and speech. I don't want to rehash the history of The DAO for you, and I don't want to make a rhetorical argument about how broken governance is in the world; whether that refers to corporations and regulation, or to the various flavours of state-based government practiced across the world today.|
+[Read More](https://ethresear.ch/t/bribery-resistant-voting-schemes-for-smart-contracts/3354) | [Read More](https://ethresear.ch/t/futarchy-with-bonding-curve-tokens/3449) | [Read More](https://our.status.im/what-the-dao/) |
 
-| | |  
-:-----------:|:-----------:|:-----------:|  
-| | |  
-| | |  
-| | |  
-| | |  
-| | |  
+[**The State of Decentralized Oracles**](https://media.consensys.net/the-state-of-decentralized-oracles-df45bf0dc51d) | [**Request for Participation in Futarchy Experiments**](https://ethresear.ch/t/request-for-participation-in-futarchy-experiments/3587) | [**Cryptonetworks and the Theory of The Firm**](https://www.tokendaily.co/blog/cryptonetworks-and-the-theory-of-the-firm) |
+:-----------:|:-----------:|:-----------:|
+[_DAOs_](daos.md) | [_DAOs_](daos.md) | [_DAOs_](daos.md) |
+[<img src="https://cdn-images-1.medium.com/max/1600/1*9EGVmPsUxIMLLzGJ5bAZTA.jpeg">](https://media.consensys.net/the-state-of-decentralized-oracles-df45bf0dc51d) | [<img src="https://ethresear.ch/uploads/default/original/2X/8/84d109b2d8dd6bc4fe5255cd44fc429e5649da32.png">](https://ethresear.ch/t/request-for-participation-in-futarchy-experiments/3587) | [<img src="https://i.imgur.com/lSE88ef.png">](https://www.tokendaily.co/blog/cryptonetworks-and-the-theory-of-the-firm) |
+_Author [John Adler](https://media.consensys.net/@adlerjohn) on September 28_ | _Author [Martin Köppelmann](https://ethresear.ch/u/mkoeppelmann) on September 28_ | _Author [Qiao Wang](https://www.tokendaily.co/user/QWQiao) on October 17_ |
+The two cardinal problems facing smart contract-enabled blockchains today, in order of importance, are 1) scaling and 2) oracles. The former problem is well-known and highly-advertised by almost everyone in the blockchain ecosystem, but the latter is seldom discussed. Scaling (i.e. increasing transaction throughput) makes blockchains usable while oracles make blockchains useful. | Hey - quite a while ago @vbuterin suggested a bunch of crypto economic experiments [here](https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/). We (Gnosis) are since a long time interested in providing the tools for projects to use Futarchy for decision making. Thus we have been naturally interested in those experiments around market manipulation. Long story short - we are now ready to start those experiments and are looking for people to participate. While in principal those experiments are open and anyone can participate we nevertheless want to have an active core group to make sure it makes sense to start them. | If Austrian economics is the theoretical foundation for Bitcoin, I think Ronald Coase is the inspiration for general cryptonetworks. In 1937, Coase wrote a seminal paper titled “The Nature of the Firm”. It laid the groundwork for a whole new branch of microeconomics, called the theory of the firm, and won the 1991 Nobel Prize. The mark of geniuses, in social sciences at least, is their ability to uncover important hidden truths that are so self-evident in hindsight. And Coase is one of these geniuses. |
+[Read More](https://media.consensys.net/the-state-of-decentralized-oracles-df45bf0dc51d) | [Read More](https://ethresear.ch/t/request-for-participation-in-futarchy-experiments/3587) | [Read More](https://www.tokendaily.co/blog/cryptonetworks-and-the-theory-of-the-firm) |
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
