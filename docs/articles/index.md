@@ -19,7 +19,7 @@ _Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ 
 [_Editorial_](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
 ![](../images/monthly_no_image.png) |
 _Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) on Feb 17_ |
-[**Want to write an article for Aragon Monthly?**]https://monthly.aragon.org/guides/guide_for_submitting_articles/) |
+[**Want to write an opinion piece for the Aragon Monthly?**](https://monthly.aragon.org/guides/guide_for_submitting_articles/) |
 [Read More](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
 
 ## **Columns**
@@ -27,10 +27,10 @@ _Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ 
 
 > Columns are written by columnists who are dedicated to contribute quality content for an extended time, usually on the same subject area or theme each time – that typically contains the author's opinion or point of view.
 
-[<h2>Looking for interested contributors</h2>](https://monthly.aragon.org/guides/guide_for_submitting_news/) |
+[<h2>Looking for interested contributors</h2>](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
 :-----------|
 [_Column_](#columns) |
 ![](../images/monthly_no_image.png) |
-_Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_news/ ) on Feb 17_ |
-[**Want to start a regular column on Aragon Monthly?**](https://monthly.aragon.org/guides/guide_for_submitting_news/) |
-[Read More](https://monthly.aragon.org/guides/guide_for_submitting_news/) |
+_Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/) on Feb 17_ |
+[**Want to start a regular column on Aragon Monthly?**](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
+[Read More](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
