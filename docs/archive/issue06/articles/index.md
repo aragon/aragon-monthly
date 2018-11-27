@@ -25,7 +25,7 @@ It has been three years since the launch of Ethereum and it has taken the center
 [<h2>**Governance Through Code**</h2>](opinion/governance_through_code.md) |
 :-----------|
 [_Opinion pieces_](#opinion-pieces) |
-[<img src="../../images/monthly_no_image.png">](opinion/governance_through_code.md) |
+[<img src="../images/monthly_no_image.png">](opinion/governance_through_code.md) |
 _Author [Thijs Maas / @ThijsMaasLaw](https://github.com/ThijsMaasLaw)_ |
 **The biggest evolution in governance since the invention of the company.** With the rise of the internet and advances in cryptography, online communities and new forms of governance are increasingly emerging. In fact, governance through code is the single largest innovation in the field of governance since the company. Yet, new advances made in this area barely get the attention they deserve. |
 [Read More](opinion/governance_through_code.md) |
@@ -33,7 +33,7 @@ _Author [Thijs Maas / @ThijsMaasLaw](https://github.com/ThijsMaasLaw)_ |
 [<h2>**The importance of Governance**</h2>](opinion/importance_of_governance.md) |
 :-----------|
 [_Opinion pieces_](#opinion-pieces) |
-[<img src="../../images/monthly_no_image.png">](opinion/importance_of_governance.md) |
+[<img src="../images/monthly_no_image.png">](opinion/importance_of_governance.md) |
 _Author [Diego Xirinachs / @dxiri](https://github.com/dxiri)_ |
 **Why it matters and why you should care.** Governance is an important topic that touches everyone's lives in some way or another. With our current system: a government is established, ground rules are set in the form of a constitution, and everyone in that same jurisdiction agrees to follow those ground rules. So, to build unstoppable organizations, you need to start by laying some ground rules that everyone participating agrees with... |
 [Read More](opinion/importance_of_governance.md) |
