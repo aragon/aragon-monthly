@@ -2,28 +2,44 @@
 
 ## **Featured**
 
-[<h2>Title</h2>](URI_to_news) |
+[<h2>Aragon 6.0 is live on Mainnet</h2>](https://blog.aragon.org/aragon-06-is-live-on-mainnet) |
 :-----------|
-[_Tag_](tag.md) |
-![](../../images/monthly_no_image.png) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) |
+[_Aragon_](aragon.md) |
+[<img src="http://blog.aragon.org/content/images/2018/10/header_06_mainnet_small.jpg">](https://blog.aragon.org/aragon-06-is-live-on-mainnet) |
+_Author [Aragon Blog](https://blog.aragon.org) on October 30_ |
+We released Aragon 0.5 seven months ago. Since then, more than 2,500 organizations have been created with it. Counting all Aragon versions, the total number of Aragon organizations now adds up to 15,000+. That's more than the number of businesses created yearly in Austria, Malta and Luxembourg combined. Decentralized organizations are here to stay. Yet all those organizations were running on Ethereum testnets, with no real world implications. **Today, that changes.**|
+[Read More](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) |
 
-[**Title**](URI_to_news) | [**Title**](URI_to_news) | [**Title**](URI_to_news) |
-:-----------:|:-----------:|:-----------:|
-[_Tag_](tag.md) | [_Tag_](tag.md) | [_Tag_](tag.md) |
-[<img src="../../images/monthly_no_image.png">](URI_to_news) | [<img src="../../images/monthly_no_image.png">](URI_to_news) | [<img src="../../images/monthly_no_image.png">](URI_to_news) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ | _Author [Author Name](URI_to_author_profile) on Month Date#_ | _Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) | [Read More](URI_to_news) | [Submit News!](../guides/guide_for_submitting_news.md) |
+[<h2>[Request For Comment] AGP-1: The Aragon Governance Proposal Process</h2>](https://forum.aragon.org/t/request-for-comment-agp-1-the-aragon-governance-proposal-process/233) |
+:-----------|
+[_Aragon_](aragon.md) |
+![](https://forum.aragon.org/uploads/default/original/1X/8ba576592de536a36f33b3dbed5b899b06b8e2aa.png) |
+_Author [John Light](https://forum.aragon.org/u/light/summary) on October 16_ |
+Back in 2017 we first introduced Aragon’s Community Governance Model 12 and Aragon Governance Proposals 10. Since then we have had many discussions among active contributors and community members about how to evolve and formalize our governance model as we move closer to launching the Aragon Network on the Ethereum mainnet. Following on these discussions, we would like to formally introduce the first draft of **AGP-1: The Aragon Governance Proposal Process.** |
+[Read More](https://forum.aragon.org/t/request-for-comment-agp-1-the-aragon-governance-proposal-process/233) |
 
-[**Title**](URI_to_news) | [**Title**](URI_to_news) | [**Title**](URI_to_news) |
+[**Announcing AraCon — The Aragon Conference**](https://blog.aragon.org/announcing-aracon-the-aragon-conference/) | [**Nest Team Interviews: Prysmatic Labs**](https://blog.aragon.org/nest-team-interviews-prysmatic-labs/) | [**Aragon Nest Update—Evolution of the Grants Program**](https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/) |
 :-----------:|:-----------:|:-----------:|
-[_Tag_](tag.md) | [_Tag_](tag.md) | [_Tag_](tag.md) |
-[<img src="../../images/monthly_no_image.png">](URI_to_news) | [<img src="../../images/monthly_no_image.png">](URI_to_news) | [<img src="../../images/monthly_no_image.png">](URI_to_news) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ | _Author [Author Name](URI_to_author_profile) on Month Date#_ | _Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) | [Read More](URI_to_news) | [Submit News!](../guides/guide_for_submitting_news.md) |
+[_Aragon_](aragon.md) | [_Aragon_](aragon.md) | [_Aragon_](aragon.md) |
+[<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/announcing-aracon-the-aragon-conference/) | [<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/nest-team-interviews-prysmatic-labs/) | [<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/) |
+_Author [Aragon Blog](https://blog.aragon.org) on October 2_ | _Author [Aragon Blog](https://blog.aragon.org) on October 10_ | _Author [Aragon Blog](https://blog.aragon.org) on October 12_ |
+AraCon – The first Aragon Conference - will take place in **Berlin, Germany on January 29th-30th 2019**. The conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. Decentralized governance and DAOs are at the heart of the new Web 3.0. They are key components in moving towards a more fair and open world for everyone. | We are Prysmatic Labs, a team of driven open source developers working to improve scalability for Ethereum 2.0. Our project, Prysm, is a new sharding and Casper compatible client for Ethereum. Our team met organically at the right time and the right place. We were all interested in protocol development and were wondering why no one was working on an implementation of the Sharding FAQ created by Vitalik near the end of last year. Preston and I were the first to connect, we established a team, and started hacking through an open source repo and public Gitter channel. Our team aims to be a big proponent of advancing the state of the art of Ethereum through good code, good documentation, and setting the example for future open source initiatives. The key point is to keep the momentum going, identify everyone’s unique strengths, and ensure we are all working on something we individually enjoy while being pragmatic with what we build. | The Nest program has been up and running for 7 months already. It's mature enough to make a high level analysis of the program so far and talk a bit about its future. Nest is the grants program run by the Aragon Association (formerly the Aragon Foundation). The process is public and transparent. The Aragon One team was the only team managing it and deciding who and what gets funded up until now. Currently, the Aragon DAC, the new Aragon team, is also participating in the application process. The idea is that all the different Aragon teams will have a part to play in this grants program. |
+[Read More](https://blog.aragon.org/announcing-aracon-the-aragon-conference/) | [Read More](https://blog.aragon.org/nest-team-interviews-prysmatic-labs/) | [Read More](https://blog.aragon.org/aragon-nest-update-evolution-of-the-grants-program/) |
+
+[**Deprecation Notice for v0.5 Rinkeby DAOs**](https://blog.aragon.org/deprecation-notice-on-v0-5-rinkeby-daos/) | [**Aragon Nest: Third Round of Grants**](https://blog.aragon.org/aragon-nest-third-round-of-grants/) | [**Flock, funding for Aragon teams**](https://blog.aragon.org/flock-funding-for-aragon-teams/) |
+:-----------:|:-----------:|:-----------:|
+[_Aragon_](aragon.md) | [_Aragon_](aragon.md) | [_Aragon_](aragon.md) |
+[<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/deprecation-notice-on-v0-5-rinkeby-daos/)  | [<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/aragon-nest-third-round-of-grants/) | [<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](TODO) |
+_Author [Aragon Blog](https://blog.aragon.org) on October 16_ | _Author [Aragon Blog](https://blog.aragon.org) on October 25_ | _Author [Aragon Blog](https://blog.aragon.org) on October 29_ |
+Existing test organizations deployed on Rinkeby to be deprecated after Oct. 28th. Since the launch of Aragon Core v0.5 on the Rinkeby testnet this March, the Aragon One development team has been continually improving and battle testing the smart contracts that form the bedrock of over 2500 test organizations. However, as we progress toward a Mainnet launch, it's time to start bringing the latest technology to decentralized organizations. | Five new teams have been awarded grants with funding from the Aragon Project. The Nest grants program has introduced rounds one and two with the first teams. We now have five more teams that have been granted funding by the Aragon Project. | **The next step in decentralizing Aragon's development.** Earlier this year we set the path for decentralizing Aragon's development. And, after half a year, our vision is already a reality. There are two teams working on Aragon's development already: Aragon One and Aragon DAC. |
+[Read More](https://blog.aragon.org/deprecation-notice-on-v0-5-rinkeby-daos/) | [Read More](https://blog.aragon.org/aragon-nest-third-round-of-grants/) | [Read More](https://blog.aragon.org/flock-funding-for-aragon-teams/) |
+
+[**Aragon 6.0 is live on Mainnet**](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [**Aragon @ Devcon4 Recap**](https://blog.aragon.org/devcon4-recap/) |
+:-----------:|:-----------:|
+[_Aragon_](aragon.md) | [_Aragon_](aragon.md) |
+[<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [<img src="https://wiki.aragon.org/design/logo/png/imagetype.png">](https://blog.aragon.org/devcon4-recap/) |
+_Author [Aragon Blog](https://blog.aragon.org) on October 30_ | _Author [Aragon Blog](https://blog.aragon.org) on November 9_ |
+We released Aragon 0.5 seven months ago. Since then, more than 2,500 organizations have been created with it. Counting all Aragon versions, the total number of Aragon organizations now adds up to 15,000+. That's more than the number of businesses created yearly in Austria, Malta and Luxembourg combined. Decentralized organizations are here to stay. Yet all those organizations were running on Ethereum testnets, with no real world implications. Today, that changes. | The poster called out from the wall it was taped to as DevCon4 attendees walking by pointed and wondered aloud what the message meant. The URL at the bottom provided a hint, once entered into a web browser: [www.unfreedom.org](www.unfreedom.org). The concept was simple: anti-propaganda propaganda. Ironic authoritarianism to spite authoritarians. That was the trick. |
+[Read More](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [Read More](https://blog.aragon.org/devcon4-recap/) |
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
