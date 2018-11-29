@@ -21,11 +21,6 @@ Aragon is an open source, decentralized, project fighting for the freedom to org
 **Today we’re announcing the first Aragon Conference — AraCon.** The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. |
 [Learn More](https://AraCon.one) |
 
-[<h2>**AraCon scholarship applications are now open!**</h2>](https://AraCon.one/scholarships/) |
-:-----------|
-**Excited to come to AraCon, but don't have the financial resources?** Our vision for this conference is to gather Aragon’s global community together. Therefore we want everyone who's super interested in joining the event to be able to attend. The scholarship recipients will get a conference ticket, round trip flights and accommodation for the duration of the conference. Everyone is welcome to apply! |
-[Learn More](https://AraCon.one/scholarships/) |
-
 [<h2>**Web3 Developer Opening at Aragon**</h2>](http://wiki.aragon.one/jobs/openings/web3/) |
 :-----------|
 Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world’s worst problems. **We’re looking for a Web3 Developer to help us bridge smart contracts to a frontend**. Internally, we call this position "Glue". Our Web3 Developer is ideally not only a Javascript expert but also a decentralization evangelist—someone who enjoys researching and testing new Web3 technologies. |

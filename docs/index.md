@@ -1,7 +1,7 @@
 
 # Aragon Monthly
 #### The Community Curated Digital Newspaper about DAOs, Governance and the Aragon Ecosystem
-#### Issue 10, November 27th, 2018
+#### Issue 10, November 29th, 2018
 ___
 
 Aragon Monthly is **created by the Community, for the Community**.
@@ -14,7 +14,7 @@ ___
 ## [Recent News](news/index.md)
 
 [**Aragon @ DevCon4 Recap**](https://blog.aragon.org/devcon4-recap/) | [**Aragon 0.6 is Live on Mainnet**](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [**Flock, Funding for Aragon Teams**](https://blog.aragon.org/flock-funding-for-aragon-teams/) |
-:-----------:|:-----------:|:-----------|
+:-----------:|:-----------:|:-----------:|
 [Aragon](https://monthly.aragon.org/news/aragon/) |[Aragon](https://monthly.aragon.org/news/aragon/) | [Aragon](https://monthly.aragon.org/news/aragon/) |
 [<img src="https://blog.aragon.org/content/images/2018/11/header_post.jpg">](https://blog.aragon.org/devcon4-recap/) | [<img src="https://blog.aragon.org/content/images/2018/10/header_06_mainnet_small.jpg">](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [<img src="https://blog.aragon.org/content/images/2018/10/Flock_header02.png">](https://blog.aragon.org/flock-funding-for-aragon-teams/) |
 _Author [John Light](https://blog.aragon.org/author/light/) on November 9_ | _Author [Luis Cuende](https://blog.aragon.org/author/luis/) on October 30_ | _Author [Luis Cuende](https://blog.aragon.org/author/luis/) on October 29_ |
@@ -37,8 +37,8 @@ ___
 [<h2>Looking for interested contributors</h2>](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
 :-----------|
 [_Editorial_](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
-![](../images/monthly_no_image.png) |
-_Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) on Feb 17_ |
+![](https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7c006c52fd09caf4e97536de8fcf5067&auto=format&fit=crop&w=1351&q=80) |
+_Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) on Dec 01_ |
 [**Want to write an article for the Aragon Monthly?**](https://monthly.aragon.org/guides/guide_for_submitting_articles/) |
 [Read More](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
 
@@ -51,10 +51,10 @@ ___
 Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for Technical Writers to build out the documentation repository for supporting the user base**. |
 [Learn More](https://wiki.aragon.one/jobs/openings/DAC-Technical_Writer/) |
 
-[<h2>**AraCon scholarship applications are now open!**</h2>](https://AraCon.one/scholarships/) |
+[<h2>**Senior Solidity/EVM/Ethereum opening at Aragon**</h2>](https://wiki.aragon.one/jobs/openings/solidity/) |
 :-----------|
-**Excited to come to AraCon, but don't have the financial resources?** Our vision for this conference is to gather Aragon’s global community together. Therefore we want everyone who's super interested in joining the event to be able to attend. The scholarship recipients will get a conference ticket, round trip flights and accommodation for the duration of the conference. Everyone is welcome to apply! |
-[Learn More](https://AraCon.one/scholarships/) |
+We are looking for an Ethereum wizard to work with us on Aragon Core and the upcoming Aragon Network. |
+[Learn More](https://wiki.aragon.one/jobs/openings/solidity/) |
 
 [<h2>**Project Manager for the Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-Project_Manager/) |
 :-----------|

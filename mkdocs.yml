@@ -37,6 +37,7 @@ pages:
     - Home: 'news/index.md'
     - Aragon: 'news/aragon.md'
     - Governance: 'news/governance.md'
+    - DAOs: 'news/daos.md'
   - Articles:
     - Home: 'articles/index.md'
     - Editorials:

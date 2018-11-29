@@ -6,7 +6,7 @@
 [<h2>Looking for interested contributors</h2>](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
 :-----------|
 [_Editorial_](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
-![](../images/monthly_no_image.png) |
+![](https://images.unsplash.com/photo-1489533119213-66a5cd877091?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7c006c52fd09caf4e97536de8fcf5067&auto=format&fit=crop&w=1351&q=80) |
 _Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) on Feb 17_ |
 [**Want to write an article for Aragon Monthly?**](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
 [Read More](https://monthly.aragon.org/guides/guide_for_submitting_articles/ ) |
