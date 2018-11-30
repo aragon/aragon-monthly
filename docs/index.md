@@ -1,7 +1,7 @@
 
 # Aragon Monthly
 #### The Community Curated Digital Newspaper about DAOs, Governance and the Aragon Ecosystem
-#### Issue 10, November 29th, 2018
+#### Issue 10, November 30th, 2018
 ___
 
 Aragon Monthly is **created by the Community, for the Community**.
