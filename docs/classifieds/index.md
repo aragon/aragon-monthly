@@ -1,6 +1,11 @@
 # Classifieds
 > Classifieds or Classified advertising is free of charge in the newspaper. Keep them short and to the point.
 
+[<h2>**Announcing AraCon — The Aragon Conference**</h2>](https://AraCon.one) |
+:-----------|
+**Today we’re announcing the first Aragon Conference — AraCon.** The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. |
+[Learn More](https://AraCon.one) |
+
 [<h2>**Technical Writer for the Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-Technical_Writer/) |
 :-----------|
 Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for Technical Writers to build out the documentation repository for supporting the user base**. |
@@ -15,11 +20,6 @@ Aragon is an open source, decentralized, project fighting for the freedom to org
 :-----------|
 Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for a Project Manager to lead this effort and ensure our team is successful**. The first concrete project to manage will be making the Aragon DAC Website using upwork web devs or equivalent. |
 [Learn More](https://wiki.aragon.one/jobs/openings/DAC-Project_Manager/) |
-
-[<h2>**Announcing AraCon — The Aragon Conference**</h2>](https://AraCon.one) |
-:-----------|
-**Today we’re announcing the first Aragon Conference — AraCon.** The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. |
-[Learn More](https://AraCon.one) |
 
 [<h2>**Web3 Developer Opening at Aragon**</h2>](http://wiki.aragon.one/jobs/openings/web3/) |
 :-----------|
