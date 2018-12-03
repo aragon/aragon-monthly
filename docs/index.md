@@ -53,7 +53,7 @@ Aragon is an open source, decentralized, project fighting for the freedom to org
 
 [<h2>**Senior Solidity/EVM/Ethereum opening at Aragon**</h2>](https://wiki.aragon.one/jobs/openings/solidity/) |
 :-----------|
-We are looking for an Ethereum wizard to work with us on Aragon Core and the upcoming Aragon Network. |
+We are looking for an Ethereum expert to work with us on the Aragon client and the upcoming Aragon Network. |
 [Learn More](https://wiki.aragon.one/jobs/openings/solidity/) |
 
 [<h2>**Project Manager for the Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-Project_Manager/) |

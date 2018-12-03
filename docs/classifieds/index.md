@@ -1,6 +1,11 @@
 # Classifieds
 > Classifieds or Classified advertising is free of charge in the newspaper. Keep them short and to the point.
 
+[<h2>**Announcing AraCon — The Aragon Conference**</h2>](https://AraCon.one) |
+:-----------|
+**Today we’re announcing the first Aragon Conference — AraCon.** The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. |
+[Learn More](https://AraCon.one) |
+
 [<h2>**Technical Writer for the Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-Technical_Writer/) |
 :-----------|
 Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for Technical Writers to build out the documentation repository for supporting the user base**. |
@@ -16,11 +21,6 @@ Aragon is an open source, decentralized, project fighting for the freedom to org
 Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for a Project Manager to lead this effort and ensure our team is successful**. The first concrete project to manage will be making the Aragon DAC Website using upwork web devs or equivalent. |
 [Learn More](https://wiki.aragon.one/jobs/openings/DAC-Project_Manager/) |
 
-[<h2>**Announcing AraCon — The Aragon Conference**</h2>](https://AraCon.one) |
-:-----------|
-**Today we’re announcing the first Aragon Conference — AraCon.** The Aragon Conference will bring together people who embody and wish to shape the Aragon community. Those who are building and supporting the pseudonymous, secure, trustless future — the decentralized web. |
-[Learn More](https://AraCon.one) |
-
 [<h2>**Web3 Developer Opening at Aragon**</h2>](http://wiki.aragon.one/jobs/openings/web3/) |
 :-----------|
 Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world’s worst problems. **We’re looking for a Web3 Developer to help us bridge smart contracts to a frontend**. Internally, we call this position "Glue". Our Web3 Developer is ideally not only a Javascript expert but also a decentralization evangelist—someone who enjoys researching and testing new Web3 technologies. |
@@ -28,17 +28,17 @@ Aragon is an open source, decentralized project fighting for the freedom to orga
 
 [<h2>**Developer Relations opening at Aragon**</h2>](https://wiki.aragon.one/jobs/openings/dev_rel/) |
 :-----------|
-Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems.**We're looking for a Developer Relations to help third party developers create apps on top of the Aragon dapp and aragonOS**. Our Dev Rels must be someone passionate in helping others understand technical subjects through technical writing, networking and educating people. That means that our ideal Dev Rels is not only a legit developer but also an Aragon Technical Evangelist. |
+Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems.**We're looking for a Developer Relations to help third party developers create apps on top of the Aragon client and aragonOS**. Our Dev Rels must be someone passionate in helping others understand technical subjects through technical writing, networking and educating people. That means that our ideal Dev Rels is not only a legit developer but also an Aragon Technical Evangelist. |
 [Learn More](https://wiki.aragon.one/jobs/openings/dev_rel/) |
 
 [<h2>**Frontend Developer opening at Aragon**</h2>](https://wiki.aragon.one/jobs/openings/frontend/) |
 :-----------|
-Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. **We're looking for a Frontend Developer to work with us on the Aragon Labs, Aragon Core app, and aragonOS**. Our Frontend Developer must not only be a frontend and web3 wizard but also a nonconformist. That means that our ideal candidate is not only a respected engineer but also a decentralization advocate. |
+Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. **We're looking for a Frontend Developer to work with us on Aragon Labs, the Aragon client, and aragonOS**. Our Frontend Developer must not only be a frontend and web3 expert but also a nonconformist. That means that our ideal candidate is not only a respected engineer but also a decentralization advocate. |
 [Learn More](https://wiki.aragon.one/jobs/openings/frontend/) |
 
 [<h2>**Senior Solidity/EVM/Ethereum opening at Aragon**</h2>](https://wiki.aragon.one/jobs/openings/solidity/) |
 :-----------|
-We are looking for an Ethereum wizard to work with us on Aragon Core and the upcoming Aragon Network. |
+We are looking for an Ethereum expert to work with us on the Aragon client and the upcoming Aragon Network. |
 [Learn More](https://wiki.aragon.one/jobs/openings/solidity/) |
 
 [<h2>**DevOps opening at Aragon**</h2>](https://wiki.aragon.one/jobs/openings/dev-ops/) |
