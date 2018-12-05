@@ -112,6 +112,8 @@ ___
   - Install mkdocs-material using Python, `pip install mkdocs-material`
 - In the `aragon-monthly` directory, run `mkdocs serve`
 - Open [http://localhost:8000/](http://localhost:8000/) in your browser
+- Edit documents locally through a text editor such as [Atom](https://atom.io/) in combination with [Github Desktop] and/or commands through GitBash, PowerShell or Command Line.
+
 ___
 
 ### What does the `aragon-monthly` directory structure look like?
