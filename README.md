@@ -83,7 +83,7 @@ ___
 - Editor - [@shyBlugs](https://github.com/shyBlugs)
 - Editor - [@dxiri](https://github.com/dxiri)
 - Editor - [csggene3](https://github.com/csggene3)
-- Editor - [@jakerockland](https://github.com/jakerockland]
+- Editor - [@jakerockland](https://github.com/jakerockland)
 - Editor - [@Joshfairhead](https://github.com/Joshfairhead)
 
 
