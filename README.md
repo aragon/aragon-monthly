@@ -1,6 +1,6 @@
 # [Aragon Monthly](https://monthly.aragon.one/)
 
-### Aragon Monthly is **a community-curated monthly digital newspaper** about Decentralized Autonomous Organizations and the [Aragon](https://aragon.one) ecosystem
+### Aragon Monthly is **a community-curated monthly digital newspaper** about Decentralized Autonomous Organizations and the [Aragon](https://aragon.org) ecosystem
 
 > **Content curation is the process of gathering information relevant to a particular topic or area of interest.**
 
