@@ -10,7 +10,7 @@ Aragon Monthly is **created by the community, for the community**.
 ___
 ## How does this work?
 
-- **Community members**, [**Contributors**](../contributors/contributors.md) and [**Editors**](../contributors/editors.md) create [Issues](https://github.com/aragon/aragon-monthly/issues) for [News](../news/index.md), [Articles](../articles/index.md) and [Classifieds](../classifieds/index.md)
+- **Community members**, **Contributors** and **Editors** create [Issues](https://github.com/aragon/aragon-monthly/issues) for [News](../news/index.md), [Articles](../articles/index.md) and [Classifieds](../classifieds/index.md)
     - _These [Issues](https://github.com/aragon/aragon-monthly/issues) are **requests for new content** to the upcoming newspaper issue_
     ___
 - [Issues](https://github.com/aragon/aragon-monthly/issues) that get "_upvoted_" by the community will have **a [`bounty` label](https://github.com/aragon/aragon-monthly/labels/bounty) added** and that **`bounty`** will be **funded to incentivise fulfillment of that request**
