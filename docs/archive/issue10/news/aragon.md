@@ -34,4 +34,4 @@ _Author [Aragon Blog](https://blog.aragon.org) on October 30_ | _Author [Aragon 
 We released Aragon 0.5 seven months ago. Since then, more than 2,500 organizations have been created with it. Counting all Aragon versions, the total number of Aragon organizations now adds up to 15,000+. That's more than the number of businesses created yearly in Austria, Malta and Luxembourg combined. Decentralized organizations are here to stay. Yet all those organizations were running on Ethereum testnets, with no real world implications. Today, that changes. | The poster called out from the wall it was taped to as DevCon4 attendees walking by pointed and wondered aloud what the message meant. The URL at the bottom provided a hint, once entered into a web browser: [www.unfreedom.org](http://www.unfreedom.org). The concept was simple: anti-propaganda propaganda. Ironic authoritarianism to spite authoritarians. That was the trick. |
 [Read More](https://blog.aragon.org/aragon-06-is-live-on-mainnet/) | [Read More](https://blog.aragon.org/devcon4-recap/) |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

@@ -18,4 +18,4 @@ _Author [Rachel Rose O'Leary](https://www.coindesk.com/author/rachelroseoleary/)
 | [Read More](https://www.youtube.com/watch?v=nn1HsC99wcM)| [Read More](https://www.coindesk.com/polkadots-radical-plan-governing-blockchain-blockchains/) |
 
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

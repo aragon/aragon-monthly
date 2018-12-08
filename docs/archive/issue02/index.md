@@ -6,9 +6,9 @@ ___
 
 Aragon Monthly is **created by the community, for the community**.
 
-**Anyone can contribute** by [creating](guides/guide_for_submitting_a_new_pull_request.md) or [requesting new content](guides/guide_for_submitting_a_new_issue.md) regarding **Decentralized Autonomous Organizations**, **governance** or about anything related to the **Aragon ecosystem**.
+**Anyone can contribute** by [creating](/guides/guide_for_submitting_a_new_pull_request.md) or [requesting new content](/guides/guide_for_submitting_a_new_issue.md) regarding **Decentralized Autonomous Organizations**, **governance** or about anything related to the **Aragon ecosystem**.
 
-For more information, see [**How does this work?**](info/index.md#how-does-this-work) and [**How can I contribute?**](info/index.md#how-can-i-contribute)
+For more information, see [**How does this work?**](/info/index.md#how-does-this-work) and [**How can I contribute?**](/info/index.md#how-can-i-contribute)
 ___
 ## [Recent News](news/index.md)
 
@@ -32,13 +32,13 @@ Abraham Lincoln famously said that “government of the people, by the people, f
 ___
 ## [Recent Articles](articles/index.md)
 
-[<h2>Looking for interested contributors</h2>](guides/guide_for_submitting_a_new_issue.md) |
+[<h2>Looking for interested contributors</h2>](/guides/guide_for_submitting_a_new_issue.md) |
 :-----------|
-[_Editorial_](guides/guide_for_submitting_a_new_issue.md) |
-![](../images/monthly_no_image.png) |
+[_Editorial_](/guides/guide_for_submitting_a_new_issue.md) |
+![](images/monthly_no_image.png) |
 _Author [You!](https://github.com/aragon/aragon-monthly/issues) on Feb 17_ |
-[**Want to write an article for Aragon Monthly?**](guides/guide_for_submitting_articles.md) |
-[Read More](guides/guide_for_submitting_a_new_issue.md) |
+[**Want to write an article for Aragon Monthly?**](/guides/guide_for_submitting_articles.md) |
+[Read More](/guides/guide_for_submitting_a_new_issue.md) |
 
 ###### [Browse More Articles](articles/index.md)
 ___

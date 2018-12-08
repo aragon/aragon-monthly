@@ -36,4 +36,4 @@ I've been thinking a lot about what motivates those of us BUIDLing blockchain pr
 | [Read More](https://blog.aragon.one/using-apm-to-replace-npm-and-other-centralized-package-managers/)| [Read More](https://blog.aragon.org/aragon-community-update-1/)| |
 
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

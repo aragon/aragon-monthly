@@ -8,7 +8,7 @@ Aragon Monthly is **created by the community, for the community**.
 
 **Anyone can contribute** by creating or requesting new content regarding Decentralized Autonomous Organizations or about anything related to the Aragon ecosystem.
 
-For more information, see [**How does this work?**](info/index.md#how-does-this-work) and [**How can I contribute?**](info/index.md#how-can-i-contribute)
+For more information, see [**How does this work?**](/info/index.md#how-does-this-work) and [**How can I contribute?**](/info/index.md#how-can-i-contribute)
 ___
 ## [Recent News](news/index.md)
 
@@ -35,7 +35,7 @@ ___
 [<h2>TCRs - The Curation Protocol That Separates the Wheat from the Chaff</h2>](articles/opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md) |
 :-----------|
 [_Opinion pieces_](#opinion-pieces) |
-![](../images/monthly_no_image.png) |
+![](images/monthly_no_image.png) |
 _Author [Aaron Foster / @Shyblugs](https://github.com/shyblugs)_ |
 On the internet, as on the street, reputation is everything. Whether your digital identity comprises a mugshot or a 256 bit hexadecimal address, validation and verification are still a requisite. Even on the decentralized, pseudonymous web, in which real world identities are optional, reputation still counts. The web 3.0 isn’t about concealing everyone under a cloak of invisibility; rather it’s about giving individuals the right to privacy. The freedom to choose which data they disclose to which platforms, rather than having it hoovered up by every app they install and website they join, to be stored in centralized silos that are a honeypot to hackers. |
 [Read More](articles/opinion/TCRs_Separating_the_Wheat_from_the_Chaf.md) |
@@ -43,7 +43,7 @@ On the internet, as on the street, reputation is everything. Whether your digita
 [<h2>How can Aragon create a fairer world?</h2>](articles/opinion/how_aragon_create_a_fairer_world.md) |
 :-----------|
 [_Opinion pieces_](#opinion-pieces) |
-![](../images/monthly_no_image.png) |
+![](images/monthly_no_image.png) |
 _Author [Zurpples / @Zurpples](https://github.com/Zurpples)_ |
 Suddenly it’s 2020. We gaze over a border station across the DMZ. This is a land that was thought to be beyond law or justice. Now (due to tokenization and the Aragon blockchain) things are looking up. A new hotel gleams in the distance of a new city where North and South are collaborating. The entire map of the city (and who did what) is stored securely in the blockchain, crypto is the currency of the region, and people trying to get rich off of exploitation are quickly found out. |
 [Read More](articles/opinion/how_aragon_create_a_fairer_world.md) |

@@ -26,4 +26,4 @@ An example of a list that could eventually become a TCR :) | Abraham Lincoln fam
 [Read More](https://medium.com/@tokencuratedregistry/the-token-curated-registry-whitepaper-bd2fb29299d6) | [Read More](https://techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/) | [Read More](https://medium.com/@jpitts/an-open-invitation-to-participate-in-a-fellowship-of-ethereum-magicians-982e6143db4f) |
 
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

@@ -36,7 +36,7 @@ Bunch of text.
 
 _Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_
 
-![](../../images/monthly_no_image.png)
+![](../images/monthly_no_image.png)
 
 Bunch of text.
 
@@ -57,7 +57,7 @@ ___
 [<h2>Title</h2>](editorial/title_of_the_article.md) |
 :-----------|
 [_Editorial_](#editorials) |
-![](../../images/monthly_no_image.png) |
+![](../images/monthly_no_image.png) |
 _Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_ |
 Short intro to the article |
 [Read More](editorial/title_of_the_article.md) |
@@ -68,7 +68,7 @@ Short intro to the article |
 [<h2>Title</h2>](opinion/title_of_the_article.md) |
 :-----------|
 [_Opinion pieces_](#opinion-pieces) |
-![](../../images/monthly_no_image.png) |
+![](../images/monthly_no_image.png) |
 _Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_ |
 Short intro to the article |
 [Read More](opinion/title_of_the_article.md) |
@@ -81,7 +81,7 @@ Short intro to the article |
 [<h2>Title</h2>](columns/title_of_the_article.md) |
 :-----------|
 [_Column_](#columns) |
-![](../../images/monthly_no_image.png) |
+![](../images/monthly_no_image.png) |
 _Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_ |
 Short intro to the article |
 [Read More](columns/title_of_the_article.md) |
@@ -104,7 +104,7 @@ Short intro to the article |
 [<h2>Title</h2>](category/title_of_the_article.md) |
 :-----------|
 [_Category_](#category) |
-![](../../images/monthly_no_image.png) |
+![](../images/monthly_no_image.png) |
 _Author [Author Name / @author_GitHub_username](https://github.com/author_GitHub_username)_ |
 Short intro to the article |
 [Read More](category/title_of_the_article.md) |

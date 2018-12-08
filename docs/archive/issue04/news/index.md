@@ -49,4 +49,4 @@ _Author [Suzi Bianco](https://medium.com/@Suzi_Bianco) on Mar 26_ |
 |A decentralized autonomous organization, or simply DAO, is a company or organization whose decisions are made electronically by means of a written computer code or by the vote of its members. In essence, it is a system of coded rules that define what actions an organization will take. |  There is a lot of talk about the threat of automation. AI and robots are coming to take our jobs. Corporations and the government are taking control of our lives. This creates a scarcity mindset of “us versus them,” leading us to ask, How am I going to protect myself? Will I be one of the few people left when machines take over? | |
 | [Read More](http://yermoo.net/2044-a-world-governed-by-daos/) |  [Read More](https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288) | | |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

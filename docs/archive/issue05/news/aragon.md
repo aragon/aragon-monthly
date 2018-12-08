@@ -48,6 +48,6 @@ Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) |
 [<img src=https://cdn-images-1.medium.com/max/2000/1*o7yRBPfaXV7lGQRbQ5eXmQ.jpeg>](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) | [<img src="../images/monthly_no_image.png">](../news) | [<img src="../images/monthly_no_image.png">](../news) |
 Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on May 31 |  |  |
 **First Aragon app launched on Ethereum Mainnet for community sentiment signaling**. Today we are releasing an entirely new step for community members to signal their sentiment on the project and igniting the next level of participation in the project for all ANT holders. Survey app is the fourth app developed by our team in addition to the Token Manager, Voting & Finance apps seen previously in Aragon Core v0.5. And the first one to launch on the Ethereum Mainnet. |  |  |
-[Read More](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) | [Read More](../news) | [Submit News!](../guides/guide_for_submitting_news.md) |
+[Read More](https://blog.aragon.one/aragon-launches-survey-app-on-mainnet-ed5eefeb66f5) | [Read More](../news) | [Submit News!](/guides/guide_for_submitting_news.md) |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

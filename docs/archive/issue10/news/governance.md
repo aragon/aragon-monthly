@@ -36,4 +36,4 @@ If 2017 was a year when fundraising for decentralized protocols dominated headli
 
 
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

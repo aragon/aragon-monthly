@@ -58,4 +58,4 @@ _Author [Jesus Rodriguez](https://medium.com/@jrodthoughts) on Jun 21_ | _Author
 **Token voting mechanisms and their attack vectors.** The main challenges of voting and governance in the security token space is related to the fact that a significant part of the lifecycle of a toke takes place off chain... | The tragedy of the commons describes how individuals, acting independently according to their self-interest, can accidentally destroy a shared resource. The article proposes how cryptocurrency can be used as a scalable governance model for shared resources. | |
 [Read More](https://medium.com/coinmonks/voting-and-governance-in-security-tokens-1e3d041dabb8) | [Read More](https://blog.usejournal.com/crypto-commons-da602fb98138) | |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

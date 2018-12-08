@@ -32,6 +32,6 @@ _Author [Maria Gomez](https://blog.aragon.org/author/maria/) on Aug 22_ | _Autho
 [<img src="http://blog.aragon.org/content/images/2018/08/aragon-labs-update.jpg">](https://blog.aragon.org/aragon-labs-research-update-1/) | [<img src="http://blog.aragon.one/content/images/2018/08/aragon-personal-dao.jpg">](https://blog.aragon.one/enter-the-world-of-personal-daos/) | ![](../images/monthly_no_image.png) |
 _Author [Luke Duncan](https://blog.aragon.org/author/luke/) on Aug 28_| _Author [Luis Cuende](http://blog.aragon.one/author/luis/) on Aug 30_ | |
 **Latest news from the Aragon Research & Development department, [Labs](https://blog.aragon.org/announcing-aragon-labs-a679693429ae/)** Our research efforts are on exploring how to realize the lofty ambition of becoming a decentralized, digital jurisdiction.  | **Introducing personal DAOs** A personal DAO is your own [Aragon DAO](https://wiki.aragon.org/tutorials/DAO_Workshop_Testnet_by_joselfgaray/#what-is-a-dao) that acts as your agent in the decentralized world. A personal DAO borrows [all the features you can expect](https://blog.aragon.org/aragon-core-v0-5-the-architect-release-327c7163b89c) from an Aragon DAO, but it isn't an organization comprised of multiple people.| |
-[Read More](https://blog.aragon.org/aragon-labs-research-update-1/)| [Read More](https://blog.aragon.one/enter-the-world-of-personal-daos/) | [Submit News!](../guides/guide_for_submitting_news.md) |
+[Read More](https://blog.aragon.org/aragon-labs-research-update-1/)| [Read More](https://blog.aragon.one/enter-the-world-of-personal-daos/) | [Submit News!](/guides/guide_for_submitting_news.md) |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

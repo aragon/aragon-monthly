@@ -6,9 +6,9 @@ ___
 
 Aragon Monthly is **created by the community, for the community**.
 
-**Anyone can contribute** by [creating](guides/guide_for_submitting_a_new_pull_request.md) or [requesting new content](https://github.com/aragon/aragon-monthly/issues) regarding **Decentralized Autonomous Organizations**, **governance** or about anything related to the **Aragon ecosystem**.
+**Anyone can contribute** by [creating](/guides/guide_for_submitting_a_new_pull_request.md) or [requesting new content](https://github.com/aragon/aragon-monthly/issues) regarding **Decentralized Autonomous Organizations**, **governance** or about anything related to the **Aragon ecosystem**.
 
-For more information, see [**How does this work?**](info/index.md#how-does-this-work) and [**How can I contribute?**](info/index.md#how-can-i-contribute)
+For more information, see [**How does this work?**](/info/index.md#how-does-this-work) and [**How can I contribute?**](/info/index.md#how-can-i-contribute)
 ___
 
 ## [Recent News](news/index.md)
@@ -36,7 +36,7 @@ ___
 [<h2>Self-Governance as a Human Right</h2>](articles/opinion/Self-Governance_as_a_Human_Right.md) |
 :-----------|
 [_Opinion piece_](articles/index.md) |
-![](../images/monthly_no_image.png) |
+![](images/monthly_no_image.png) |
 _Author [Marik Hazan / @marikio](https://github.com/marikio)_ |
 **She was astounded no one noticed her.** White skin, dressed in all black. Rash guard, board shorts, and a burn bag with a first aid kit, water shoes, and fins. Sweating from the anxiety, Kamaria knew that the trip she’d make in several hours could end in her throat being cut by smugglers, or police kidnapping her again. |
 [Read More](articles/opinion/Self-Governance_as_a_Human_Right.md) |

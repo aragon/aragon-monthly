@@ -6,9 +6,9 @@ ___
 
 Aragon Monthly is **created by the community, for the community**.
 
-**Anyone can contribute** by [creating](guides/guide_for_submitting_a_new_pull_request.md) or [requesting new content](guides/guide_for_submitting_a_new_issue.md) regarding **Decentralized Autonomous Organizations**, **governance** or about anything related to the **Aragon ecosystem**.
+**Anyone can contribute** by [creating](/guides/guide_for_submitting_a_new_pull_request.md) or [requesting new content](/guides/guide_for_submitting_a_new_issue.md) regarding **Decentralized Autonomous Organizations**, **governance** or about anything related to the **Aragon ecosystem**.
 
-For more information, see [**How does this work?**](info/index.md#how-does-this-work) and [**How can I contribute?**](info/index.md#how-can-i-contribute)
+For more information, see [**How does this work?**](/info/index.md#how-does-this-work) and [**How can I contribute?**](/info/index.md#how-can-i-contribute)
 ___
 ## [Recent News](news/index.md)
 
@@ -23,7 +23,7 @@ ___
 |[**SportsDAO**](https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52) | [**MachineLabs goes open source**](https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source) | [**DAICO Attack Vectors and Solutions**](https://medium.com/@akomba/daico-praise-and-critique-2c5bcee2acfe)
 :-----------:|:-----------:|:-----------:|
 |[DAOs](news/daos.md) | [DAOs](news/daos.md) | [DAOs](news/daos.md)
-| [<img src="https://cdn-images-1.medium.com/max/2000/1*_7m8im8h2WmfWYOGs0xSPA.jpeg">](https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52)| [<img src="https://blog.machinelabs.ai/images/ml-course-ad.png">](https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source)|  ![](../images/monthly_no_image.png)
+| [<img src="https://cdn-images-1.medium.com/max/2000/1*_7m8im8h2WmfWYOGs0xSPA.jpeg">](https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52)| [<img src="https://blog.machinelabs.ai/images/ml-course-ad.png">](https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source)|  ![](images/monthly_no_image.png)
 | _Author [Ryan Zurrer](https://medium.com/@rzurrer) on Mar 22_ | _Author [MachineLabs](https://twitter.com/machinelabs_ai) on Mar 21_ |  _Author [Andras Kristof](https://medium.com/@akomba) on Mar 12_
 | A self-governing, meritocratic, decentralized autonomous organization that leverages the wisdom of the crowd and cryptoeconomic incentives to improve the decisions of a sports franchise. | We started MachineLabs with the main goal to provide the community better tools to get started with Machine Learning. Everyone should be able to immediately start writing Machine Learning code without ever having to worry about setting up a complicated software stack themselves. |  Vitalik’s DAICO idea was badly needed. It’s really good to see the right message propagated from the top. If I were to describe blockchains in one word, it would be “blockchains make things more accountable”. If I were allowed only a single word, it would be “accountability”. The fact that ICOs don’t do everything they can to keep themselves accountable is a disgrace to the technology and community. So Vitalik highlighting the issue and proposing a solution is very important.
 | [Read More](https://medium.com/@rzurrer/sportsdao-a-self-governing-meritocratic-decentralized-autonomous-organization-that-leverages-2dffac175b52)|[Read More](https://blog.machinelabs.ai/2018/03/21/machinelabs-goes-open-source) | [Read More](https://medium.com/@akomba/daico-praise-and-critique-2c5bcee2acfe)
@@ -35,7 +35,7 @@ ___
 [<h2>Looking for interested contributors</h2>](https://github.com/aragon/aragon-monthly/labels/article) |
 :-----------|
 [_Editorial_](https://github.com/aragon/aragon-monthly/labels/article) |
-![](../images/monthly_no_image.png) |
+![](images/monthly_no_image.png) |
 _Author [You!](https://github.com/aragon/aragon-monthly/labels/article) on Feb 17_ |
 [**Want to write an article for Aragon Monthly?**](https://github.com/aragon/aragon-monthly/labels/article) |
 [Read More](https://github.com/aragon/aragon-monthly/labels/article) |

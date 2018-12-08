@@ -21,9 +21,9 @@ _Author [Epicenter](https://soundcloud.com/epicenterbitcoin) on May 24_ | _Autho
 [**Aragon Core v0.5.1 Post Mortem — Part 1**](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | | |
 :-----------:|:-----------:|:-----------:|
 [_Aragon_](aragon.md) | | |
-[<img src="https://cdn-images-1.medium.com/max/1000/1*-hd2CC4ZPZ6N5wmhH7YTZA.jpeg">](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | [<img src="../images/monthly_no_image.png">](../guides/guide_for_submitting_news.md) | [<img src="../images/monthly_no_image.png">](../guides/guide_for_submitting_news.md) |
+[<img src="https://cdn-images-1.medium.com/max/1000/1*-hd2CC4ZPZ6N5wmhH7YTZA.jpeg">](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | [<img src="../images/monthly_no_image.png">](/guides/guide_for_submitting_news.md) | [<img src="../images/monthly_no_image.png">](/guides/guide_for_submitting_news.md) |
 _Author [Chris Remus](https://blog.aragon.one/@cjremus) on Jun 19_ | | |
 **Summary of our first new development cycle** In Part I of II, Chris discusses the expectations of the current development cycle and the challenges of establishing a sustainable product development process. | | |
-[Read More](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | [Submit News!](../guides/guide_for_submitting_news.md) | [Submit News!](../guides/guide_for_submitting_news.md) |
+[Read More](https://blog.aragon.one/aragon-core-v0-5-1-post-mortem-part-1-85b0897b9157) | [Submit News!](/guides/guide_for_submitting_news.md) | [Submit News!](/guides/guide_for_submitting_news.md) |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

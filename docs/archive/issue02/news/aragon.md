@@ -33,4 +33,4 @@ _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Feb 26_ | _Author [J
 **Written reviews of what the team members have been up to.** Team members will produce a write-up of the most important things they have worked on since last Community Meeting, the problems they have found and what they plan to do in the next weeks (that can be a bit blurry, and that’s fine). These write-ups will be published as a blog post for the community to review on Monday before Friday’s meeting. | **Empowering unstoppable organizations through freedom of collaboration.** Understanding collaboration as the work of two or more people towards the achievement of a common goal, trade is one of the oldest forms of collaboration. The transfer of value between entities has for centuries motivated people to work together to fulfill a greater potential: the whole is greater than the sum of its parts. |  |
 [Read More](https://blog.aragon.one/aragon-team-update-february-2018-1a8bb4bea742) | [Read More](https://medium.com/@joselfgaray/the-aragon-mission-6cf972884769) |  |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)

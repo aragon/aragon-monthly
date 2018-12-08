@@ -47,6 +47,6 @@ _Author [Tatu Kärki](https://blog.aragon.one/@Smokyish) on Jan 24_ | _Author [J
 [<img src="images/decentraland_project_updates.jpeg">](https://blog.decentraland.org/decentraland-project-updates-january-31st-a99258b90642) | | |
 _Author [Eric Schallock](https://blog.decentraland.org/@schallock) on Feb 1_ | | |
 **News and updates from the Decentraland project.** _We’ve launched our developer CLI!_ We recently released our first development tool. _LAND Deployment._ Now that the Terraform Event has concluded, we’ve completed the process of distributing all LAND to auction participants. _New Docs._ Finally, we’d like to share with you some new documentation for Decentraland. | | |
-[Read More](https://blog.decentraland.org/decentraland-project-updates-january-31st-a99258b90642) | [Submit News!](../guides/guide_for_submitting_news.md) | [Submit News!](../guides/guide_for_submitting_news.md) |
+[Read More](https://blog.decentraland.org/decentraland-project-updates-january-31st-a99258b90642) | [Submit News!](/guides/guide_for_submitting_news.md) | [Submit News!](/guides/guide_for_submitting_news.md) |
 
-## [Submit News!](../guides/guide_for_submitting_news.md)
+## [Submit News!](/guides/guide_for_submitting_news.md)
