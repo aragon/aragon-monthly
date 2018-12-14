@@ -12,21 +12,13 @@ ___
 
 ## [Recent News](news/index.md)
 
-[**Title**](URI_to_news) | [**Title**](URI_to_news) | [**Title**](URI_to_news) |
-:-----------:|:-----------:|:-----------:|
-[_Tag_](tag.md) | [_Tag_](tag.md) | [_Tag_](tag.md) |
-[<img src="../../images/image_name.png">](URI_to_news) | [<img src="../../images/image_name.png">](URI_to_news) | [<img src="../../images/image_name.png">](URI_to_news) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ | _Author [Author Name](URI_to_author_profile) on Month Date#_  | _Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) | [Read More](URI_to_news) | [Read More](URI_to_news) |
-
-[**Title**](URI_to_news) | [**Title**](URI_to_news) | [**Title**](URI_to_news) |
-:-----------:|:-----------:|:-----------:|
-[_Tag_](tag.md) | [_Tag_](tag.md) | [_Tag_](tag.md) |
-[<img src="../../images/image_name.png">](URI_to_news) | [<img src="../../images/image_name.png">](URI_to_news) | [<img src="../../images/image_name.png">](URI_to_news) |
-_Author [Author Name](URI_to_author_profile) on Month Date#_ | _Author [Author Name](URI_to_author_profile) on Month Date#_  | _Author [Author Name](URI_to_author_profile) on Month Date#_ |
-**Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. | **Subtitle** Description of the content in the news. |
-[Read More](URI_to_news) | [Read More](URI_to_news) | [Read More](URI_to_news) |
+| [**Welcoming Stefano**](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/)| [**Final results from the AGP-1 vote**](https://blog.aragon.org/final-results-from-the-agp-1-vote/)| [**When to decentralize decision-making**](https://hbr.org/2017/12/when-to-decentralize-decision-making-and-when-not-to)
+:-----------:|:-----------:|:-----------:|  
+|[_Aragon_](aragon.md) | [_Aragon_](aragon.md) | [_Governance_](aragon.md)
+| [<img src="https://blog.aragon.org/content/images/2018/11/header_stefano.jpg">](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/) | [<img src="https://blog.aragon.org/content/images/2018/11/header_agp1_results_small.png">](https://blog.aragon.org/final-results-from-the-agp-1-vote/) |  [<img src="https://hbr.org/resources/images/article_assets/2017/12/dec17-25-Artrise-istock-1200x675.png">](https://hbr.org/2017/12/when-to-decentralize-decision-making-and-when-not-to) 
+| _Author [Luis Cuende](https://blog.aragon.org/author/luis/) on Nov 28_ | _Author [John Light](https://blog.aragon.one/author/jorge/) on Nov 23_  |  _Author [Herman Vantrappen](https://hbr.org/search?term=herman%20vantrappen)_ 
+| **A new cycle for the Aragon Association with Stefano Bernardi as its Executive Director.** This is the first time in history that a project decentralizes itself. Aragon needs the utmost care in this very important moment of its infancy. |After one month of preparation, starting with a public review and comment period and ending with a final approval by the Aragon Association Board of Directors, Aragon Network Token holders were given an opportunity to approve or reject AGP-1, the Aragon Governance Proposal process, on November 15, 2018 in a vote that lasted for 48 hours. | Rare is the business executive who doubts the importance of responsiveness: to be acutely alert to business opportunities and threats, and to be capable of grabbing the opportunity or fending off the threat fast and effectively.
+| [Read More](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/)| [Read More](https://blog.aragon.org/final-results-from-the-agp-1-vote/) |  [Read More](https://hbr.org/2017/12/when-to-decentralize-decision-making-and-when-not-to)
 
 ###### [Browse More News](news/index.md)
 
