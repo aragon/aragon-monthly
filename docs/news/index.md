@@ -83,13 +83,13 @@ _Author [Jose Garay](https://medium.com/@joselfgaray?source=post_header_lockup) 
 | **A new cycle for the Aragon Association with Stefano Bernardi as its Executive Director.** This is the first time in history that a project decentralizes itself. Aragon needs the utmost care in this very important moment of its infancy. | Voting is at the core of what we do at Aragon. Even though there have been ample critiques to on-chain voting, it is still the most effective way for a group of diverse people to make collective decisions in a way that the decisions are legitimate and represent everyone's best interests. | Rare is the business executive who doubts the importance of responsiveness: to be acutely alert to business opportunities and threats, and to be capable of grabbing the opportunity or fending off the threat fast and effectively.
 | [Read More](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/)| [Read More](https://blog.aragon.one/aragon-voting-part-1-ethereum-storage-time-machine/) |  [Read More](https://hbr.org/2017/12/when-to-decentralize-decision-making-and-when-not-to)
 
-| [**When Ostrom Meets Blockchain**](https://www.academia.edu/37643040/When_Ostrom_Meets_Blockchain_Exploring_the_Potentials_of_Blockchain_for_Commons_Governance_preprint)| | |
+| [**When Ostrom Meets Blockchain**](https://www.academia.edu/37643040/When_Ostrom_Meets_Blockchain_Exploring_the_Potentials_of_Blockchain_for_Commons_Governance_preprint)|[**Announcing the Full Agenda for AraCon**](https://blog.aragon.org/announcing-the-full-agenda-for-aracon/) | |
 :-----------:|:-----------:|:-----------:|  
-|[_Governance_](governance.md) | | |
-| ![](https://www.academia.edu/37643040/When_Ostrom_Meets_Blockchain_Exploring_the_Potentials_of_Blockchain_for_Commons_Governance_preprint) |  |  |
-| _Author [David Rozas](https://ucm.academia.edu/drozas)_ |   |  |
-| Exploring the Potentials of Blockchain for Commons Governance |  |  |
-| [Read More](https://www.academia.edu/37643040/When_Ostrom_Meets_Blockchain_Exploring_the_Potentials_of_Blockchain_for_Commons_Governance_preprint)| |  |
+|[_Governance_](governance.md) | [_Aragon_](aragon.md)| |
+| ![](https://www.academia.edu/37643040/When_Ostrom_Meets_Blockchain_Exploring_the_Potentials_of_Blockchain_for_Commons_Governance_preprint) | [<img src="https://blog.aragon.org/content/images/2018/12/header_aracon_agenda.jpg">](https://blog.aragon.org/announcing-the-full-agenda-for-aracon/) |  |
+| _Author [David Rozas](https://ucm.academia.edu/drozas)_ | _Author [Luis Cuende](https://blog.aragon.org/author/luis/) on Dec 18_ |  |
+| Exploring the Potentials of Blockchain for Commons Governance | We're pleased to announce the full agenda for the first AraCon, happening in Berlin on January 29-30, 2019. |  |
+| [Read More](https://www.academia.edu/37643040/When_Ostrom_Meets_Blockchain_Exploring_the_Potentials_of_Blockchain_for_Commons_Governance_preprint)| [Read More](https://blog.aragon.org/announcing-the-full-agenda-for-aracon/) |  |
 
 
 
