@@ -37,19 +37,19 @@ _Author [You!](https://monthly.aragon.org/guides/guide_for_submitting_articles/ 
 ___
 ## [Recent Classifieds](classifieds/index.md)
 
-[<h2>Title</h2>](URI) |
+[<h2>**Technical Writer for the Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-Technical_Writer/) |
 :-----------|
-Description |
-[Learn More](URI) |
+Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for Technical Writers to build out the documentation repository for supporting the user base**. |
+[Learn More](https://wiki.aragon.one/jobs/openings/DAC-Technical_Writer/) |
 
-[<h2>Title</h2>](URI) |
+[<h2>**UX Designer for Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-UX_Designer/) |
 :-----------|
-Description |
-[Learn More](URI) |
+Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for an experienced UX Designer to lead the creation of revolutionary governance modules**. The first task will be to research TCR's in order to design applications using reusable components from the Aragon UI toolset given the already designed contracts. The second task will be to redesign the Giveth DApp integrating the lessons we have learned from the Giveth Beta keeping in mind it must be easy to build using Aragon Apps. As in, what Aragon apps need to be built to so that the Giveth DApp can run natively off of Aragon, and what should these Apps look like. |
+[Learn More](https://wiki.aragon.one/jobs/openings/DAC-UX_Designer/) |
 
-[<h2>Title</h2>](URI) |
+[<h2>**Project Manager for the Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-Project_Manager/) |
 :-----------|
-Description |
-[Learn More](URI) |
+Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for a Project Manager to lead this effort and ensure our team is successful**. The first concrete project to manage will be making the Aragon DAC Website using upwork web devs or equivalent. |
+[Learn More](https://wiki.aragon.one/jobs/openings/DAC-Project_Manager/) |
 
 ###### [Browse More Classifieds](classifieds/index.md)
