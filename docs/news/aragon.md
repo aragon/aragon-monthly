@@ -36,5 +36,13 @@ _Author [Luis Cuende](https://blog.aragon.org/author/luis/) on Nov 28_  |
 | **A refinement to our smart contract framework** Enhanced capabilities, reviewed by two independent audits, and depended upon by more than 100 DAOs on the Ethereum Mainnet.| **A new cycle for the Aragon Association with Stefano Bernardi as its Executive Director.** This is the first time in history that a project decentralizes itself. Aragon needs the utmost care in this very important moment of its infancy. | Voting is at the core of what we do at Aragon. Even though there have been ample critiques to on-chain voting, it is still the most effective way for a group of diverse people to make collective decisions in a way that the decisions are legitimate and represent everyone's best interests. |
 |  [Read More](https://blog.aragon.org/releasing-aragonos-4/)| [Read More](https://blog.aragon.org/welcoming-stefano-to-the-aragon-association/)| [Read More](https://blog.aragon.one/aragon-voting-part-1-ethereum-storage-time-machine/) | 
 
+|[**Announcing the Full Agenda for AraCon**](https://blog.aragon.org/announcing-the-full-agenda-for-aracon/) | | |
+:-----------:|:-----------:|:-----------:|  
+| [_Aragon_](aragon.md)| | |
+| [<img src="https://blog.aragon.org/content/images/2018/12/header_aracon_agenda.jpg">](https://blog.aragon.org/announcing-the-full-agenda-for-aracon/) |  | |
+| _Author [Luis Cuende](https://blog.aragon.org/author/luis/) on Dec 18_ |  | |
+| We're pleased to announce the full agenda for the first AraCon, happening in Berlin on January 29-30, 2019. |  | |
+| [Read More](https://blog.aragon.org/announcing-the-full-agenda-for-aracon/) |  | |
+
 
 ## [Submit News!](../guides/guide_for_submitting_news.md)
