@@ -1,5 +1,15 @@
 # News / Governance
 
+## **Featured**
+
+[<h2>Aragon Governance Proposal Vote #1, the Final Hours</h2>](https://blog.aragon.org/agp-vote-1/) |
+:-----------|
+[_Governance_](governance.md) |
+[<img src="https://blog.aragon.org/content/images/2019/01/vote_agp.png">](https://blog.aragon.org/agp-vote-1/) |
+_Author [John Light](https://blog.aragon.org/author/light/) on Jan 23_ |
+**Aragon Governance Proposal (AGP) Vote #1**, the first vote held under the recently ratified Aragon Governance Proposal Process, began on January 24, 2019 at 00:00 UTC, leaving you a few hours to vote at the time of publishing. |
+[Read More](https://blog.aragon.org/agp-vote-1/) |
+
 [**Blockchains Are Not Companies**](https://medium.com/@decanus/blockchains-are-not-companies-9f8ed7c13018) | [**Blockchain Ownership**](https://blog.goodaudience.com/blockchain-ownership-e46a5cc7d921) |
 :-----------:|:-----------:|
 [_Governance_](governance.md) | [_Governance_](governance.md) |
@@ -21,7 +31,7 @@ _Author [Rocco](https://medium.com/alpineintel) on Dec 05_ | _Author [Greatertha
 [**How Open is Too Open?**](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) | [**Resources for Decentralised Organising**](https://hackmd.io/s/Skh_dXNbE#) | [**Governance of Blockchain Ecosystems**](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa) |
 :-----------:|:-----------:|:-----------:|
 [_Governance_](governance.md) | [_Governance_](governance.md) | [_Governance_](governance.md) |
-[<img src="https://cdn-images-1.medium.com/max/800/1*RNRpqxKufsuuNLEBFRucnQ.jpeg">](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) | [<img src="../../images/monthly_no_image.png">]() | [<img src="https://cdn-images-1.medium.com/max/2560/1*SexDexx6tt3PFFKVjgn_qQ.png">](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa) |
+[<img src="https://cdn-images-1.medium.com/max/800/1*RNRpqxKufsuuNLEBFRucnQ.jpeg">](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) | [<img src="../../images/monthly_no_image.png">](https://hackmd.io/s/Skh_dXNbE#) | [<img src="https://cdn-images-1.medium.com/max/2560/1*SexDexx6tt3PFFKVjgn_qQ.png">](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa) |
 _Author [Lane Rettig](https://medium.com/@lrettig) on Dec 30_ | _Author [Richard D. Bartlett](http://richdecibels.com) on Jan 10_ | _Author [MintBit](https://blog.goodaudience.com/@mintbit) on Jan 16_ |
 **On transparency, governance, and the challenge of keeping Ethereum alive.** A political storm is brewing in Ethereum over the question of transparency. How are decisions about the protocol made? Who is responsible for those decisions? What obligation do those decision makers have to be transparent about the processes that go into that decision making, and how much of that process needs to be transparent? | **Resources for decentralised organising.** I recently asked on Twitter and on a mailing list for examples of decentralised organisations that have a public, transparent, well-documented handbook that explains how they work (e.g. decision making, roles, communications tools, etc). The response was overwhelming so I’ve digested it into this page. | **When is decentralised Governance feasible? When is it inevitable?** Invisible rules govern our everyday lives. You don’t walk on the road because the consequences (being run over by a car) don’t outweigh the benefits (more room for pedestrians). ‘Bad’ behaviour is disincentivised (fines, horrible death), even as compliant ‘good’ behaviour might be moderately annoying (trailing people competing for slowest walking pace). |
 [Read More](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) | [Read More](https://hackmd.io/s/Skh_dXNbE#) | [Read More](https://blog.goodaudience.com/governance-of-blockchain-ecosystems-1-2-54f1f55208fa) |

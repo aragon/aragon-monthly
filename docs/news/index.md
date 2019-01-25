@@ -1,5 +1,15 @@
 # News
 
+## **Featured**
+
+[<h2>Aragon Governance Proposal Vote #1, the Final Hours</h2>](https://blog.aragon.org/agp-vote-1/) |
+:-----------|
+[_Governance_](governance.md) |
+[<img src="https://blog.aragon.org/content/images/2019/01/vote_agp.png">](https://blog.aragon.org/agp-vote-1/) |
+_Author [John Light](https://blog.aragon.org/author/light/) on Jan 23_ |
+**Aragon Governance Proposal (AGP) Vote #1**, the first vote held under the recently ratified Aragon Governance Proposal Process, began on January 24, 2019 at 00:00 UTC, leaving you a few hours to vote at the time of publishing. |
+[Read More](https://blog.aragon.org/agp-vote-1/) |
+
 [**An Operational Framework for DAOs**](http://startupmanagement.org/2015/02/04/an-operational-framework-for-decentralized-autonomous-organizations/) | [**Blockchains Are Not Companies**](https://medium.com/@decanus/blockchains-are-not-companies-9f8ed7c13018) | [**A Fully Compliant Global DAO**](https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad) |
 :-----------:|:-----------:|:-----------:|
 [_DAOs_](daos.md) | [_Governance_](governance.md) | [_DAOs_](daos.md)
@@ -30,7 +40,7 @@ _Author [Greaterthan](https://www.greaterthan.works) on Dec 21_ | _Author [Willi
 [**DAO & The Future of Content**](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [**Resources for Decentralised Organising**](https://hackmd.io/s/Skh_dXNbE#) | [**Aragon Wants You!**](https://www.ethnews.com/aragon-wants-you-to-help-decentralize-its-governance-process) |
 :-----------:|:-----------:|:-----------:|
 [_DAOs_](daos.md) | [_Governance_](governance.md) | [_Aragon_](aragon.md) |
-[<img src="../../images/monthly_no_image.png">]() | [<img src="../../images/monthly_no_image.png">]() | [<img src="https://cdn.ethnews.com/images/2048x1024/Aragon-Wants-You-To-Help-Decentralize-Its-Governance-Process-12-27-2018-2048x1024.jpg">](https://www.ethnews.com/aragon-wants-you-to-help-decentralize-its-governance-process) |
+[<img src="../../images/monthly_no_image.png">](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [<img src="../../images/monthly_no_image.png">](https://hackmd.io/s/Skh_dXNbE#) | [<img src="https://cdn.ethnews.com/images/2048x1024/Aragon-Wants-You-To-Help-Decentralize-Its-Governance-Process-12-27-2018-2048x1024.jpg">](https://www.ethnews.com/aragon-wants-you-to-help-decentralize-its-governance-process) |
 _Author [Alexandre Rouxel](https://medium.com/@alex_71247) on Jan 09_ | _Author [Richard D. Bartlett](http://richdecibels.com) on Jan 10_ | _Author [Alison Berreman](https://www.ethnews.com/author/alison-berreman) on Jan 10_ |
 **Thinking about contents as DAOs.** The DAO landscape is going through a cambrian-explosion era. Most of the time, we think of DAOs as organizations such as companies, associations, cooperatives but less frequently as contents such as video-games, books, software or songs. | **Resources for decentralised organising.** I recently asked on Twitter and on a mailing list for examples of decentralised organisations that have a public, transparent, well-documented handbook that explains how they work (e.g. decision making, roles, communications tools, etc). The response was overwhelming so I’ve digested it into this page. | **Aragon Wants You! (To Help Decentralize Its Governance Process)** Aragon wants to offer a neutral, decentralized digital jurisdiction for DAOs. As it stands, it appears plenty of folks are hungry to build organizations on Aragon’s stack, but there is less interest in participating in the governance of the network. If decentralization is to be achieved, that needs to change. |
 [Read More](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [Read More](https://hackmd.io/s/Skh_dXNbE#) | [Read More](https://www.ethnews.com/aragon-wants-you-to-help-decentralize-its-governance-process) |
