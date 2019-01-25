@@ -12,7 +12,7 @@ _Author [William Mougayar](http://startupmanagement.org/author/wmougayar/) on Fe
 [**DAOdigest #1**](https://blog.colony.io/daodigest-1/) | [**DAO & The Future of Content**](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) |
 :-----------:|:-----------:|
 [_DAOs_](daos.md) | [_DAOs_](daos.md) |
-[<img src="https://blog.colony.io/content/images/2018/12/DAOdigest_4Dec.png">](https://blog.colony.io/daodigest-1/) | [<img src="../../images/monthly_no_image.png">]() |
+[<img src="https://blog.colony.io/content/images/2018/12/DAOdigest_4Dec.png">](https://blog.colony.io/daodigest-1/) | [<img src="../../images/monthly_no_image.png">](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) |
 _Author [Jack Laing](https://blog.colony.io/author/jack-laing/) on Dec 04_ | _Author [Alexandre Rouxel](https://medium.com/@alex_71247) on Jan 09_ |
 **Our favorite stories covering the future of work and decentralized governance.** Uber grapples with employment rights. Holacracies approach a union with DAOs. A collective corporation sets an example. And IBM’s Red Hat acquisition hints at something bigger. | **Thinking about contents as DAOs.** The DAO landscape is going through a cambrian-explosion era. Most of the time, we think of DAOs as organizations such as companies, associations, cooperatives but less frequently as contents such as video-games, books, software or songs. |
 [**Read More**](https://blog.colony.io/daodigest-1/) | [**Read More**](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) |

@@ -1,7 +1,8 @@
 
 # Aragon Monthly
 #### The Community Curated Digital Newspaper about DAOs, Governance and the Aragon Ecosystem
-#### Issue 12, January 22, 2019
+
+#### Issue 12, January 25, 2019
 ___
 
 Aragon Monthly is **created by the Community, for the Community**.
@@ -22,8 +23,9 @@ _Author [MintBit](https://blog.goodaudience.com/@mintbit) on Jan 16_ | _Authors 
 
 [**Resources for Decentralised Organising**](https://hackmd.io/s/Skh_dXNbE#) | [**DAO & The Future of Content**](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [**How Open is Too Open?**](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) |
 :-----------:|:-----------:|:-----------:|
-[_Governance_](governance.md) | [_DAOs_](daos.md) | [_Governance_](governance.md) |
-[<img src="../../images/monthly_no_image.png">]() | [<img src="../../images/monthly_no_image.png">]() | [<img src="https://cdn-images-1.medium.com/max/800/1*RNRpqxKufsuuNLEBFRucnQ.jpeg">](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) |
+
+[_Governance_](news/governance.md) | [_DAOs_](news/daos.md) | [_Governance_](news/governance.md) |
+[<img src="../../images/monthly_no_image.png">](https://hackmd.io/s/Skh_dXNbE#) | [<img src="../../images/monthly_no_image.png">](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [<img src="https://cdn-images-1.medium.com/max/800/1*RNRpqxKufsuuNLEBFRucnQ.jpeg">](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) |
 _Author [Richard D. Bartlett](http://richdecibels.com) on Jan 10_ | _Author [Alexandre Rouxel](https://medium.com/@alex_71247) on Jan 09_ | _Author [Lane Rettig](https://medium.com/@lrettig) on Dec 30_ |
 **Resources for decentralised organising.** I recently asked on Twitter and on a mailing list for examples of decentralised organisations that have a public, transparent, well-documented handbook that explains how they work (e.g. decision making, roles, communications tools, etc). The response was overwhelming so I’ve digested it into this page. | **Thinking about contents as DAOs.** The DAO landscape is going through a cambrian-explosion era. Most of the time, we think of DAOs as organizations such as companies, associations, cooperatives but less frequently as contents such as video-games, books, software or songs. | **On transparency, governance, and the challenge of keeping Ethereum alive.** A political storm is brewing in Ethereum over the question of transparency. How are decisions about the protocol made? Who is responsible for those decisions? What obligation do those decision makers have to be transparent about the processes that go into that decision making, and how much of that process needs to be transparent? |
 [Read More](https://hackmd.io/s/Skh_dXNbE#) | [Read More](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [Read More](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) |
