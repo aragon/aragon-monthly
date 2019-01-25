@@ -24,10 +24,7 @@ The advent of ICO and its misuse by scammers and teams gave rise to various dece
 ![](images/daico.png)
 
 Based on Vitalik’s idea;
-> A DAICO contract is published by a single development team that wishes to raise funds for a project. The DAICO contract starts off in > “contribution mode”, specifying a mechanism by which anyone can contribute ETH to the contract and get tokens in exchange. This could > be a capped sale, an uncapped sale, a dutch auction, an interactive coin offering, a KYC’d sale with dynamic per-person caps or 
-> whatever other mechanisms the team chooses. Once the contribution period ends, the ability to contribute ETH stops and the initial
-> token balances are set; from there on the tokens can become tradeable. After contribution period, the contract has one major state variable: tap(units: Wei/sec), initializes to zero. 
-> The tap determines the amount per second that the development team can take out of the contract.
+> A DAICO contract is published by a single development team that wishes to raise funds for a project. The DAICO contract starts off in “contribution mode”, specifying a mechanism by which anyone can contribute ETH to the contract and get tokens in exchange. This could be a capped sale, an uncapped sale, a dutch auction, an interactive coin offering, a KYC’d sale with dynamic per-person caps or whatever other mechanisms the team chooses. Once the contribution period ends, the ability to contribute ETH stops and the initial token balances are set; from there on the tokens can become tradeable. After contribution period, the contract has one major state variable: tap(units: Wei/sec), initializes to zero. The tap determines the amount per second that the development team can take out of the contract.
 
 With this structure, teams can withdraw ether from the Smart Contract that holds the funds raised from crowdsales. If the project fails to meet targets or obligations, contributors can vote to withdraw the remaining funds. So far, some teams are adopting this structure like [Abyss team](https://www.coindesk.com/vitalik-new-idea-icos-tested?amp) but with some little structural change and improvement. 
 
