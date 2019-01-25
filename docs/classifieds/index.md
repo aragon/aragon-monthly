@@ -1,16 +1,6 @@
 # Classifieds
 > Classifieds or Classified advertising is free of charge in the newspaper. Keep them short and to the point.
 
-[<h2>**Technical Writer for the Aragon DAC**</h2>](https://wiki.aragon.one/jobs/openings/DAC-Technical_Writer/) |
-:-----------|
-Aragon is an open source, decentralized, project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems. As part of the ongoing efforts to build out the Aragon infrastructure, the Aragon Foundation is collaborating with Giveth to build out a second core team that will help end-users experiment with the Aragon stack. **We're looking for Technical Writers to build out the documentation repository for supporting the user base**. |
-[Learn More](https://wiki.aragon.one/jobs/openings/DAC-Technical_Writer/) |
-
-[<h2>**Web3 Developer Opening at Aragon**</h2>](http://wiki.aragon.one/jobs/openings/web3/) |
-:-----------|
-Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world’s worst problems. **We’re looking for a Web3 Developer to help us bridge smart contracts to a frontend**. Internally, we call this position "Glue". Our Web3 Developer is ideally not only a Javascript expert but also a decentralization evangelist—someone who enjoys researching and testing new Web3 technologies. |
-[Learn More](http://wiki.aragon.one/jobs/openings/web3/) |
-
 [<h2>**Developer Relations opening at Aragon**</h2>](https://wiki.aragon.one/jobs/openings/dev_rel/) |
 :-----------|
 Aragon is an open source, decentralized project fighting for the freedom to organize. We believe that decentralized organizations can solve the world's worst problems.**We're looking for a Developer Relations to help third party developers create apps on top of the Aragon dapp and aragonOS**. Our Dev Rels must be someone passionate in helping others understand technical subjects through technical writing, networking and educating people. That means that our ideal Dev Rels is not only a legit developer but also an Aragon Technical Evangelist. |
