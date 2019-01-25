@@ -23,7 +23,6 @@ _Author [MintBit](https://blog.goodaudience.com/@mintbit) on Jan 16_ | _Authors 
 
 [**Resources for Decentralised Organising**](https://hackmd.io/s/Skh_dXNbE#) | [**DAO & The Future of Content**](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [**How Open is Too Open?**](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) |
 :-----------:|:-----------:|:-----------:|
-
 [_Governance_](news/governance.md) | [_DAOs_](news/daos.md) | [_Governance_](news/governance.md) |
 [<img src="../../images/monthly_no_image.png">](https://hackmd.io/s/Skh_dXNbE#) | [<img src="../../images/monthly_no_image.png">](https://medium.com/pando-network/dao-the-future-of-content-fd9349d94b24) | [<img src="https://cdn-images-1.medium.com/max/800/1*RNRpqxKufsuuNLEBFRucnQ.jpeg">](https://medium.com/@lrettig/how-open-is-too-open-bfc412cf0d24) |
 _Author [Richard D. Bartlett](http://richdecibels.com) on Jan 10_ | _Author [Alexandre Rouxel](https://medium.com/@alex_71247) on Jan 09_ | _Author [Lane Rettig](https://medium.com/@lrettig) on Dec 30_ |

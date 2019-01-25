@@ -2,9 +2,9 @@
 ## [Editors](editors.md)
 > Editors are people who regularly provide content to the publication and make sure that the content is always high quality. They write articles, review Pull Requests, and are generally active in the creation of this publication.
 
-- Editor - [@dxiri](https://github.com/dxiri)
+- Editor - [@johnlenin00](https://github.com/johnlenin00)
 
-> Huge thanks to [@dxiri](https://github.com/dxiri) for filling the [_Editor: Compile Issue 11 of Aragon Monthly_](https://github.com/aragon/aragon-monthly/issues/292) bounty and doing a major contribution to get this Issue out!
+Huge thanks to [@johnlenin00](https://github.com/johnlenin00) for filling the [_Editor: Compile Issue 12 of Aragon Monthly_](https://github.com/aragon/aragon-monthly/issues/311) bounty and doing a major contribution to get this Issue out!
 ___
 > The Editor-in-chief is the publication's editorial leader who has final responsibility for its operations and policies.
 

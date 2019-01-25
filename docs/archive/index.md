@@ -2,6 +2,9 @@
 
 ## **Collection of past Issues**
 
+[**Issue 11**](issue11/index.md)  
+January 3rd 2019
+
 [**Issue 10**](issue10/index.md)  
 November 30th 2018
 
