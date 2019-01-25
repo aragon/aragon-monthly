@@ -10,6 +10,7 @@ _Author [John Light](https://blog.aragon.org/author/light/) on Jan 23_ |
 **Aragon Governance Proposal (AGP) Vote #1**, the first vote held under the recently ratified Aragon Governance Proposal Process, began on January 24, 2019 at 00:00 UTC, leaving you a few hours to vote at the time of publishing. |
 [Read More](https://blog.aragon.org/agp-vote-1/) |
 
+
 [**An Operational Framework for DAOs**](http://startupmanagement.org/2015/02/04/an-operational-framework-for-decentralized-autonomous-organizations/) | [**Blockchains Are Not Companies**](https://medium.com/@decanus/blockchains-are-not-companies-9f8ed7c13018) | [**A Fully Compliant Global DAO**](https://medium.com/konkrete/a-fully-compliant-global-dao-cffd80ab3fad) |
 :-----------:|:-----------:|:-----------:|
 [_DAOs_](daos.md) | [_Governance_](governance.md) | [_DAOs_](daos.md)

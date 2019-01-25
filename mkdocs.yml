@@ -249,3 +249,20 @@ pages:
             - Reviewers: 'archive/issue10/contributors/reviewers.md'
             - Contributors: 'archive/issue10/contributors/contributors.md'
             - Columnists: 'archive/issue10/contributors/columnists.md'
+    - Issue 11:
+          - Front Page: 'archive/issue11/index.md'
+          - News:
+            - Home: 'archive/issue11/news/index.md'
+            - DAOs: 'archive/issue11/news/daos.md'
+            - Aragon: 'archive/issue11/news/aragon.md'
+            - Governance: 'archive/issue11/news/governance.md'
+          - Articles:
+              - Home: 'archive/issue11/articles/index.md'
+          - Classifieds:
+            - Home: 'archive/issue11/classifieds/index.md'
+          - Contributors:
+            - Home: 'archive/issue11/contributors/index.md'
+            - Editors: 'archive/issue11/contributors/editors.md'
+            - Reviewers: 'archive/issue11/contributors/reviewers.md'
+            - Contributors: 'archive/issue11/contributors/contributors.md'
+            - Columnists: 'archive/issue11/contributors/columnists.md'

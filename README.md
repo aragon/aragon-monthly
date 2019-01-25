@@ -38,8 +38,8 @@ There's news happening all the time and we're looking to have all the interestin
 
 - [Submit a Pull Request](https://github.com/aragon/aragon-monthly/pulls) with the News content and wait for it to be reviewed and merged
     - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls) follows
-        - [Guide for submitting a new Pull Request](../guides/guide_for_submitting_a_new_pull_request.md)
-        - [Guide for submitting News](../guides/guide_for_submitting_news.md)
+        - [Guide for submitting a new Pull Request](docs/guides/guide_for_submitting_a_new_pull_request.md)
+        - [Guide for submitting News](docs/guides/guide_for_submitting_news.md)
   ___
 
 **Articles**
@@ -49,21 +49,21 @@ There's news happening all the time and we're looking to have all the interestin
     - [Submit a Pull Request](https://github.com/aragon/aragon-monthly/pulls) to close the Issue and wait for it to be reviewed and merged!
         - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls)
             - Fills the requested [Issue](https://github.com/aragon/aragon-monthly/issues) and follows
-                - [Guide for submitting a new Pull Request](../guides/guide_for_submitting_a_new_pull_request.md)
-                - [Guide for submitting Articles](../guides/guide_for_submitting_articles.md)
+                - [Guide for submitting a new Pull Request](docs/guides/guide_for_submitting_a_new_pull_request.md)
+                - [Guide for submitting Articles](docs/guides/guide_for_submitting_articles.md)
 ___
 - If you want to contribute **fresh, original, new content for the newspaper**
     - Open a [new Issue](https://github.com/aragon/aragon-monthly/issues/new) describing the kind of content you wish to contribute
     - Create the content
     - [Submit a Pull Request](https://github.com/aragon/aragon-monthly/pulls) to close the Issue you opened and wait for it to be reviewed and merged!
         - Make sure your [Pull Request](https://github.com/aragon/aragon-monthly/pulls) follows
-            - [Guide for submitting a new Pull Request](../guides/guide_for_submitting_a_new_pull_request.md)
-            - [Guide for submitting Articles](../guides/guide_for_submitting_articles.md)
+            - [Guide for submitting a new Pull Request](docs/guides/guide_for_submitting_a_new_pull_request.md)
+            - [Guide for submitting Articles](docs/guides/guide_for_submitting_articles.md)
   ___
 ### 2) By requesting new content!
 If you have a topic that you would like to read about, create a [New Issue](https://github.com/aragon/aragon-monthly/issues/new) with a descriptive Title and a clear description of the type of content you would want to see in Aragon Monthly.
 
-Be sure to include all the details in the new issue as described in the [Guide for submitting a new Issue](../guides/guide_for_submitting_a_new_issue.md)
+Be sure to include all the details in the new issue as described in the [Guide for submitting a new Issue](docs/guides/guide_for_submitting_a_new_issue.md)
 ___
 
 ## Staff Contributors
