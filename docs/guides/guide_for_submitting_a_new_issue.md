@@ -32,3 +32,5 @@ ___
 - [x] I would like to have a bounty on this Issue that I will fund myself
 
 > Add this if you wish to fund a bounty for the Issue yourself
+
+**If you are ready to submit, submit your new issue right [here]**(https://github.com/aragon/aragon-monthly/issues/new)
